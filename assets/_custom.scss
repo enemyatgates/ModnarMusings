@@ -1,0 +1,70 @@
+// assets/_custom.scss
+// Hugo Book: custom styles override
+// Global justification for main content, hyphenation, measure limit
+
+/* Content containers */
+main, article, .book-page, .book-content, .book-body, .markdown, .entry-content, .post, .page, section {
+  text-align: justify;
+  /* text-justify: inter-word;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto; */
+}
+
+/* Paragraphs and lists */
+p, li, dd {
+  text-align: justify;
+  /* text-justify: inter-word;
+  hyphens: auto;
+  line-height: 1.55;
+  margin-top: 0.85em;
+  margin-bottom: 0.85em; */
+  orphans: 2;
+  widows: 2;
+}
+
+/* Limit line measure so justified text doesn't create rivers */
+.book-content, .article-content, .entry-content {
+  /* max-width: 65ch; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Keep headings, code, small UI left-aligned */
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
+}
+
+/* Keep headings, code, small UI left-aligned */
+caption, figcaption, blockquote, pre, code, kbd, samp, .nav, .sidebar, .site-title, .site-description, .toc, .breadcrumbs, .btn {
+  text-align: left;
+}
+
+/* Prevent wrapping/justification inside code blocks */
+pre, code, tt {
+  white-space: pre;
+  text-align: left;
+  overflow-x: auto;
+}
+
+/* Tables: left-aligned cells */
+table th, table td {
+  text-align: left;
+  word-break: break-word;
+}
+
+/* Responsive — disable justification on narrow screens for readability */
+@media (max-width: 720px) {
+  main, article, .book-content, .markdown, .entry-content {
+    text-align: left;
+    max-width: 100%;
+  }
+}
+
+/* Print */
+@media print {
+  body {
+    text-align: justify;
+    hyphens: auto;
+  }
+}

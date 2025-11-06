@@ -1,0 +1,23 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Vikas Chandra Thorian — Portfolio"
+theme = "hugo-book"
+
+[params]
+  BookLogo = "images/logo.png"
+
+[menu]
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Writings"
+    url = "/writings/"
+    weight = 30

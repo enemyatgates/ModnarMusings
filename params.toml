@@ -1,0 +1,71 @@
+# config/_default/params.toml
+# Drop this into your Hugo site (config/_default/params.toml or /params.toml).
+# Edit the social URLs, email and image paths to match your repo.
+
+# Site identity
+title = "Vikas Chandra Thorian"
+subtitle = "Thought & Transformation — I build frameworks, not followers"
+tagline = "I design ideas that endure; ventures and people that actually last."
+description = "Strategist • Technologist • Writer. I build frameworks, not followers. Pain is tuition, discipline is devotion."
+
+# Author
+[author]
+  name = "Vikas Chandra Thorian"
+  displayName = "Vikas / Kabootar Modnar / Xander / Nyxara"
+  email = "hello@vikasthorian.com" # replace with real address
+  location = "Bengaluru, India"
+
+# Hero / Homepage
+[hero]
+  enable = true
+  image = "images/hero/black-rose.jpg"  # replace path if needed (no leading slash for PaperMod)
+  image_alt = "Black rose: Project Black Rose"
+  title = "Thought & Transformation"
+  subtitle = "I make frameworks that survive. If the brief scares me, we should talk."
+  cta_text = "Read the full story"
+  cta_url = "/about/"
+
+# Social links (rendered by many themes automatically)
+[[social]]
+  name = "linkedin"
+  url  = "https://linkedin.com/in/vikasthorian"
+
+[[social]]
+  name = "instagram"
+  url  = "https://instagram.com/kabootarmodnar"
+
+[[social]]
+  name = "x"
+  url  = "https://x.com/kabootarmodnar"
+
+[[social]]
+  name = "github"
+  url  = "https://github.com/vikasthorian"
+
+[[social]]
+  name = "reddit"
+  url  = "https://reddit.com/u/KabootarModnar"
+
+# Optional: show or hide bits of the homepage
+[home]
+  show_latest_posts = true
+  latest_posts_count = 3
+  show_projects = true
+
+# Footer
+[footer]
+  copyright = "© 2025 Vikas Chandra Thorian"
+  small = "I build clarity, not applause. Time is capital — spend it wisely."
+
+# Theme / integration toggles
+[theme]
+  enableGitInfo = true     # set to true if you want lastmod from git
+  showReadingTime = true
+
+# Misc helpers
+[params.custom]
+  pi_hour_quote = "Discipline is devotion. Devotion is clarity. Clarity is freedom."
+  short_bio = "I turn complexity into clarity — projects, prose, and civic frameworks that actually mean something."
+
+# Replace the placeholders above with real handles & image paths.
+# After editing: run `hugo server` locally to preview. If using PaperMod, these keys will map automatically.

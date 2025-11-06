@@ -1,0 +1,53 @@
+{{ $r := site.Data.resume }}
+<article class="resume">
+  <header>
+    <h1>{{ $r.name }}</h1>
+    <p class="title">{{ $r.title }}</p>
+    <p class="contact">
+      {{ with $r.contact.email }}<a href="mailto:{{ . }}">{{ . }}</a> | {{ end }}
+      {{ with $r.contact.website }}<a href="{{ . }}">{{ . }}</a> | {{ end }}
+      {{ with $r.contact.linkedin }}<a href="https://linkedin.in/{{ . }}">linkedin/{{ . }}</a> | {{ end }}
+      {{ with $r.contact.facebook }}<a href="https://facebook.com/{{ . }}">facebook/{{ . }}</a> | {{ end }}
+      {{ with $r.contact.github }}<a href="https://github.com/{{ . }}">github/{{ . }}</a>{{ end }}
+    </p>
+  </header>
+
+  <section class="summary">
+    <p>{{ $r.summary | safeHTML }}</p>
+  </section>
+
+  <section class="experience">
+    <h2>Experience</h2>
+    {{ range $r.experience }}
+      <div class="job">
+        <h3>{{ .role }} — <small>{{ .company }} ({{ .start }} — {{ or .end "Present" }})</small></h3>
+        <ul>
+          {{ range .bullets }}<li>{{ . }}</li>{{ end }}
+        </ul>
+      </div>
+    {{ end }}
+  </section>
+
+  <section class="education">
+    <h2>Education</h2>
+    {{ range $r.education }}
+      <div>{{ .degree }} — {{ .school }} <span class="year">[{{ .year }}]</span></div>
+    {{ end }}
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <p>{{ range $i, $s := $r.skills }}{{ if $i }}, {{ end }}{{ $s }}{{ end }}</p>
+  </section>
+
+  <footer>
+    <p>
+      {{/* Robust download link that always respects Site.BaseURL */}}
+      {{ $base := .Site.BaseURL }}
+      {{ if not (hasSuffix $base "/") }}
+      {{ $base = printf "%s/" $base }}
+      {{ end }}
+      <a href="{{ printf "%s%s" $base "files/resume.pdf" }}" class="btn" target="_blank" rel="noopener">Download PDF</a>
+    </p>
+  </footer>
+</article>

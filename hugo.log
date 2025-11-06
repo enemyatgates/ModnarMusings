@@ -1,0 +1,55 @@
+Watching for changes in /home/thorianvc/.hugo/ModnarMusings/{archetypes,assets,content,data,i18n,layouts,static,themes}
+Watching for config changes in /home/thorianvc/.hugo/ModnarMusings/hugo.toml, /home/thorianvc/.hugo/ModnarMusings/themes/HugoBook/hugo.toml
+Start building sites … 
+hugo v0.146.0-5d1b9d39858bb0b2e505af9f649bfb55295ecca1+extended linux/amd64 BuildDate=2025-04-10T14:57:56Z VendorInfo=gohugoio
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 37  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 73  
+  Processed images |  0  
+  Aliases          |  8  
+  Cleaned          |  0  
+
+Built in 623 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1) 
+Press Ctrl+C to stop
+
+Change detected, rebuilding site (#1).
+2025-11-06 05:13:11.542 +0530
+Source changed /_index.md
+Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
+Total in 408 ms
+
+Change detected, rebuilding site (#2).
+2025-11-06 05:14:36.692 +0530
+Asset changed /css/_index.md
+Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
+Total in 206 ms
+
+Change of Static files detected, rebuilding site (#3).
+2025-11-06 05:14:47.770 +0530
+
+Change detected, rebuilding site (#4).
+2025-11-06 05:15:14.923 +0530
+Asset changed /_custom1.scss
+Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
+Total in 26 ms
+
+Change detected, rebuilding site (#5).
+2025-11-06 05:16:03.776 +0530
+Asset changed /_custom.scss
+Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
+Total in 719 ms
+
+Change detected, rebuilding site (#6).
+2025-11-06 05:17:50.725 +0530
+Template changed /partials/resume.html
+Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
+Total in 175 ms

@@ -1,0 +1,27 @@
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "themes/Clarity"]
+	path = themes/Clarity
+	url = git@github.com:chipzoller/hugo-clarity.git
+[submodule "themes/Coder"]
+	path = themes/Coder
+	url = git@github.com:luizdepra/hugo-coder.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = git@github.com:dillonzq/LoveIt.git
+[submodule "themes/Ananke"]
+	path = themes/Ananke
+	url = git@github.com:theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/Newsroom"]
+	path = themes/Newsroom
+	url = git@github.com:onweru/newsroom.git
+[submodule "themes/Stack"]
+	path = themes/Stack
+	url = git@github.com:CaiJimmy/hugo-theme-stack.git
+[submodule "themes/Doks"]
+	path = themes/Doks
+	url = git@github.com:h-enk/doks.git
+[submodule "themes/Toha"]
+	path = themes/Toha
+	url = git@github.com:hugo-toha/toha.git

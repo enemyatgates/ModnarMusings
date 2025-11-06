@@ -1,0 +1,63 @@
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = git@github.com:adityatelange/hugo-PaperMod.git
+[submodule "themes/Clarity"]
+	path = themes/Clarity
+	url = git@github.com:chipzoller/hugo-clarity.git
+[submodule "themes/Coder"]
+	path = themes/Coder
+	url = git@github.com:luizdepra/hugo-coder.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = git@github.com:dillonzq/LoveIt.git
+[submodule "themes/Ananke"]
+	path = themes/Ananke
+	url = git@github.com:theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/Newsroom"]
+	path = themes/Newsroom
+	url = git@github.com:onweru/newsroom.git
+[submodule "themes/Stack"]
+	path = themes/Stack
+	url = git@github.com:CaiJimmy/hugo-theme-stack.git
+[submodule "themes/Doks"]
+	path = themes/Doks
+	url = git@github.com:h-enk/doks.git
+[submodule "themes/Toha"]
+	path = themes/Toha
+	url = git@github.com:hugo-toha/toha.git
+[submodule "themes/Adritian"]
+	path = themes/Adritian
+	url = git@github.com:zetxek/adritian-free-hugo-theme.git
+[submodule "themes/HugoProfile"]
+	path = themes/HugoProfile
+	url = git@github.com:gurusabarish/hugo-profile.git
+[submodule "themes/Terminal"]
+	path = themes/Terminal
+	url = git@github.com:panr/hugo-theme-terminal.git
+[submodule "themes/BearBlog"]
+	path = themes/BearBlog
+	url = git@github.com:janraasch/hugo-bearblog.git
+[submodule "themes/Tania"]
+	path = themes/Tania
+	url = git@github.com:WingLim/hugo-tania.git
+[submodule "themes/Eureka"]
+	path = themes/Eureka
+	url = git@github.com:wangchucheng/hugo-eureka.git
+[submodule "themes/Zen"]
+	path = themes/Zen
+	url = git@github.com:frjo/hugo-theme-zen.git
+[submodule "themes/Hextra"]
+	path = themes/Hextra
+	url = git@github.com:imfing/hextra.git
+[submodule "themes/Andromeda"]
+	path = themes/Andromeda
+	url = git@github.com:gethugothemes/andromeda-light-hugo.git
+[submodule "themes/Meghna"]
+	path = themes/Meghna
+	url = git@github.com:themefisher/meghna-hugo.git
+[submodule "themes/Tranquilpeak"]
+	path = themes/Tranquilpeak
+	url = git@github.com:kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/HugoBook"]
+	path = themes/HugoBook
+	url = https://github.com/alex-shpak/hugo-book

@@ -1,0 +1,39 @@
+name: "Thorian, Vikas Chandra"
+title: "Thought and Transformation"
+contact:
+  email: "enemy.at.gates@gmail.com"
+  website: "https://ytsief.com"
+  linkedin: "thorianvc"
+  github: "enemyatgates"
+  facebook: "enemyatgates"
+summary: |
+  I design product experiences and write about human systems. I have experience in product design, writing,
+  and building early-stage ventures. I build with a focus on emotional intelligence and narrative-first experiences.
+experience:
+  - company: "Reverie (self)"
+    role: "Founder & Product"
+    start: "2024-05"
+    end: "Present"
+    location: "Bengaluru, India"
+    bullets:
+      - "Built MVP for emotionally intelligent social product."
+      - "Led product, design, and early growth."
+  - company: "Acme Co"
+    role: "Senior Designer"
+    start: "2020-02"
+    end: "2024-04"
+    bullets:
+      - "Designed complex dashboards and enterprise experiences."
+education:
+  - school: "Example University"
+    degree: "MS in Computer Science"
+    year: 2019
+skills:
+  - "Product Design"
+  - "Technical Writing"
+  - "Hugo, Markdown"
+projects:
+  - id: "reverie"
+    title: "Reverie"
+    summary: "Emotionally intelligent social rituals app."
+    link: "/projects/project-reverie/"
