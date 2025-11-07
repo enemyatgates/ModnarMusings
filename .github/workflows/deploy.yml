@@ -29,7 +29,7 @@ jobs:
           extended: true
 
       - name: 🏗️ Build site
-        run: hugo --minify
+        run: hugo --minify --baseURL "${{ vars.BASE_URL || 'https://enemyatgates.github.io/ModnarMusings/' }}"
 
       - name: 🚚 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
