@@ -1,0 +1,72 @@
+# data/social.yaml
+# Centralised social and contact info for Hugo
+
+# ─────────────────────────────
+# 👤 Author Identity
+# ─────────────────────────────
+name: "Vikas Chandra Thorian"
+aliases:
+  - "Kabootar Modnar Thorian"
+  - "Xander Amgine Thorian"
+  - "Nyxara Amgine Thorian"
+tagline: "Thought & Transformation — I build frameworks, not followers"
+email: "hello@vikasthorian.com"
+location: "Bengaluru, India"
+website: "https://vikasthorian.com"
+summary: |
+  Strategist, technologist, and writer exploring the architecture of meaning. 
+  I build frameworks that outlast fashion — ventures, philosophies, and civic systems that hold up under time, tension, and truth.
+
+# ─────────────────────────────
+# 🌐 Social Links
+# (Add or remove as needed; order matters)
+# ─────────────────────────────
+links:
+  - name: "LinkedIn"
+    url: "https://linkedin.com/in/vikasthorian"
+    icon: "linkedin"
+    colour: "#0A66C2"
+
+  - name: "Instagram"
+    url: "https://instagram.com/kabootarmodnar"
+    icon: "instagram"
+    colour: "#E1306C"
+
+  - name: "X"
+    url: "https://x.com/kabootarmodnar"
+    icon: "twitter"  # many themes still expect 'twitter'
+    colour: "#000000"
+
+  - name: "GitHub"
+    url: "https://github.com/vikasthorian"
+    icon: "github"
+    colour: "#181717"
+
+  - name: "Reddit"
+    url: "https://reddit.com/u/KabootarModnar"
+    icon: "reddit"
+    colour: "#FF4500"
+
+  - name: "YouTube"
+    url: "https://youtube.com/@kabootarmodnar"
+    icon: "youtube"
+    colour: "#FF0000"
+
+# ─────────────────────────────
+# 💬 Optional Messaging Handles
+# ─────────────────────────────
+messaging:
+  - platform: "Telegram"
+    handle: "@kabootarmodnar"
+    url: "https://t.me/kabootarmodnar"
+
+  - platform: "Signal"
+    note: "Private contact available upon request."
+
+# ─────────────────────────────
+# 🖋️ Author Signature
+# ─────────────────────────────
+signature: |
+  “I’ve been lonely, depressed, and anxious since my early teens — 
+  but that loneliness became my forge, that anxiety my teacher, that depression my truth.”  
+  — Vikas Chandra Thorian

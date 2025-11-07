@@ -1,11 +1,22 @@
 ---
+# title: "Vikas Chandra Thorian"
+# subtitle: "Thought & Transformation — I build frameworks, not followers"
 date: 2025-11-05
 draft: false
-type: "about"
+type: "home"
 description: "The personal and philosophical profile of Vikas Chandra Thorian — a polymath navigating the intersections of mind, machine, and meaning."
+description: "I am a strategist, technologist, writer and contrarian. I design ideas that survive; businesses and people that endure."
 author: "Vikas Chandra Thorian"
 keywords: ["Vikas Chandra Thorian", "Kabootar Modnar Thorian", "Xander Amgine Thorian", "Nyxara Amgine Thorian", "Project Black Rose", "Reverie", "The Grand Indian Republic"]
-tags: [Thorian, Veyran]
+tags: ["Thought & Transformation","Project Black Rose","Reverie","The Grand Indian Republic","Essentialism"]
+# Optional hero image; replace with your own path if you want a visual header
+hero_image: "/images/hero/black-rose.jpg"
+# Social links — change to real handles
+social:
+  linkedin: "https://linkedin.com/in/vikasthorian"
+  instagram: "https://instagram.com/kabootarmodnar"
+  x: "https://x.com/kabootarmodnar"
+  github: "https://github.com/vikasthorian"
 ---
 
 # 🜂 **Thorian, Vikas Chandra**
@@ -247,3 +258,282 @@ And if, in that process, others find meaning — that is merely consequence, not
 ---
 ---
 
+# Vikas Chandra Thorian  
+*Kabootar Modnar Thorian • Xander Amgine Thorian • Nyxara Amgine Thorian*
+
+I live inside a project called **Thought and Transformation** — a deliberate OS for a life that insists on meaning. I’m a strategist, a troublemaker for stale ideas, and a slow-moving technician of culture. I make frameworks that people can actually use to think better, act clearer, and leave something that lasts.
+
+---
+---
+---
+
+## Quick primer (because life is short)
+
+- **What I do:** I design narratives, systems and ventures that stitch psychology to product and ritual to revenue.  
+- **How I do it:** Data, philosophy, myth and stubborn conviction. Not in that order.  
+- **Why it matters:** Most modern work is spectacle. I prefer architecture — durable, honest, and a tiny bit ruthless.
+
+If you want a nice brochure, buy a brochure. If you want something that reshapes how people behave — come sit on the edge with me.
+
+---
+---
+---
+
+## Domains I work in
+
+### Marketing & Data Science  
+I fuse human stories with behavioural data. Think psychographic strategy, not hollow metrics. I build campaigns that don't just convert — they persuade ethically and scale honestly.
+
+### Strategy & Consulting  
+Vision without execution is an expensive imagination. I write blueprints that are philosophical enough to matter and tactical enough to ship.
+
+### Technology & Product  
+I prototype hybrid systems: human-first AI, civic dashboards, and product rituals that restore dignity to mundane behaviours (yes, even commuting). I care about interoperability, not hype.
+
+### Writing & Philosophy  
+I write long-form work that’s meant to unsettle and instruct. Essays, manifestos, frameworks — each piece is an experiment in how ideas become culture.
+
+---
+---
+---
+
+## Signature projects (current)
+
+- **Project Black Rose** — a crucible framework: pain as pedagogy, rigor as ritual.  
+- **Reverie** — an emotionally intelligent platform tackling loneliness and intimacy with ritual, not swipe culture. Female-led at core. Not another dating app.  
+- **The Grand Indian Republic** — a civilisational manifesto imagining a cooperative future for South Asia. Radical? Yes. Necessary? Also yes.  
+- **Bengaluru Mobility Project** — citizen-first, AI-augmented mobility to make commute time tolerable and useful.  
+
+---
+---
+---
+
+## My operating principles (short, sharp, true)
+
+- **Conviction > Consensus.** If everyone likes it, it’s probably a boring compromise.  
+- **Essentialism or bust.** Remove the noise — the remainder must be sacred.  
+- **Pain pays tuition.** The things that hurt teach better than the things that flatter.  
+- **Time beats money.** Time is the currency you never get more of — treat it like capital.  
+- **Discipline is devotion.** I keep the Pi-Hour — dawn is where the trophies are won in silence.
+
+---
+---
+---
+
+## Persona & voice
+
+I wear many names because I’m many things: a realist (Vikas), a myth-maker (Kabootar Modnar), an engineer (Xander), a contrarian mirror (Nyxara). These are not masks — they’re tools. I switch them when the work asks for it.
+
+Influences: part Raymond Reddington’s eloquence, part Lisbeth Salander’s refusal to play nice, part Jung’s insistence on shadow work, and a dash of old-school dignity.
+
+---
+---
+---
+
+## Writings (highlights)
+
+- *The Man Who Burnt Himself, Then Watched* — confessional long form on rebellion and repair.  
+- *The Sacred Ground of Zero* — essays on coming to terms with the void.  
+- *Conversations in Solitude* — dialogues that start where small talk ends.  
+- *The Pi-Hour Manifesto* — a discipline for creators who want time, not applause.  
+- *Lessons from the Bhagavad Gita: Life and Corporate* — ancient doctrine retooled for modern leaders.
+
+(Everything above is a living thing — some finished, some forever-in-progress. I like it that way.)
+
+---
+---
+---
+
+## Contact & collaborations
+
+If your brief is obvious, outsource it. If your brief scares me a little, we should talk.
+
+- LinkedIn — linkedin.com/in/vikasthorian  
+- Instagram — instagram.com/kabootarmodnar  
+- X — x.com/kabootarmodnar  
+- GitHub — github.com/vikasthorian
+
+Prefer privacy? Email me: `hello@vikasthorian.com` (replace with your real address).
+
+---
+---
+---
+
+## Closing note (because I actually mean this)
+
+I’m not interested in vanity metrics or gentle applause. I build things that make thinking harder and living clearer. If you want a quick win, move along. If you want a real revision of how you work, how your people move, or how your product breathes — let’s make the future less stupid.
+
+> *“I’ve been lonely, depressed and anxious since my teens — that loneliness became my forge. I learned to turn pain into presence. If that sounds extreme, good. Normal never moved anyone.”*
+
+---
+---
+---
+
+---
+title: "About"
+subtitle: "The Long Version — The Man Who Burnt Himself, Then Watched"
+type: "page"
+draft: false
+date: 2025-11-05
+description: "The complete philosophical and professional profile of Vikas Chandra Thorian."
+---
+
+# 🜂 Vikas Chandra Thorian  
+*also known as* **Kabootar Modnar Thorian**, **Xander Amgine Thorian**, **Nyxara Amgine Thorian**
+
+---
+
+## ⚙️ Operating System: Thought and Transformation
+
+I don’t live by trends; I live by frameworks.  
+**Thought and Transformation** is both philosophy and process — a discipline forged from introspection and rebellion.  
+Every idea must earn its survival through utility, honesty, and endurance.
+
+---
+
+## 🧭 Who I Am
+
+I’m a **strategist**, **philosopher**, **technologist**, and **writer** — an odd quartet, but coherent when you realise that all four deal in systems of meaning.
+
+Professionally, I dismantle and rebuild ideas.  
+Personally, I wrestle with the absurd and find patterns where others see chaos.
+
+I don’t believe in balance; I believe in depth.
+
+---
+
+## 🔱 Fields I Work In
+
+### **Marketing & Data Science**
+I use behavioural data to shape ethical persuasion.  
+My work sits at the junction of **psychology**, **semiotics**, and **strategy** — helping brands communicate not louder, but truer.
+
+### **Consulting & Strategy**
+I craft **narrative frameworks** that merge philosophy with execution.  
+If it doesn’t scale intellectually, it won’t scale commercially.
+
+### **Technology & Product**
+I build and advise on human-first systems — where AI augments empathy, not replaces it.  
+Innovation is not disruption; it’s restoration.
+
+### **Writing & Philosophy**
+My words are autopsies of existence — essays that cut through modern pretence to expose the architecture beneath.
+
+---
+
+## 🪶 Personas
+
+| Persona | Domain | Essence |
+|----------|---------|----------|
+| **Kabootar Modnar Thorian** | Poet | The surreal dreamer, absurdist, and mystic. |
+| **Xander Amgine Thorian** | Technologist | The rational architect and system-maker. |
+| **Nyxara Amgine Thorian** | Mirror | The emotional counterforce, intuitive and disciplined. |
+| **Vikas Chandra Thorian** | Realist | The strategist and philosopher — the man behind the masks. |
+
+Together, they form my ecosystem. Each name is a tool — not for hiding, but for exploring a facet of truth.
+
+---
+
+## 🧠 Frameworks & Projects
+
+### 🖤 **Project Black Rose**
+An existential framework for transformation through suffering.  
+It’s a book, a system, and a mirror for those who’ve been to the abyss.
+
+### 🕊️ **Reverie**
+A venture for emotional intelligence and human connection — rituals, not algorithms.  
+Born from loneliness; built for meaning.
+
+### 🛣️ **Bengaluru Mobility Project**
+An AI-augmented civic vision turning chaos into choreography.  
+Mobility should move people — not just vehicles.
+
+### 🕉️ **The Grand Indian Republic**
+A civilisational blueprint uniting the Indian subcontinent through shared destiny.  
+It’s not politics; it’s restoration of identity.
+
+---
+
+## 🕒 Discipline: The Pi-Hour
+
+I begin my day at *Pi-Hour* — the still moment before dawn.  
+It’s not a productivity hack; it’s a philosophy:  
+> *Discipline is devotion. Devotion is clarity. Clarity is freedom.*
+
+---
+
+## ⚖️ Personal Ethos
+
+- **Conviction beats consensus.**  
+- **Essentialism is survival.**  
+- **Pain teaches; comfort deceives.**  
+- **Time is currency; money is illusion.**  
+- **Standing up costs more — and is worth it.**
+
+---
+
+## 💬 Selected Works
+
+- **The Man Who Burnt Himself, Then Watched** — a confessional on rebellion and rebirth.  
+- **The Sacred Ground of Zero** — essays on despair, discipline, and deliverance.  
+- **Conversations in Solitude** — an internal dialogue that refuses small talk.  
+- **Lessons from the Bhagavad Gita: Life and Corporate** — ancient doctrine reframed for modern ambition.  
+- **The Pi-Hour Manifesto** — a discipline manual for the damned and the driven.  
+- **The Doomed Carnival** — a completed poetic apocalypse.
+
+---
+
+## 🩸 Core Beliefs
+
+> “Eventually, inevitably, invariably — it all boils down to one thing: whether you took a stand, or not.”
+
+> “I will tell my story, maybe in another time and another place. One thing I am certain about — I have sinned, and I have fallen short.”
+
+> “In the end, all that remains is conviction — everything else burns.”
+
+---
+
+## 🧩 Influences
+
+Composite archetypes that define my operating code:
+- Raymond Reddington — eloquence and moral ambiguity.  
+- Alan Shore — intellect laced with irreverence.  
+- Jason Bourne — resilience under erasure.  
+- James Bond — ritual and resolve.  
+- Lisbeth Salander — vengeance and precision.  
+- Vesper Lynd — grace under ruin.  
+- Joker — the absurd as truth serum.
+
+---
+
+## 🕯️ Present Focus
+
+- Finalising *Project Black Rose* manuscript.  
+- Building *Reverie* prototype.  
+- Drafting *The Grand Indian Republic* chapters.  
+- Completing *The Pi-Hour Manifesto* essays.
+
+---
+
+## 📫 Contact
+
+| Platform | Link |
+|-----------|------|
+| LinkedIn | [linkedin.com/in/vikasthorian](https://linkedin.com/in/vikasthorian) |
+| Instagram | [instagram.com/kabootarmodnar](https://instagram.com/kabootarmodnar) |
+| X (Twitter) | [x.com/kabootarmodnar](https://x.com/kabootarmodnar) |
+| GitHub | [github.com/vikasthorian](https://github.com/vikasthorian) |
+| Email | `hello@vikasthorian.com` (replace with your real one) |
+
+---
+
+## 🪞 Closing Thought
+
+I’m not here to please the crowd; I’m here to provoke thought and build clarity.  
+If meaninglessness is the disease of our age, then maybe my work is the antidote.
+
+> *“I’ve been lonely, depressed, and anxious since my early teens — but that loneliness became my forge, that anxiety my teacher, that depression my truth.”*
+
+---
+
+*© 2025 Vikas Chandra Thorian — All mistakes, scars, and revolutions mine.*
