@@ -1,4 +1,6 @@
-baseURL = "https://enemyatgates.github.io/ModnarMusings/"
+baseURL = "/"
+canonifyURLs = true
+relativeURLs = false
 languageCode = "en-us"
 title = "Modnar Musings"
 theme = "HugoBook"

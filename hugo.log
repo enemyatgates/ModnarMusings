@@ -1,12 +1,12 @@
 Watching for changes in /home/thorianvc/.hugo/ModnarMusings/{archetypes,assets,content,data,layouts,static,themes}
-Watching for config changes in /home/thorianvc/.hugo/ModnarMusings/hugo.toml, /home/thorianvc/.hugo/ModnarMusings/themes/HugoBook/hugo.toml
+Watching for config changes in /home/thorianvc/.hugo/ModnarMusings/config.toml, /home/thorianvc/.hugo/ModnarMusings/themes/HugoBook/hugo.toml
 Start building sites … 
 hugo v0.146.0-5d1b9d39858bb0b2e505af9f649bfb55295ecca1+extended linux/amd64 BuildDate=2025-04-10T14:57:56Z VendorInfo=gohugoio
 
 
                    | EN  
 -------------------+-----
-  Pages            | 57  
+  Pages            | 59  
   Paginator pages  |  0  
   Non-page files   |  0  
   Static files     | 74  
@@ -14,13 +14,9 @@ hugo v0.146.0-5d1b9d39858bb0b2e505af9f649bfb55295ecca1+extended linux/amd64 Buil
   Aliases          | 13  
   Cleaned          |  0  
 
-Built in 790 ms
+Built in 745 ms
 Environment: "development"
 Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
 Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1) 
 Press Ctrl+C to stop
-
-Change of config file detected, rebuilding site (#1).
-2025-11-07 19:37:02.062 +0530
-Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
-Rebuilt in 1082 ms
