@@ -1,14 +1,14 @@
 {
   "name": "Modnar Musings",
   "short_name": "Modnar Musings",
-  "start_url": "/ModnarMusings/",
-  "scope": "/ModnarMusings/",
+  "start_url": "/./",
+  "scope": "/./",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/ModnarMusings/favicon.svg",
+      "src": "/./favicon.svg",
       "sizes": "512x512"
     }
   ]
