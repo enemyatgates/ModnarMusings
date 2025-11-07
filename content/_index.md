@@ -4,8 +4,7 @@
 date: 2025-11-05
 draft: false
 type: "home"
-description: "The personal and philosophical profile of Vikas Chandra Thorian — a polymath navigating the intersections of mind, machine, and meaning."
-description: "I am a strategist, technologist, writer and contrarian. I design ideas that survive; businesses and people that endure."
+description: "The personal and philosophical profile of Vikas Chandra Thorian — a polymath navigating the intersections of mind, machine, and meaning. I am a strategist, technologist, writer and contrarian. I design ideas that survive; businesses and people that endure."
 author: "Vikas Chandra Thorian"
 keywords: ["Vikas Chandra Thorian", "Kabootar Modnar Thorian", "Xander Amgine Thorian", "Nyxara Amgine Thorian", "Project Black Rose", "Reverie", "The Grand Indian Republic"]
 tags: ["Thought & Transformation","Project Black Rose","Reverie","The Grand Indian Republic","Essentialism"]
