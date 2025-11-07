@@ -20,3 +20,9 @@ Serving pages from disk
 Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
 Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1) 
 Press Ctrl+C to stop
+
+Change detected, rebuilding site (#1).
+2025-11-07 22:29:41.156 +0530
+Source changed /posts/00~{20251031}~{050156}~{m}~{00}.md
+Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
+Total in 689 ms
