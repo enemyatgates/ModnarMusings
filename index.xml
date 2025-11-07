@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Modnar Musings</title><link>/</link><description>Recent content on Modnar Musings</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 05 Nov 2025 09:49:21 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started</title><link>/posts/01-getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/01-getting-started/</guid><description>&lt;p&gt;This page introduces the project setup and folder structure.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Modnar Musings</title><link>https://enemyatgates.github.io/ModnarMusings/</link><description>Recent content on Modnar Musings</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 05 Nov 2025 09:49:21 +0530</lastBuildDate><atom:link href="https://enemyatgates.github.io/ModnarMusings/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started</title><link>https://enemyatgates.github.io/ModnarMusings/posts/01-getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/01-getting-started/</guid><description>&lt;p&gt;This page introduces the project setup and folder structure.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Install Hugo&lt;/li&gt;
 &lt;li&gt;Clone this repository&lt;/li&gt;
 &lt;li&gt;Run &lt;code&gt;hugo server&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Part 1: The Beginning</title><link>/posts/tutorial/part1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/tutorial/part1/</guid><description>&lt;p&gt;Welcome to the first part of the tutorial.
-Here, we’ll explore advanced features and configurations.&lt;/p&gt;</description></item><item><title>Usage</title><link>/posts/02-usage/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/02-usage/</guid><description>&lt;p&gt;Learn how to use the features of this project.&lt;/p&gt;
+&lt;/ul&gt;</description></item><item><title>Part 1: The Beginning</title><link>https://enemyatgates.github.io/ModnarMusings/posts/tutorial/part1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/tutorial/part1/</guid><description>&lt;p&gt;Welcome to the first part of the tutorial.
+Here, we’ll explore advanced features and configurations.&lt;/p&gt;</description></item><item><title>Usage</title><link>https://enemyatgates.github.io/ModnarMusings/posts/02-usage/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/02-usage/</guid><description>&lt;p&gt;Learn how to use the features of this project.&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;hugo new posts/my-first-post.md
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;hugo server -D&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>The Beginnings</title><link>/posts/start/</link><pubDate>Wed, 05 Nov 2025 09:49:21 +0530</pubDate><guid>/posts/start/</guid><description>&lt;p&gt;The start of a new chapter.&lt;/p&gt;</description></item><item><title>Vikas Chandra Thorian</title><link>/posts/me/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>/posts/me/</guid><description>Designer, writer, and builder — I make ideas useful.</description></item><item><title>The Sacred Ground of Zero — On Loneliness</title><link>/posts/writings/2025-10-01-essay-on-loneliness/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>/posts/writings/2025-10-01-essay-on-loneliness/</guid><description>&lt;p&gt;I have been lonely, depressed, and anxious since my formative years in early teens. This essay explores that terrain and the rituals that helped restore meaning.&lt;/p&gt;</description></item><item><title>Reverie — Rituals App</title><link>/posts/projects/project-reverie/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>/posts/projects/project-reverie/</guid><description>An emotionally intelligent platform for intimacy and ritual.</description></item><item><title/><link>/posts/00~20251031~050156~m~00/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/00~20251031~050156~m~00/</guid><description>&lt;h2 id="the-stand"&gt;&lt;strong&gt;The Stand&lt;br&gt;&lt;br&gt;On Conviction, Control, and the Inevitability of Fate&lt;/strong&gt;&lt;a class="anchor" href="#the-stand"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Eventually, everything in life boils down to a single reckoning: did I take a stand, or did I allow someone else to decide the course of my existence? At first glance, it seems a simple question, almost rhetorical, but the weight of it accumulates over years — decades — until it is impossible to ignore. Every deferred choice, every moment of silence, every compromise in the name of comfort or approval becomes a stone in the edifice of a life half-lived. And yet, we deceive ourselves with illusions of safety. We whisper to ourselves that letting someone else take the reins is pragmatic, even wise. But in truth, it is the beginning of surrender.&lt;/p&gt;</description></item><item><title/><link>/posts/ideas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/ideas/</guid><description>&lt;p&gt;Ah, now that’s a fascinating axis to begin from — &lt;em&gt;not&lt;/em&gt; what you adore, but what you &lt;em&gt;eschew&lt;/em&gt;. To build from the absurdities you reject — the hypocrisies, the pretensions, the performative, the hollow — that’s a philosopher’s vengeance dressed as literature.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;hugo server -D&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>The Beginnings</title><link>https://enemyatgates.github.io/ModnarMusings/posts/start/</link><pubDate>Wed, 05 Nov 2025 09:49:21 +0530</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/start/</guid><description>&lt;p&gt;The start of a new chapter.&lt;/p&gt;</description></item><item><title>Vikas Chandra Thorian</title><link>https://enemyatgates.github.io/ModnarMusings/posts/me/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/me/</guid><description>Designer, writer, and builder — I make ideas useful.</description></item><item><title>The Sacred Ground of Zero — On Loneliness</title><link>https://enemyatgates.github.io/ModnarMusings/posts/writings/2025-10-01-essay-on-loneliness/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/writings/2025-10-01-essay-on-loneliness/</guid><description>&lt;p&gt;I have been lonely, depressed, and anxious since my formative years in early teens. This essay explores that terrain and the rituals that helped restore meaning.&lt;/p&gt;</description></item><item><title>Reverie — Rituals App</title><link>https://enemyatgates.github.io/ModnarMusings/posts/projects/project-reverie/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/projects/project-reverie/</guid><description>An emotionally intelligent platform for intimacy and ritual.</description></item><item><title/><link>https://enemyatgates.github.io/ModnarMusings/posts/00~20251031~050156~m~00/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/00~20251031~050156~m~00/</guid><description>&lt;h2 id="the-stand"&gt;&lt;strong&gt;The Stand&lt;br&gt;&lt;br&gt;On Conviction, Control, and the Inevitability of Fate&lt;/strong&gt;&lt;a class="anchor" href="#the-stand"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Eventually, everything in life boils down to a single reckoning: did I take a stand, or did I allow someone else to decide the course of my existence? At first glance, it seems a simple question, almost rhetorical, but the weight of it accumulates over years — decades — until it is impossible to ignore. Every deferred choice, every moment of silence, every compromise in the name of comfort or approval becomes a stone in the edifice of a life half-lived. And yet, we deceive ourselves with illusions of safety. We whisper to ourselves that letting someone else take the reins is pragmatic, even wise. But in truth, it is the beginning of surrender.&lt;/p&gt;</description></item><item><title/><link>https://enemyatgates.github.io/ModnarMusings/posts/ideas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/ideas/</guid><description>&lt;p&gt;Ah, now that’s a fascinating axis to begin from — &lt;em&gt;not&lt;/em&gt; what you adore, but what you &lt;em&gt;eschew&lt;/em&gt;. To build from the absurdities you reject — the hypocrisies, the pretensions, the performative, the hollow — that’s a philosopher’s vengeance dressed as literature.&lt;/p&gt;
 &lt;p&gt;Here are several book ideas across genres, each rooted in the absurdities one might choose to disdain, expose, or transcend:&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id="ideas"&gt;&lt;strong&gt;Ideas&lt;/strong&gt;&lt;a class="anchor" href="#ideas"&gt;#&lt;/a&gt;&lt;/h1&gt;
@@ -15,7 +15,7 @@ Here, we’ll explore advanced features and configurations.&lt;/p&gt;</descripti
 &lt;p&gt;&lt;strong&gt;Genre:&lt;/strong&gt; Philosophical Fiction / Satirical Manifesto
 &lt;strong&gt;Premise:&lt;/strong&gt;
 A man who rejects every modern absurdity — from corporate spirituality to algorithmic morality — becomes a reluctant cult leader for those seeking “authenticity.” As his followers imitate his rebellion, he becomes the very absurdity he once eschewed.
-&lt;strong&gt;Themes:&lt;/strong&gt; Authenticity as performance, irony of leadership, sanctification of dissent.&lt;/p&gt;</description></item><item><title>Gallery</title><link>/posts/20251106t180322z-gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/20251106t180322z-gallery/</guid><description>&lt;p&gt;The fucker won&amp;rsquo;t resolve.&lt;/p&gt;
+&lt;strong&gt;Themes:&lt;/strong&gt; Authenticity as performance, irony of leadership, sanctification of dissent.&lt;/p&gt;</description></item><item><title>Gallery</title><link>https://enemyatgates.github.io/ModnarMusings/posts/20251106t180322z-gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/20251106t180322z-gallery/</guid><description>&lt;p&gt;The fucker won&amp;rsquo;t resolve.&lt;/p&gt;
 
 
 
@@ -26,7 +26,7 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
 
 
  
- &lt;div class="image-gallery" role="list" data-gallery-id="gallery-1762535973"&gt;
+ &lt;div class="image-gallery" role="list" data-gallery-id="gallery-1762536298"&gt;
 
  
  
@@ -36,13 +36,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/CD&amp;#43;YTSIEF~{001050^000600}~{0000}.png"
  aria-label="Open image: /images/gallery/CD&amp;#43;YTSIEF~{001050^000600}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0000%7D_hu_a2a59824855c15b0.png"
- srcset="/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0000%7D_hu_5de62b2b295ed898.png 400w, /images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0000%7D_hu_a2a59824855c15b0.png 800w, /images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0000%7D_hu_da71dfaf3267c5c0.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0000%7D_hu_a2a59824855c15b0.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0000%7D_hu_5de62b2b295ed898.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0000%7D_hu_a2a59824855c15b0.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0000%7D_hu_da71dfaf3267c5c0.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/CD&amp;#43;YTSIEF~{001050^000600}~{0000}.png"
  loading="lazy" /&gt;
@@ -60,13 +60,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0001%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0001%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/CD&amp;#43;YTSIEF~{001050^000600}~{0001}.png"
  aria-label="Open image: /images/gallery/CD&amp;#43;YTSIEF~{001050^000600}~{0001}.png"&gt;
  &lt;img
- src="/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0001%7D_hu_59470198fe4121c5.png"
- srcset="/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0001%7D_hu_bf6258579bb9f843.png 400w, /images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0001%7D_hu_59470198fe4121c5.png 800w, /images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0001%7D_hu_dd51ad003f28f7e5.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0001%7D_hu_59470198fe4121c5.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0001%7D_hu_bf6258579bb9f843.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0001%7D_hu_59470198fe4121c5.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B001050%5E000600%7D~%7B0001%7D_hu_dd51ad003f28f7e5.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/CD&amp;#43;YTSIEF~{001050^000600}~{0001}.png"
  loading="lazy" /&gt;
@@ -84,13 +84,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/CD&amp;#43;YTSIEF~{004096^004096}~{0000}.png"
  aria-label="Open image: /images/gallery/CD&amp;#43;YTSIEF~{004096^004096}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_da3ecbc59bc0d1ac.png"
- srcset="/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_601f5d4ee97c428f.png 400w, /images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_da3ecbc59bc0d1ac.png 800w, /images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_f513b57e69a5b5ad.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_da3ecbc59bc0d1ac.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_601f5d4ee97c428f.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_da3ecbc59bc0d1ac.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_f513b57e69a5b5ad.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/CD&amp;#43;YTSIEF~{004096^004096}~{0000}.png"
  loading="lazy" /&gt;
@@ -108,13 +108,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/CD&amp;#43;YTSIEF~{004096^004096}~{0001}.png"
  aria-label="Open image: /images/gallery/CD&amp;#43;YTSIEF~{004096^004096}~{0001}.png"&gt;
  &lt;img
- src="/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_9cb00ecc1f8a242a.png"
- srcset="/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_9e6ba929031f1eb.png 400w, /images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_9cb00ecc1f8a242a.png 800w, /images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_9c13f5a2a115fc62.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_9cb00ecc1f8a242a.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_9e6ba929031f1eb.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_9cb00ecc1f8a242a.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_9c13f5a2a115fc62.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/CD&amp;#43;YTSIEF~{004096^004096}~{0001}.png"
  loading="lazy" /&gt;
@@ -132,13 +132,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/CD&amp;#43;YTSIEF~{005250^003000}~{0000}.png"
  aria-label="Open image: /images/gallery/CD&amp;#43;YTSIEF~{005250^003000}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0000%7D_hu_14601f3707d771d2.png"
- srcset="/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0000%7D_hu_74eaa1347636ff26.png 400w, /images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0000%7D_hu_14601f3707d771d2.png 800w, /images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0000%7D_hu_5e5356b59eaad1eb.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0000%7D_hu_14601f3707d771d2.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0000%7D_hu_74eaa1347636ff26.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0000%7D_hu_14601f3707d771d2.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0000%7D_hu_5e5356b59eaad1eb.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/CD&amp;#43;YTSIEF~{005250^003000}~{0000}.png"
  loading="lazy" /&gt;
@@ -156,13 +156,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0001%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0001%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/CD&amp;#43;YTSIEF~{005250^003000}~{0001}.png"
  aria-label="Open image: /images/gallery/CD&amp;#43;YTSIEF~{005250^003000}~{0001}.png"&gt;
  &lt;img
- src="/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0001%7D_hu_776e86a17671d562.png"
- srcset="/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0001%7D_hu_1653607c38e29fae.png 400w, /images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0001%7D_hu_776e86a17671d562.png 800w, /images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0001%7D_hu_9c794b833d0b47f2.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0001%7D_hu_776e86a17671d562.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0001%7D_hu_1653607c38e29fae.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0001%7D_hu_776e86a17671d562.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/CD&amp;#43;YTSIEF~%7B005250%5E003000%7D~%7B0001%7D_hu_9c794b833d0b47f2.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/CD&amp;#43;YTSIEF~{005250^003000}~{0001}.png"
  loading="lazy" /&gt;
@@ -180,13 +180,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;ANGLE~{004096^004096}~{0000}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;ANGLE~{004096^004096}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0000%7D_hu_5dc92fd40316bbb2.png"
- srcset="/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0000%7D_hu_b84026c3498eb91.png 400w, /images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0000%7D_hu_5dc92fd40316bbb2.png 800w, /images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0000%7D_hu_7342e99eef8664e5.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0000%7D_hu_5dc92fd40316bbb2.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0000%7D_hu_b84026c3498eb91.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0000%7D_hu_5dc92fd40316bbb2.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0000%7D_hu_7342e99eef8664e5.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;ANGLE~{004096^004096}~{0000}.png"
  loading="lazy" /&gt;
@@ -204,13 +204,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0001%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0001%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;ANGLE~{004096^004096}~{0001}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;ANGLE~{004096^004096}~{0001}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0001%7D_hu_a5e7d42e8472d61a.png"
- srcset="/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0001%7D_hu_f27904b863750dfc.png 400w, /images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0001%7D_hu_a5e7d42e8472d61a.png 800w, /images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0001%7D_hu_ee9f94a5e24ac81b.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0001%7D_hu_a5e7d42e8472d61a.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0001%7D_hu_f27904b863750dfc.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0001%7D_hu_a5e7d42e8472d61a.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;ANGLE~%7B004096%5E004096%7D~%7B0001%7D_hu_ee9f94a5e24ac81b.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;ANGLE~{004096^004096}~{0001}.png"
  loading="lazy" /&gt;
@@ -228,13 +228,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;PI~%7B001024%5E001024%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B001024%5E001024%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;PI~{001024^001024}~{0000}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;PI~{001024^001024}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;PI~%7B001024%5E001024%7D~%7B0000%7D_hu_33c665b0d61ba7d7.png"
- srcset="/images/gallery/LG&amp;#43;PI~%7B001024%5E001024%7D~%7B0000%7D_hu_3fbbacf194a4ecf8.png 400w, /images/gallery/LG&amp;#43;PI~%7B001024%5E001024%7D~%7B0000%7D_hu_33c665b0d61ba7d7.png 800w, /images/gallery/LG&amp;#43;PI~%7B001024%5E001024%7D~%7B0000%7D_hu_fa9ec7d50899f570.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B001024%5E001024%7D~%7B0000%7D_hu_33c665b0d61ba7d7.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B001024%5E001024%7D~%7B0000%7D_hu_3fbbacf194a4ecf8.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B001024%5E001024%7D~%7B0000%7D_hu_33c665b0d61ba7d7.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B001024%5E001024%7D~%7B0000%7D_hu_fa9ec7d50899f570.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;PI~{001024^001024}~{0000}.png"
  loading="lazy" /&gt;
@@ -252,13 +252,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;PI~{004096^004096}~{0000}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;PI~{004096^004096}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0000%7D_hu_adebb7c64dfbd5d1.png"
- srcset="/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0000%7D_hu_fbf89e06ff8b892.png 400w, /images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0000%7D_hu_adebb7c64dfbd5d1.png 800w, /images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0000%7D_hu_7f4a3e81aed19c92.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0000%7D_hu_adebb7c64dfbd5d1.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0000%7D_hu_fbf89e06ff8b892.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0000%7D_hu_adebb7c64dfbd5d1.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0000%7D_hu_7f4a3e81aed19c92.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;PI~{004096^004096}~{0000}.png"
  loading="lazy" /&gt;
@@ -276,13 +276,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0001%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0001%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;PI~{004096^004096}~{0001}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;PI~{004096^004096}~{0001}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0001%7D_hu_38bcdb89fc3d492c.png"
- srcset="/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0001%7D_hu_5b0f144117600bae.png 400w, /images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0001%7D_hu_38bcdb89fc3d492c.png 800w, /images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0001%7D_hu_3dda56ba09c3bd83.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0001%7D_hu_38bcdb89fc3d492c.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0001%7D_hu_5b0f144117600bae.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0001%7D_hu_38bcdb89fc3d492c.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0001%7D_hu_3dda56ba09c3bd83.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;PI~{004096^004096}~{0001}.png"
  loading="lazy" /&gt;
@@ -300,13 +300,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0002%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0002%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;PI~{004096^004096}~{0002}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;PI~{004096^004096}~{0002}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0002%7D_hu_ad241a9deb94c97c.png"
- srcset="/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0002%7D_hu_a67fc03a0369e409.png 400w, /images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0002%7D_hu_ad241a9deb94c97c.png 800w, /images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0002%7D_hu_404714c9c1068dd6.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0002%7D_hu_ad241a9deb94c97c.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0002%7D_hu_a67fc03a0369e409.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0002%7D_hu_ad241a9deb94c97c.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;PI~%7B004096%5E004096%7D~%7B0002%7D_hu_404714c9c1068dd6.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;PI~{004096^004096}~{0002}.png"
  loading="lazy" /&gt;
@@ -324,13 +324,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;R&amp;amp;A~%7B004096%5E004096%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;R&amp;amp;A~%7B004096%5E004096%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;R&amp;amp;A~{004096^004096}~{0000}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;R&amp;amp;A~{004096^004096}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;R&amp;amp;A~%7B004096%5E004096%7D~%7B0000%7D_hu_d67b95d6df591008.png"
- srcset="/images/gallery/LG&amp;#43;R&amp;amp;A~%7B004096%5E004096%7D~%7B0000%7D_hu_a896ed669c15de62.png 400w, /images/gallery/LG&amp;#43;R&amp;amp;A~%7B004096%5E004096%7D~%7B0000%7D_hu_d67b95d6df591008.png 800w, /images/gallery/LG&amp;#43;R&amp;amp;A~%7B004096%5E004096%7D~%7B0000%7D_hu_993c79746bf78a0b.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;R&amp;amp;A~%7B004096%5E004096%7D~%7B0000%7D_hu_d67b95d6df591008.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;R&amp;amp;A~%7B004096%5E004096%7D~%7B0000%7D_hu_a896ed669c15de62.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;R&amp;amp;A~%7B004096%5E004096%7D~%7B0000%7D_hu_d67b95d6df591008.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;R&amp;amp;A~%7B004096%5E004096%7D~%7B0000%7D_hu_993c79746bf78a0b.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;R&amp;amp;A~{004096^004096}~{0000}.png"
  loading="lazy" /&gt;
@@ -348,13 +348,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;REVERIE~{004096^004096}~{0000}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;REVERIE~{004096^004096}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0000%7D_hu_a4f2b20fdd78e019.png"
- srcset="/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0000%7D_hu_f4030458ea5414c0.png 400w, /images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0000%7D_hu_a4f2b20fdd78e019.png 800w, /images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0000%7D_hu_75b91e8ace0fb725.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0000%7D_hu_a4f2b20fdd78e019.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0000%7D_hu_f4030458ea5414c0.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0000%7D_hu_a4f2b20fdd78e019.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0000%7D_hu_75b91e8ace0fb725.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;REVERIE~{004096^004096}~{0000}.png"
  loading="lazy" /&gt;
@@ -372,13 +372,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0001%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0001%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;REVERIE~{004096^004096}~{0001}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;REVERIE~{004096^004096}~{0001}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0001%7D_hu_4dc30712aa0c0492.png"
- srcset="/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0001%7D_hu_72a7a22bcd6565ff.png 400w, /images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0001%7D_hu_4dc30712aa0c0492.png 800w, /images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0001%7D_hu_22129739fa98afd9.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0001%7D_hu_4dc30712aa0c0492.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0001%7D_hu_72a7a22bcd6565ff.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0001%7D_hu_4dc30712aa0c0492.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;REVERIE~%7B004096%5E004096%7D~%7B0001%7D_hu_22129739fa98afd9.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;REVERIE~{004096^004096}~{0001}.png"
  loading="lazy" /&gt;
@@ -396,13 +396,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;SECRET~%7B000500%5E000500%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;SECRET~%7B000500%5E000500%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;SECRET~{000500^000500}~{0000}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;SECRET~{000500^000500}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;SECRET~%7B000500%5E000500%7D~%7B0000%7D_hu_abc6bb6d5eefb6c.png"
- srcset="/images/gallery/LG&amp;#43;SECRET~%7B000500%5E000500%7D~%7B0000%7D_hu_e2b2935d50b80aef.png 400w, /images/gallery/LG&amp;#43;SECRET~%7B000500%5E000500%7D~%7B0000%7D_hu_abc6bb6d5eefb6c.png 800w, /images/gallery/LG&amp;#43;SECRET~%7B000500%5E000500%7D~%7B0000%7D_hu_40c17240e5e99643.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;SECRET~%7B000500%5E000500%7D~%7B0000%7D_hu_abc6bb6d5eefb6c.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;SECRET~%7B000500%5E000500%7D~%7B0000%7D_hu_e2b2935d50b80aef.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;SECRET~%7B000500%5E000500%7D~%7B0000%7D_hu_abc6bb6d5eefb6c.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;SECRET~%7B000500%5E000500%7D~%7B0000%7D_hu_40c17240e5e99643.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;SECRET~{000500^000500}~{0000}.png"
  loading="lazy" /&gt;
@@ -420,13 +420,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;TILDE~{004096^004096}~{0000}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;TILDE~{004096^004096}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0000%7D_hu_7605622ccef72049.png"
- srcset="/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0000%7D_hu_da1f71c70373e8e5.png 400w, /images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0000%7D_hu_7605622ccef72049.png 800w, /images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0000%7D_hu_584306a214a0db85.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0000%7D_hu_7605622ccef72049.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0000%7D_hu_da1f71c70373e8e5.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0000%7D_hu_7605622ccef72049.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0000%7D_hu_584306a214a0db85.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;TILDE~{004096^004096}~{0000}.png"
  loading="lazy" /&gt;
@@ -444,13 +444,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0001%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0001%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;TILDE~{004096^004096}~{0001}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;TILDE~{004096^004096}~{0001}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0001%7D_hu_bf9d5dcd4f3811c.png"
- srcset="/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0001%7D_hu_5ff4880e7b03b24a.png 400w, /images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0001%7D_hu_bf9d5dcd4f3811c.png 800w, /images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0001%7D_hu_49d4d83f190c71bb.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0001%7D_hu_bf9d5dcd4f3811c.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0001%7D_hu_5ff4880e7b03b24a.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0001%7D_hu_bf9d5dcd4f3811c.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;TILDE~%7B004096%5E004096%7D~%7B0001%7D_hu_49d4d83f190c71bb.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;TILDE~{004096^004096}~{0001}.png"
  loading="lazy" /&gt;
@@ -468,13 +468,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;VEYRAN~{001024^001536}~{0000}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;VEYRAN~{001024^001536}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0000%7D_hu_a5bf392ea60fa5b0.png"
- srcset="/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0000%7D_hu_5fb7b86b7bc6e775.png 400w, /images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0000%7D_hu_a5bf392ea60fa5b0.png 800w, /images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0000%7D_hu_9c37b6e1543a5c45.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0000%7D_hu_a5bf392ea60fa5b0.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0000%7D_hu_5fb7b86b7bc6e775.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0000%7D_hu_a5bf392ea60fa5b0.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0000%7D_hu_9c37b6e1543a5c45.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;VEYRAN~{001024^001536}~{0000}.png"
  loading="lazy" /&gt;
@@ -492,13 +492,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0001%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0001%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;VEYRAN~{001024^001536}~{0001}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;VEYRAN~{001024^001536}~{0001}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0001%7D_hu_e4f4981917da0b6c.png"
- srcset="/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0001%7D_hu_21fbd5f05ca116b8.png 400w, /images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0001%7D_hu_e4f4981917da0b6c.png 800w, /images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0001%7D_hu_4a716923c2f4be96.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0001%7D_hu_e4f4981917da0b6c.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0001%7D_hu_21fbd5f05ca116b8.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0001%7D_hu_e4f4981917da0b6c.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;VEYRAN~%7B001024%5E001536%7D~%7B0001%7D_hu_4a716923c2f4be96.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;VEYRAN~{001024^001536}~{0001}.png"
  loading="lazy" /&gt;
@@ -516,13 +516,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;YTSIEF~%7B000500%5E000500%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B000500%5E000500%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;YTSIEF~{000500^000500}~{0000}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;YTSIEF~{000500^000500}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;YTSIEF~%7B000500%5E000500%7D~%7B0000%7D_hu_cfb9a20d037a1689.png"
- srcset="/images/gallery/LG&amp;#43;YTSIEF~%7B000500%5E000500%7D~%7B0000%7D_hu_f18d33c26262e4b7.png 400w, /images/gallery/LG&amp;#43;YTSIEF~%7B000500%5E000500%7D~%7B0000%7D_hu_cfb9a20d037a1689.png 800w, /images/gallery/LG&amp;#43;YTSIEF~%7B000500%5E000500%7D~%7B0000%7D_hu_a1e88ba0076324da.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B000500%5E000500%7D~%7B0000%7D_hu_cfb9a20d037a1689.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B000500%5E000500%7D~%7B0000%7D_hu_f18d33c26262e4b7.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B000500%5E000500%7D~%7B0000%7D_hu_cfb9a20d037a1689.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B000500%5E000500%7D~%7B0000%7D_hu_a1e88ba0076324da.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;YTSIEF~{000500^000500}~{0000}.png"
  loading="lazy" /&gt;
@@ -540,13 +540,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;YTSIEF~%7B001024%5E001024%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B001024%5E001024%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;YTSIEF~{001024^001024}~{0000}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;YTSIEF~{001024^001024}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;YTSIEF~%7B001024%5E001024%7D~%7B0000%7D_hu_4d7bf2c48e9e384e.png"
- srcset="/images/gallery/LG&amp;#43;YTSIEF~%7B001024%5E001024%7D~%7B0000%7D_hu_c1b5cbdd9965a55b.png 400w, /images/gallery/LG&amp;#43;YTSIEF~%7B001024%5E001024%7D~%7B0000%7D_hu_4d7bf2c48e9e384e.png 800w, /images/gallery/LG&amp;#43;YTSIEF~%7B001024%5E001024%7D~%7B0000%7D_hu_86bd04df94216b92.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B001024%5E001024%7D~%7B0000%7D_hu_4d7bf2c48e9e384e.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B001024%5E001024%7D~%7B0000%7D_hu_c1b5cbdd9965a55b.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B001024%5E001024%7D~%7B0000%7D_hu_4d7bf2c48e9e384e.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B001024%5E001024%7D~%7B0000%7D_hu_86bd04df94216b92.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;YTSIEF~{001024^001024}~{0000}.png"
  loading="lazy" /&gt;
@@ -564,13 +564,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0000}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_cb468b12b2799f03.png"
- srcset="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_32c509008b0286a9.png 400w, /images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_cb468b12b2799f03.png 800w, /images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_90f9dcc62718b3.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_cb468b12b2799f03.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_32c509008b0286a9.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_cb468b12b2799f03.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0000%7D_hu_90f9dcc62718b3.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0000}.png"
  loading="lazy" /&gt;
@@ -588,13 +588,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0001}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0001}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_c37fd3a2f319c2e4.png"
- srcset="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_9f6b6f2cabfabf3.png 400w, /images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_c37fd3a2f319c2e4.png 800w, /images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_53fd372ae5b8db90.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_c37fd3a2f319c2e4.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_9f6b6f2cabfabf3.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_c37fd3a2f319c2e4.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0001%7D_hu_53fd372ae5b8db90.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0001}.png"
  loading="lazy" /&gt;
@@ -612,13 +612,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0002%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0002%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0002}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0002}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0002%7D_hu_af81b41ed0261052.png"
- srcset="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0002%7D_hu_e766e1a83c639995.png 400w, /images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0002%7D_hu_af81b41ed0261052.png 800w, /images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0002%7D_hu_4ac992085e0c0bb0.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0002%7D_hu_af81b41ed0261052.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0002%7D_hu_e766e1a83c639995.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0002%7D_hu_af81b41ed0261052.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0002%7D_hu_4ac992085e0c0bb0.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0002}.png"
  loading="lazy" /&gt;
@@ -636,13 +636,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0003%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0003%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0003}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0003}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0003%7D_hu_2884080a96c00fab.png"
- srcset="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0003%7D_hu_8970092e3ff17a61.png 400w, /images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0003%7D_hu_2884080a96c00fab.png 800w, /images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0003%7D_hu_1513112b181262e9.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0003%7D_hu_2884080a96c00fab.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0003%7D_hu_8970092e3ff17a61.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0003%7D_hu_2884080a96c00fab.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0003%7D_hu_1513112b181262e9.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0003}.png"
  loading="lazy" /&gt;
@@ -660,13 +660,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0004%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0004%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0004}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0004}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0004%7D_hu_63f76fe3aa1e4efd.png"
- srcset="/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0004%7D_hu_6614c9312e3592be.png 400w, /images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0004%7D_hu_63f76fe3aa1e4efd.png 800w, /images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0004%7D_hu_cee7780c5120b54a.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0004%7D_hu_63f76fe3aa1e4efd.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0004%7D_hu_6614c9312e3592be.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0004%7D_hu_63f76fe3aa1e4efd.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B004096%5E004096%7D~%7B0004%7D_hu_cee7780c5120b54a.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;YTSIEF~{004096^004096}~{0004}.png"
  loading="lazy" /&gt;
@@ -684,13 +684,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0000%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0000%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;YTSIEF~{005760^003240}~{0000}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;YTSIEF~{005760^003240}~{0000}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0000%7D_hu_af9b5aca0610f72e.png"
- srcset="/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0000%7D_hu_6b4f5f1c4a8d4636.png 400w, /images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0000%7D_hu_af9b5aca0610f72e.png 800w, /images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0000%7D_hu_b572f2e81223202.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0000%7D_hu_af9b5aca0610f72e.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0000%7D_hu_6b4f5f1c4a8d4636.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0000%7D_hu_af9b5aca0610f72e.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0000%7D_hu_b572f2e81223202.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;YTSIEF~{005760^003240}~{0000}.png"
  loading="lazy" /&gt;
@@ -708,13 +708,13 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  
 
  &lt;figure class="gallery-item" role="listitem"&gt;
- &lt;a href="/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0001%7D.png"
- data-lightbox="gallery-1762535973"
+ &lt;a href="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0001%7D.png"
+ data-lightbox="gallery-1762536298"
  data-caption="/images/gallery/LG&amp;#43;YTSIEF~{005760^003240}~{0001}.png"
  aria-label="Open image: /images/gallery/LG&amp;#43;YTSIEF~{005760^003240}~{0001}.png"&gt;
  &lt;img
- src="/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0001%7D_hu_eb6325060c9bc12c.png"
- srcset="/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0001%7D_hu_3bd52dd152131ad0.png 400w, /images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0001%7D_hu_eb6325060c9bc12c.png 800w, /images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0001%7D_hu_53fc07bffb94b141.png 1200w"
+ src="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0001%7D_hu_eb6325060c9bc12c.png"
+ srcset="https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0001%7D_hu_3bd52dd152131ad0.png 400w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0001%7D_hu_eb6325060c9bc12c.png 800w, https://enemyatgates.github.io/ModnarMusings/images/gallery/LG&amp;#43;YTSIEF~%7B005760%5E003240%7D~%7B0001%7D_hu_53fc07bffb94b141.png 1200w"
  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
  alt="/images/gallery/LG&amp;#43;YTSIEF~{005760^003240}~{0001}.png"
  loading="lazy" /&gt;
@@ -728,7 +728,7 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
  &lt;/div&gt;
 
  
- &lt;p class="gallery-title"&gt;Reverie concepts&lt;/p&gt;</description></item><item><title>Resume</title><link>/posts/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/resume/</guid><description>&lt;article class="resume"&gt;
+ &lt;p class="gallery-title"&gt;Reverie concepts&lt;/p&gt;</description></item><item><title>Resume</title><link>https://enemyatgates.github.io/ModnarMusings/posts/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/resume/</guid><description>&lt;article class="resume"&gt;
  &lt;header&gt;
  &lt;h1&gt;Thorian, Vikas Chandra&lt;/h1&gt;
  &lt;p class="title"&gt;Thought and Transformation&lt;/p&gt;
@@ -775,7 +775,7 @@ and building early-stage ventures. I build with a focus on emotional intelligenc
 
  &lt;section class="skills"&gt;
  &lt;h2&gt;Skills&lt;/h2&gt;
- &lt;p&gt;Product Design, Technical Writing, Hugo, Markdown&lt;/p&gt;</description></item><item><title>Venture + Blog [Philosophy]</title><link>/posts/ventures/venture-+-blog-philosophy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/ventures/venture-+-blog-philosophy/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
+ &lt;p&gt;Product Design, Technical Writing, Hugo, Markdown&lt;/p&gt;</description></item><item><title>Venture + Blog [Philosophy]</title><link>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-blog-philosophy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-blog-philosophy/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -785,7 +785,7 @@ and building early-stage ventures. I build with a focus on emotional intelligenc
 &lt;p&gt;&lt;strong&gt;Philosophy and Pop Culture&lt;/strong&gt;: Explore how philosophical ideas are depicted in movies, books, and TV shows. Analyze the deeper philosophical themes in popular culture.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Philosophical Debates&lt;/strong&gt;: Write about ongoing or classic philosophical debates. For example, explore the free will vs. determinism debate, the mind-body problem, or the trolley problem.&lt;/p&gt;</description></item><item><title>Venture + Brand "Thorian"</title><link>/posts/ventures/venture-+-brand-_thorian_/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/ventures/venture-+-brand-_thorian_/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
+&lt;p&gt;&lt;strong&gt;Philosophical Debates&lt;/strong&gt;: Write about ongoing or classic philosophical debates. For example, explore the free will vs. determinism debate, the mind-body problem, or the trolley problem.&lt;/p&gt;</description></item><item><title>Venture + Brand "Thorian"</title><link>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-brand-_thorian_/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-brand-_thorian_/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;2025.04.21 @ 19:49:00 IST&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id="venture--brand-thorian"&gt;Venture + Brand &amp;ldquo;Thorian&amp;rdquo;&lt;a class="anchor" href="#venture--brand-thorian"&gt;#&lt;/a&gt;&lt;/h1&gt;
@@ -896,7 +896,7 @@ and building early-stage ventures. I build with a focus on emotional intelligenc
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id="miscellaneous"&gt;&lt;strong&gt;Miscellaneous&lt;/strong&gt;&lt;a class="anchor" href="#miscellaneous"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Has created a manifesto titled &amp;ldquo;The Manifesto of the Self-Governed Daughter,&amp;rdquo; written in the voice of Xandra Amgine Thorian. It is structured into 16 chapters, each divided into sections and sub-sections, intended to be a 100-page document focusing on self-governance, power, identity, and strategic transformation for their daughter. Each chapter has symbolic themes and philosophical undertones, replacing the earlier plan for sixteen letters.&lt;/p&gt;</description></item><item><title>Venture + E-Recycle</title><link>/posts/ventures/venture-+-e-recycle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/ventures/venture-+-e-recycle/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
+&lt;p&gt;Has created a manifesto titled &amp;ldquo;The Manifesto of the Self-Governed Daughter,&amp;rdquo; written in the voice of Xandra Amgine Thorian. It is structured into 16 chapters, each divided into sections and sub-sections, intended to be a 100-page document focusing on self-governance, power, identity, and strategic transformation for their daughter. Each chapter has symbolic themes and philosophical undertones, replacing the earlier plan for sixteen letters.&lt;/p&gt;</description></item><item><title>Venture + E-Recycle</title><link>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-e-recycle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-e-recycle/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;2025.04.02 @ 21:25:00 IST&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id="venture--e-recycle"&gt;Venture + E-Recycle&lt;a class="anchor" href="#venture--e-recycle"&gt;#&lt;/a&gt;&lt;/h1&gt;
@@ -908,7 +908,7 @@ and building early-stage ventures. I build with a focus on emotional intelligenc
 &lt;p&gt;&lt;strong&gt;Key Features&lt;/strong&gt;:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;E-Waste Collection and Recycling&lt;/strong&gt;: EcoTechRecycle sets up collection centers in various communities and partners with businesses to collect and recycle electronic waste such as old smartphones, laptops, tablets, and other gadgets. They ensure that these electronic devices are properly recycled, preventing harmful materials from ending up in landfills.&lt;/p&gt;</description></item><item><title>Venture + Entrepreneurial</title><link>/posts/ventures/venture-+-entrepreneurial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/ventures/venture-+-entrepreneurial/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
+&lt;p&gt;&lt;strong&gt;E-Waste Collection and Recycling&lt;/strong&gt;: EcoTechRecycle sets up collection centers in various communities and partners with businesses to collect and recycle electronic waste such as old smartphones, laptops, tablets, and other gadgets. They ensure that these electronic devices are properly recycled, preventing harmful materials from ending up in landfills.&lt;/p&gt;</description></item><item><title>Venture + Entrepreneurial</title><link>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-entrepreneurial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-entrepreneurial/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;2023.04.01 00:00:00 IST&lt;/strong&gt;: Created
 &lt;strong&gt;2025.03.02 02:13:00 IST&lt;/strong&gt;: Updated&lt;/p&gt;
@@ -983,7 +983,7 @@ and building early-stage ventures. I build with a focus on emotional intelligenc
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;a href="../../seton/Ventures/Venture%20&amp;#43;%20Blog%20[Philosophy].md"&gt;Venture + Blog [Philosophy]&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Venture + Nyxathrone</title><link>/posts/ventures/venture-+-nyxathrone/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/ventures/venture-+-nyxathrone/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
+&lt;p&gt;&lt;a href="../../seton/Ventures/Venture%20&amp;#43;%20Blog%20[Philosophy].md"&gt;Venture + Blog [Philosophy]&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Venture + Nyxathrone</title><link>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-nyxathrone/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-nyxathrone/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
 &lt;h1 id="-"&gt;🧭 &lt;em&gt;&amp;ldquo;Project Nyxathrone&amp;rdquo;&lt;/em&gt;&lt;a class="anchor" href="#-"&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;h2 id="-target-to-be-the-prime-minister-of-india-age-4550"&gt;&lt;em&gt;🎯 Target: To be the Prime Minister of India&lt;/em&gt; [Age 45–50]&lt;a class="anchor" href="#-target-to-be-the-prime-minister-of-india-age-4550"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;h3 id="--age-1618"&gt;🔹 &lt;em&gt;&amp;ldquo;Foundations of Fire&amp;rdquo;&lt;/em&gt; [Age 16–18]&lt;a class="anchor" href="#--age-1618"&gt;#&lt;/a&gt;&lt;/h3&gt;
@@ -998,7 +998,7 @@ and building early-stage ventures. I build with a focus on emotional intelligenc
 &lt;div style="page-break-after: always;"&gt;&lt;/div&gt;
 &lt;h1 id="--age-1618-1"&gt;🔹 &lt;em&gt;&amp;ldquo;Foundations of Fire&amp;rdquo;&lt;/em&gt; [Age 16–18]&lt;a class="anchor" href="#--age-1618-1"&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;h3 id="-high-school-focus"&gt;✅ High School Focus&lt;a class="anchor" href="#-high-school-focus"&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;mdash; Humanities with History, Political Science, Economics, Philosophy, and so on.&lt;/p&gt;</description></item><item><title>Venture + Political Manifesto</title><link>/posts/ventures/venture-+-political-manifesto/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/ventures/venture-+-political-manifesto/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
+&lt;p&gt;&amp;mdash; Humanities with History, Political Science, Economics, Philosophy, and so on.&lt;/p&gt;</description></item><item><title>Venture + Political Manifesto</title><link>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-political-manifesto/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-political-manifesto/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;2025.04.02 @ 21:26:00 IST&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id="venture--political-manifesto"&gt;Venture + Political Manifesto&lt;a class="anchor" href="#venture--political-manifesto"&gt;#&lt;/a&gt;&lt;/h1&gt;
@@ -1006,7 +1006,7 @@ and building early-stage ventures. I build with a focus on emotional intelligenc
 &lt;hr&gt;
 &lt;h2 id="manifesto-of-the-oppressed-a-call-for-socialist-revolution"&gt;Manifesto of the Oppressed: A Call for Socialist Revolution&lt;a class="anchor" href="#manifesto-of-the-oppressed-a-call-for-socialist-revolution"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Comrades, workers, tillers of the soil, the exploited of all stripes!&lt;/p&gt;
-&lt;p&gt;For too long, we have suffered under the crushing weight of a rigged system. The capitalist machine grinds on, churning out profit for the privileged few while leaving the vast majority to toil for scraps. We are the bakers with empty cupboards, the builders sleeping in the streets, the minds overflowing with potential chained to dead-end jobs.&lt;/p&gt;</description></item><item><title>Venture + Politics [Indian National Congress]</title><link>/posts/ventures/venture-+-politics-indian-national-congress/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/ventures/venture-+-politics-indian-national-congress/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
+&lt;p&gt;For too long, we have suffered under the crushing weight of a rigged system. The capitalist machine grinds on, churning out profit for the privileged few while leaving the vast majority to toil for scraps. We are the bakers with empty cupboards, the builders sleeping in the streets, the minds overflowing with potential chained to dead-end jobs.&lt;/p&gt;</description></item><item><title>Venture + Politics [Indian National Congress]</title><link>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-politics-indian-national-congress/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-politics-indian-national-congress/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;2023.04.01 01:05:00&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -1030,7 +1030,7 @@ India&amp;rsquo;s democracy is on a dangerous path and it&amp;rsquo;s on the ver
 - Execution
 &lt;strong&gt;Action Plan&lt;/strong&gt;
 &lt;strong&gt;Roles and Responsibilities&lt;/strong&gt;
-&lt;strong&gt;Media Enrollment&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Venture + Projects</title><link>/posts/ventures/venture-+-projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/ventures/venture-+-projects/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
+&lt;strong&gt;Media Enrollment&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Venture + Projects</title><link>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/ventures/venture-+-projects/</guid><description>&lt;style&gt; @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" &lt;/style&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;2025.04.26 @ 00:07:00 IST&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id="venture--projects"&gt;Venture + Projects&lt;a class="anchor" href="#venture--projects"&gt;#&lt;/a&gt;&lt;/h1&gt;
@@ -1197,7 +1197,7 @@ India&amp;rsquo;s democracy is on a dangerous path and it&amp;rsquo;s on the ver
 &lt;li&gt;Android development (beginner)&lt;/li&gt;
 &lt;li&gt;Marp (Markdown Presentation Ecosystem)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;</description></item><item><title>Welcome to Modnar Fucking Musings</title><link>/posts/temp0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/temp0/</guid><description>&lt;div class="home-intro"&gt;
+&lt;hr&gt;</description></item><item><title>Welcome to Modnar Fucking Musings</title><link>https://enemyatgates.github.io/ModnarMusings/posts/temp0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://enemyatgates.github.io/ModnarMusings/posts/temp0/</guid><description>&lt;div class="home-intro"&gt;
  &lt;h1&gt;Welcome to the Modnar Musings&lt;/h1&gt;
  &lt;p&gt;&lt;strong&gt;We build elegant, open-source digital experiences.&lt;/strong&gt;&lt;/p&gt;
  &lt;p&gt;Explore our writing, projects, and ideas.&lt;/p&gt;
