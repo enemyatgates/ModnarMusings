@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#ff4d4d",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Garamond",
+  "monospaceFontFamily": "Garamond",
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "default"
+  ]
+}

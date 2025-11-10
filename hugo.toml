@@ -1,0 +1,123 @@
+baseURL = "/"
+
+title = "Modnar Musings"
+theme = "HugoRelearn"
+
+languageCode = "en-us"
+canonifyURLs = true
+relativeURLs = false
+
+[params]
+    HideCopyright = true
+    ShowBreadCrumbs = true
+    ShowBreadCrumbsInPost = true
+    ShowCodeCopyButtons = true
+    ShowPostNavLinks = true
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowSidebar = true
+    ShowToc = true
+    TocOpen = true
+    dateFormat = "Monday, January 02, 2006 @ 15:04:05 MST"
+    defaultTheme = "auto"
+    disableThemeToggle = false
+    alwaysopen = true
+    showSectionPages = true
+    disableLandingPage = false
+    
+    BookLogo = "images/logo.png"
+    ignoreFiles = [
+        "\\.psd$",           # ignore Photoshop files
+        "\\.bak$",           # ignore backup files
+        "^drafts/",          # ignore a folder named 'drafts' at the root
+        "^_archive/",        # ignore '_archive' folder
+        "node_modules/",     # ignore node_modules
+        "\\.DS_Store"        # ignore macOS metadata
+        ]
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        name = "Blog"
+        url = "/blog/"
+        weight = 2
+
+    [[menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 3
+
+    [[menu.main]]
+        name = "Posts"
+        url = "/posts/"
+        weight = 4
+
+[params.assets]
+    customCSS = ["css/custom.css"]
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+#[params.homeInfoParams]
+#  Title = "Welcome to Modnar Musings"
+#  Content = "We build elegant, open-source digital experiences. Explore our writing, projects, and ideas."
+
+# -------------------------------------------------------------------
+# Global Outputs Configuration
+# Applies across all content kinds in the Hugo build
+# -------------------------------------------------------------------
+
+[outputs]
+    home    = ["HTML", "RSS", "JSON", "AMP", "Calendar", "RobotsTXT", "Sitemap", "PDF", "SearchIndex", "Manifest"]
+    section = ["HTML", "RSS", "JSON", "AMP", "PDF", "SearchIndex"]
+    taxonomy = ["HTML", "RSS", "JSON", "SearchIndex"]
+    term     = ["HTML", "RSS", "JSON"]
+    page     = ["HTML", "JSON", "AMP", "PDF"]
+
+    # -------------------------------------------------------------------
+    # Custom Output Formats (define any that aren’t built-in)
+    # -------------------------------------------------------------------
+
+    [outputFormats.PDF]
+        mediaType     = "application/pdf"
+        baseName      = "document"
+        isPlainText   = false
+        notAlternative = true
+        rel            = "alternate"
+
+    [outputFormats.SearchIndex]
+        mediaType     = "application/json"
+        baseName      = "search"
+        isPlainText   = true
+        notAlternative = true
+
+    [outputFormats.Manifest]
+        mediaType     = "application/manifest+json"
+        baseName      = "manifest"
+        isPlainText   = true
+        notAlternative = true
+
+    # Optional (ensure these are defined if missing in your theme)
+    [outputFormats.AMP]
+        mediaType     = "text/html"
+        baseName      = "amp"
+        isPlainText   = false
+        rel           = "amphtml"
+
+    [outputFormats.Calendar]
+        mediaType     = "text/calendar"
+        baseName      = "calendar"
+        isPlainText   = true
+        notAlternative = true
+
+    [outputFormats.RobotsTXT]
+        mediaType = "text/plain"
+        baseName  = "robots"
+        isPlainText = true
+        notAlternative = true

@@ -1,0 +1,16 @@
+{{- /* SearchIndex for home (single JSON file) */ -}}
+[
+{{- $first := true -}}
+{{- range .Site.RegularPages -}}
+  {{- if not $first }},{{ end -}}
+  {{- $first = false -}}
+  {
+    "title": {{- jsonify .Title -}},
+    "permalink": {{- jsonify .Permalink -}},
+    "summary": {{- jsonify (plainify .Summary) -}},
+    "content": {{- jsonify (plainify .Plain) -}},
+    "date": {{- jsonify .Date -}}
+  }
+{{- end -}}
+]
+

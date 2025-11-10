@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "American Typewriter",
+  "showViewHeader": false,
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "default"
+  ],
+  "cssTheme": ""
+}

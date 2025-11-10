@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "78532432b03b3635",
+    "type": "split",
+    "children": [
+      {
+        "id": "d942c1287ffeb333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9faf87eaf53e488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00~Meta/00~Roadmap.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "00~Roadmap"
+            },
+            "group": "fb15bbad8b287bea"
+          }
+        ]
+      },
+      {
+        "id": "7c6bff7733cc9a45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9587aed61508df55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00~Meta/00~Roadmap.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "00~Roadmap"
+            },
+            "group": "fb15bbad8b287bea"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "162ad10efa267c0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6859a7ed8a639b74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da028d822c83b518",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "debb283a0a0ca43a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7f6027f5a650534b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3a24a5822d81c35",
+    "type": "split",
+    "children": [
+      {
+        "id": "587c342b66fe6616",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02617730e8c7ad8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ReadMe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ReadMe"
+            }
+          },
+          {
+            "id": "772dadd5fb7a9e5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ReadMe.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ReadMe"
+            }
+          },
+          {
+            "id": "75232fc2d48cec5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "df19961e4a4eb118",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ReadMe.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ReadMe"
+            }
+          },
+          {
+            "id": "4888bbc4ececb6f4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "f9faf87eaf53e488",
+  "lastOpenFiles": [
+    "00~Meta/00~Proposal.md",
+    "00~Meta/00~Meetings.md",
+    "00~Meta/00~Dashboard.md",
+    "Welcome.md",
+    "01~Introduction/00~Outline.md",
+    "00~Meta/00~Roadmap.md",
+    "ReadMe.md",
+    "90~Templates/Template+Doctrine.md",
+    "02~Psychology/99~MOC Psychology.md",
+    "02~Psychology/03~Cognitive Biases.md",
+    "02~Psychology/02~Emotional Alchemy.md",
+    "02~Psychology/01~Mind Over Materiel.md",
+    "01~Introduction/00~Anecdotes.md",
+    "03~Espionage/99~MOC Espionage.md",
+    "03~Espionage/05~Counter Intelligence.md",
+    "03~Espionage/04~Psy Ops.md",
+    "03~Espionage/03~Game Theory.md",
+    "03~Espionage/02~Tradecraft.md",
+    "03~Espionage/01~Deception.md"
+  ]
+}

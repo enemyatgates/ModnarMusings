@@ -1,0 +1,13 @@
+{
+  "accentColor": "#ff4d4d",
+  "textFontFamily": "Garamond",
+  "monospaceFontFamily": "Garamond",
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "theprompts~00",
+    "default",
+    "CG+OBSIDIANDEFAULT~{00}"
+  ],
+  "theme": "obsidian",
+  "baseFontSize": 16
+}

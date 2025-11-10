@@ -1,0 +1,10 @@
+port 1313 already in use, attempting to use an available port
+Watching for changes in /home/thorianvc/.hugo/ModnarMusings/{archetypes,assets,content,data,layouts,static,themes}
+Watching for config changes in /home/thorianvc/.hugo/ModnarMusings/hugo.toml, /home/thorianvc/.hugo/ModnarMusings/themes/HugoRelearn/hugo.toml
+Start building sites … 
+hugo v0.146.0-5d1b9d39858bb0b2e505af9f649bfb55295ecca1+extended linux/amd64 BuildDate=2025-04-10T14:57:56Z VendorInfo=gohugoio
+
+INFO  static: syncing static files to / duration 22.823077ms
+INFO  build:  step process substep collect files 404 files_total 404 pages_total 289 resources_total 115 duration 179.018869ms
+INFO  build:  step process duration 179.25986ms
+INFO  build:  step assemble duration 156.50251ms

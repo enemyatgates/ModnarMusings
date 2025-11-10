@@ -1,0 +1,13 @@
+{
+  "livePreview": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

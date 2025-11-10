@@ -61,3 +61,6 @@
 [submodule "themes/HugoBook"]
 	path = themes/HugoBook
 	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/HugoRelearn"]
+	path = themes/HugoRelearn
+	url = https://github.com/McShelby/hugo-theme-relearn.git

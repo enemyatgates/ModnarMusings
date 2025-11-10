@@ -1,0 +1,29 @@
+{{/* layouts/_default/list.print.html — safe, Hugo-version-agnostic */}}
+<!doctype html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }} — {{ .Site.Title }}</title>
+
+  {{/* Attempt partial (will error if missing) removed — use lightweight fallback */}}
+  {{/* If you have a print-specific partial, paste its HTML here or copy it to layouts/partials/print-head.html */}}
+
+  <style>
+    /* tiny print styles to keep things readable */
+    body{ font-family: serif; margin: 1.5cm; }
+    h1{ font-size: 18pt }
+    ul{ margin-top: 1rem }
+  </style>
+</head>
+<body>
+  <header><h1>{{ .Title }}</h1></header>
+
+  <main>
+    <ul>
+    {{ range .Pages.ByDate.Reverse }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> — {{ .Date.Format "02 Jan 2006" }}</li>
+    {{ end }}
+    </ul>
+  </main>
+</body>
+</html>

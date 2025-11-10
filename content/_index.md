@@ -1,22 +1,20 @@
----
-# title: "Vikas Chandra Thorian"
-# subtitle: "Thought & Transformation — I build frameworks, not followers"
-date: 2025-11-05
-draft: false
-type: "home"
-description: "The personal and philosophical profile of Vikas Chandra Thorian — a polymath navigating the intersections of mind, machine, and meaning. I am a strategist, technologist, writer and contrarian. I design ideas that survive; businesses and people that endure."
-author: "Vikas Chandra Thorian"
-keywords: ["Vikas Chandra Thorian", "Kabootar Modnar Thorian", "Xander Amgine Thorian", "Nyxara Amgine Thorian", "Project Black Rose", "Reverie", "The Grand Indian Republic"]
-tags: ["Thought & Transformation","Project Black Rose","Reverie","The Grand Indian Republic","Essentialism"]
-# Optional hero image; replace with your own path if you want a visual header
-hero_image: "/images/hero/black-rose.jpg"
-# Social links — change to real handles
-social:
-  linkedin: "https://linkedin.com/in/vikasthorian"
-  instagram: "https://instagram.com/kabootarmodnar"
-  x: "https://x.com/kabootarmodnar"
-  github: "https://github.com/vikasthorian"
----
++++
+title = "Modnar Musings"
+subtitle = "Thought & Transformation — I build frameworks, not followers"
+type = "home"
+draft = false
+date = 2025-11-05 06:00:00+05:30
+description = "The complete philosophical and professional profile of Vikas Chandra Thorian. The personal and philosophical profile of Vikas Chandra Thorian — a polymath navigating the intersections of mind, machine, and meaning. I am a strategist, technologist, writer and contrarian. I design ideas that survive; businesses and people that endure."
+author = "Thorian, Vikas Chandra"
+keywords = ["Vikas Chandra Thorian", "Kabootar Modnar Thorian", "Xander Amgine Thorian", "Nyxara Amgine Thorian", "Project Black Rose", "Reverie", "The Grand Indian Republic"]
+tags = ["Thought & Transformation", "Project Black Rose", "Reverie", "The Grand Indian Republic", "Essentialism"]
+weight = 1
++++
+
+![The Fucking Purple Pulpo](images/logo.svg?inlinecontent&purple&width=16vh)
+
+> **"When {{% badge style="primary" icon="anchor" %}} The Purple Pulpo {{% /badge %}} sets sail, even the fish hold their breath."**  
+> ~ Old fisherman’s tale
 
 # 🜂 **Thorian, Vikas Chandra**
 *also known as*
@@ -368,18 +366,11 @@ I’m not interested in vanity metrics or gentle applause. I build things that m
 ---
 ---
 
----
-title: "About"
-subtitle: "The Long Version — The Man Who Burnt Himself, Then Watched"
-type: "page"
-draft: false
-date: 2025-11-05
-description: "The complete philosophical and professional profile of Vikas Chandra Thorian."
----
-
 # 🜂 Vikas Chandra Thorian  
 *also known as* **Kabootar Modnar Thorian**, **Xander Amgine Thorian**, **Nyxara Amgine Thorian**
 
+---
+---
 ---
 
 ## ⚙️ Operating System: Thought and Transformation
@@ -388,6 +379,8 @@ I don’t live by trends; I live by frameworks.
 **Thought and Transformation** is both philosophy and process — a discipline forged from introspection and rebellion.  
 Every idea must earn its survival through utility, honesty, and endurance.
 
+---
+---
 ---
 
 ## 🧭 Who I Am
@@ -399,6 +392,8 @@ Personally, I wrestle with the absurd and find patterns where others see chaos.
 
 I don’t believe in balance; I believe in depth.
 
+---
+---
 ---
 
 ## 🔱 Fields I Work In
@@ -419,6 +414,8 @@ Innovation is not disruption; it’s restoration.
 My words are autopsies of existence — essays that cut through modern pretence to expose the architecture beneath.
 
 ---
+---
+---
 
 ## 🪶 Personas
 
@@ -426,11 +423,14 @@ My words are autopsies of existence — essays that cut through modern pretence 
 |----------|---------|----------|
 | **Kabootar Modnar Thorian** | Poet | The surreal dreamer, absurdist, and mystic. |
 | **Xander Amgine Thorian** | Technologist | The rational architect and system-maker. |
+| **Xandra Amgine Thorian** | Technologist | The rational architect and system-maker. |
 | **Nyxara Amgine Thorian** | Mirror | The emotional counterforce, intuitive and disciplined. |
 | **Vikas Chandra Thorian** | Realist | The strategist and philosopher — the man behind the masks. |
 
 Together, they form my ecosystem. Each name is a tool — not for hiding, but for exploring a facet of truth.
 
+---
+---
 ---
 
 ## 🧠 Frameworks & Projects
@@ -452,6 +452,8 @@ A civilisational blueprint uniting the Indian subcontinent through shared destin
 It’s not politics; it’s restoration of identity.
 
 ---
+---
+---
 
 ## 🕒 Discipline: The Pi-Hour
 
@@ -459,6 +461,8 @@ I begin my day at *Pi-Hour* — the still moment before dawn.
 It’s not a productivity hack; it’s a philosophy:  
 > *Discipline is devotion. Devotion is clarity. Clarity is freedom.*
 
+---
+---
 ---
 
 ## ⚖️ Personal Ethos
@@ -469,6 +473,8 @@ It’s not a productivity hack; it’s a philosophy:
 - **Time is currency; money is illusion.**  
 - **Standing up costs more — and is worth it.**
 
+---
+---
 ---
 
 ## 💬 Selected Works
@@ -481,6 +487,8 @@ It’s not a productivity hack; it’s a philosophy:
 - **The Doomed Carnival** — a completed poetic apocalypse.
 
 ---
+---
+---
 
 ## 🩸 Core Beliefs
 
@@ -490,6 +498,8 @@ It’s not a productivity hack; it’s a philosophy:
 
 > “In the end, all that remains is conviction — everything else burns.”
 
+---
+---
 ---
 
 ## 🧩 Influences
@@ -504,6 +514,8 @@ Composite archetypes that define my operating code:
 - Joker — the absurd as truth serum.
 
 ---
+---
+---
 
 ## 🕯️ Present Focus
 
@@ -513,17 +525,21 @@ Composite archetypes that define my operating code:
 - Completing *The Pi-Hour Manifesto* essays.
 
 ---
+---
+---
 
-## 📫 Contact
+### 📫 Contact
 
 | Platform | Link |
 |-----------|------|
-| LinkedIn | [linkedin.com/in/vikasthorian](https://linkedin.com/in/vikasthorian) |
-| Instagram | [instagram.com/kabootarmodnar](https://instagram.com/kabootarmodnar) |
-| X (Twitter) | [x.com/kabootarmodnar](https://x.com/kabootarmodnar) |
+| Email | hello@vikasthorian.com |
 | GitHub | [github.com/vikasthorian](https://github.com/vikasthorian) |
-| Email | `hello@vikasthorian.com` (replace with your real one) |
+| Instagram | [instagram.com/kabootarmodnar](https://instagram.com/kabootarmodnar) |
+| LinkedIn | [linkedin.com/in/vikasthorian](https://linkedin.com/in/vikasthorian) |
+| X | [x.com/kabootarmodnar](https://x.com/kabootarmodnar) |
 
+---
+---
 ---
 
 ## 🪞 Closing Thought
@@ -534,5 +550,14 @@ If meaninglessness is the disease of our age, then maybe my work is the antidote
 > *“I’ve been lonely, depressed, and anxious since my early teens — but that loneliness became my forge, that anxiety my teacher, that depression my truth.”*
 
 ---
+---
+---
 
 *© 2025 Vikas Chandra Thorian — All mistakes, scars, and revolutions mine.*
+
+## Optional Hero Image
+hero_image: "/images/hero/black-rose.jpg" # replace with your own path if you want a visual header
+
+---
+---
+---

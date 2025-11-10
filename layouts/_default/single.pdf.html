@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+  <style>
+    /* Minimal print styles — tweak as you like */
+    body { font-family: serif; margin: 2cm; }
+    h1 { font-size: 20pt; }
+    p { font-size: 11pt; }
+  </style>
+</head>
+<body>
+  <article>
+    <h1>{{ .Title }}</h1>
+    <p><small>Published: {{ .Date.Format "02 Jan 2006" }}</small></p>
+    {{ .Content | safeHTML }}
+  </article>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{{/* list.json: basic list of pages for sections */}}
+{
+  "title": {{ jsonify .Title }},
+  "pages": [
+    {{- $first := true -}}
+    {{- range .Pages -}}
+      {{- if not $first }},{{ end -}}
+      {{- $first = false -}}
+      {
+        "title": {{ jsonify .Title }},
+        "permalink": {{ jsonify .Permalink }},
+        "date": {{ jsonify .Date }}
+      }
+    {{- end -}}
+  ]
+}

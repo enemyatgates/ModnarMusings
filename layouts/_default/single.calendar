@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//{{ .Site.Title }}//EN
+CALSCALE:GREGORIAN
+{{ range .Params.events }}
+BEGIN:VEVENT
+UID:{{ .id }}
+DTSTAMP:{{ .dtstamp }}
+DTSTART:{{ .dtstart }}
+DTEND:{{ .dtend }}
+SUMMARY:{{ .summary }}
+DESCRIPTION:{{ .description }}
+END:VEVENT
+{{ end }}
+END:VCALENDAR
