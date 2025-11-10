@@ -1,0 +1,35 @@
+<!doctype html><html amp lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,minimum-scale=1,initial-scale=1"><title>Sync to Notion | Modnar Musings</title><link rel=canonical href=https://enemyatgates.github.io/ModnarMusings/amp/notion~00/notion_sync/amp.html><script async src=https://cdn.ampproject.org/v0.js></script></head><body><article><h1>Sync to Notion</h1><p><small>01 Jan 0001</small></p><div class="highlight wrap-code" dir=auto><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-yml data-lang=yml><span style=display:flex><span><span style=color:#f92672>name</span>: <span style=color:#ae81ff>Sync to Notion</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>on</span>:
+</span></span><span style=display:flex><span>  <span style=color:#f92672>push</span>:
+</span></span><span style=display:flex><span>    <span style=color:#f92672>paths</span>:
+</span></span><span style=display:flex><span>      - <span style=color:#e6db74>&#39;notes/**.md&#39;</span>
+</span></span><span style=display:flex><span>      - <span style=color:#e6db74>&#39;sync_to_notion.py&#39;</span>
+</span></span><span style=display:flex><span>  <span style=color:#f92672>schedule</span>:
+</span></span><span style=display:flex><span>    - <span style=color:#f92672>cron</span>: <span style=color:#e6db74>&#39;0 */12 * * *&#39;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>jobs</span>:
+</span></span><span style=display:flex><span>  <span style=color:#f92672>sync</span>:
+</span></span><span style=display:flex><span>    <span style=color:#f92672>runs-on</span>: <span style=color:#ae81ff>ubuntu-latest</span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>steps</span>:
+</span></span><span style=display:flex><span>      - <span style=color:#f92672>name</span>: <span style=color:#ae81ff>Checkout repo</span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>uses</span>: <span style=color:#ae81ff>actions/checkout@v3</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>      - <span style=color:#f92672>name</span>: <span style=color:#ae81ff>Set up Python</span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>uses</span>: <span style=color:#ae81ff>actions/setup-python@v4</span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>with</span>:
+</span></span><span style=display:flex><span>          <span style=color:#f92672>python-version</span>: <span style=color:#e6db74>&#39;3.11&#39;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>      - <span style=color:#f92672>name</span>: <span style=color:#ae81ff>Install dependencies</span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>run</span>: |<span style=color:#e6db74>
+</span></span></span><span style=display:flex><span><span style=color:#e6db74>          python -m pip install --upgrade pip
+</span></span></span><span style=display:flex><span><span style=color:#e6db74>          pip install notion-client python-dotenv</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>      - <span style=color:#f92672>name</span>: <span style=color:#ae81ff>Run sync script</span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>env</span>:
+</span></span><span style=display:flex><span>          <span style=color:#f92672>NOTION_API_KEY</span>: <span style=color:#ae81ff>${{ secrets.NOTION_API_KEY }}</span>
+</span></span><span style=display:flex><span>          <span style=color:#f92672>DASHBOARD_PAGE_ID</span>: <span style=color:#ae81ff>${{ secrets.DASHBOARD_PAGE_ID }}</span>
+</span></span><span style=display:flex><span>          <span style=color:#f92672>TOOLBOX_PAGE_ID</span>: <span style=color:#ae81ff>${{ secrets.TOOLBOX_PAGE_ID }}</span>
+</span></span><span style=display:flex><span>          <span style=color:#f92672>PHILOSOPHY_PAGE_ID</span>: <span style=color:#ae81ff>${{ secrets.PHILOSOPHY_PAGE_ID }}</span>
+</span></span><span style=display:flex><span>          <span style=color:#f92672>GROOMING_PAGE_ID</span>: <span style=color:#ae81ff>${{ secrets.GROOMING_PAGE_ID }}</span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>run</span>: <span style=color:#ae81ff>python sync_to_notion.py</span></span></span></code></pre></div></article></body></html>

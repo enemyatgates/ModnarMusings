@@ -1,0 +1,48 @@
+<!doctype html><html amp lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,minimum-scale=1,initial-scale=1"><title>The Python Code | Modnar Musings</title><link rel=canonical href=https://enemyatgates.github.io/ModnarMusings/amp/notion~00/sync_to_notion/amp.html><script async src=https://cdn.ampproject.org/v0.js></script></head><body><article><h1>The Python Code</h1><p><small>01 Jan 0001</small></p><p>Start of the Code</p><div class="highlight wrap-code" dir=auto><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-py data-lang=py><span style=display:flex><span><span style=color:#f92672>import</span> os
+</span></span><span style=display:flex><span><span style=color:#f92672>import</span> glob
+</span></span><span style=display:flex><span><span style=color:#f92672>from</span> notion_client <span style=color:#f92672>import</span> Client
+</span></span><span style=display:flex><span><span style=color:#f92672>from</span> dotenv <span style=color:#f92672>import</span> load_dotenv
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#75715e># Load environment variables from .env file</span>
+</span></span><span style=display:flex><span>load_dotenv()
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>notion <span style=color:#f92672>=</span> Client(auth<span style=color:#f92672>=</span>os<span style=color:#f92672>.</span>getenv(<span style=color:#e6db74>&#34;NOTION_API_KEY&#34;</span>))
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#75715e># Page ID mappings</span>
+</span></span><span style=display:flex><span>PAGE_IDS <span style=color:#f92672>=</span> {
+</span></span><span style=display:flex><span>    <span style=color:#e6db74>&#34;🏛️ Dashboard&#34;</span>: os<span style=color:#f92672>.</span>getenv(<span style=color:#e6db74>&#34;DASHBOARD_PAGE_ID&#34;</span>),
+</span></span><span style=display:flex><span>    <span style=color:#e6db74>&#34;🛠️ Toolbox &amp; Tactics&#34;</span>: os<span style=color:#f92672>.</span>getenv(<span style=color:#e6db74>&#34;TOOLBOX_PAGE_ID&#34;</span>),
+</span></span><span style=display:flex><span>    <span style=color:#e6db74>&#34;🌀 Philosophical Constructs&#34;</span>: os<span style=color:#f92672>.</span>getenv(<span style=color:#e6db74>&#34;PHILOSOPHY_PAGE_ID&#34;</span>),
+</span></span><span style=display:flex><span>    <span style=color:#e6db74>&#34;👨‍👧 Grooming Legacy&#34;</span>: os<span style=color:#f92672>.</span>getenv(<span style=color:#e6db74>&#34;GROOMING_PAGE_ID&#34;</span>),
+</span></span><span style=display:flex><span>}
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>def</span> <span style=color:#a6e22e>update_page_from_md</span>(page_title, md_path):
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>with</span> open(md_path, <span style=color:#e6db74>&#39;r&#39;</span>, encoding<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;utf-8&#39;</span>) <span style=color:#66d9ef>as</span> file:
+</span></span><span style=display:flex><span>        content <span style=color:#f92672>=</span> file<span style=color:#f92672>.</span>read()
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e># Truncate if over Notion block character limit</span>
+</span></span><span style=display:flex><span>    content <span style=color:#f92672>=</span> content[:<span style=color:#ae81ff>2000</span>]
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e># Convert markdown to Notion paragraph block</span>
+</span></span><span style=display:flex><span>    blocks <span style=color:#f92672>=</span> [{
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;object&#34;</span>: <span style=color:#e6db74>&#34;block&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;paragraph&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;paragraph&#34;</span>: {
+</span></span><span style=display:flex><span>            <span style=color:#e6db74>&#34;rich_text&#34;</span>: [{
+</span></span><span style=display:flex><span>                <span style=color:#e6db74>&#34;type&#34;</span>: <span style=color:#e6db74>&#34;text&#34;</span>,
+</span></span><span style=display:flex><span>                <span style=color:#e6db74>&#34;text&#34;</span>: {<span style=color:#e6db74>&#34;content&#34;</span>: content}
+</span></span><span style=display:flex><span>            }]
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>    }]
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    print(<span style=color:#e6db74>f</span><span style=color:#e6db74>&#34;Updating Notion page: </span><span style=color:#e6db74>{</span>page_title<span style=color:#e6db74>}</span><span style=color:#e6db74>&#34;</span>)
+</span></span><span style=display:flex><span>    notion<span style=color:#f92672>.</span>blocks<span style=color:#f92672>.</span>children<span style=color:#f92672>.</span>append(PAGE_IDS[page_title], children<span style=color:#f92672>=</span>blocks)
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>def</span> <span style=color:#a6e22e>sync_all_notes</span>():
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>for</span> md_file <span style=color:#f92672>in</span> glob<span style=color:#f92672>.</span>glob(<span style=color:#e6db74>&#34;./notes/*.md&#34;</span>):
+</span></span><span style=display:flex><span>        title <span style=color:#f92672>=</span> os<span style=color:#f92672>.</span>path<span style=color:#f92672>.</span>basename(md_file)<span style=color:#f92672>.</span>replace(<span style=color:#e6db74>&#34;.md&#34;</span>, <span style=color:#e6db74>&#34;&#34;</span>)
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> title <span style=color:#f92672>in</span> PAGE_IDS:
+</span></span><span style=display:flex><span>            update_page_from_md(title, md_file)
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>if</span> __name__ <span style=color:#f92672>==</span> <span style=color:#e6db74>&#34;__main__&#34;</span>:
+</span></span><span style=display:flex><span>    sync_all_notes()</span></span></code></pre></div><p>End of the Code.</p></article></body></html>

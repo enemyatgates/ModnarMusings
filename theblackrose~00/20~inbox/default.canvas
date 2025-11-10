@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"3ab7201477d6cf23","type":"text","text":"World Building","x":-460,"y":-240,"width":114,"height":50},
+		{"id":"3fa24f9791516864","type":"text","text":"Drafting","x":-214,"y":-240,"width":114,"height":50},
+		{"id":"30be02792b24fcda","type":"text","text":"Revising and Output","x":-214,"y":118,"width":114,"height":50},
+		{"id":"e39fa5af6631d946","type":"text","text":"Journaling","x":-460,"y":118,"width":114,"height":50}
+	],
+	"edges":[
+		{"id":"7f4207d2177f0d0d","fromNode":"3ab7201477d6cf23","fromSide":"right","toNode":"3fa24f9791516864","toSide":"left","label":"Export"},
+		{"id":"46881ae4a684458d","fromNode":"30be02792b24fcda","fromSide":"left","toNode":"e39fa5af6631d946","toSide":"right"},
+		{"id":"c0ff07474174f486","fromNode":"e39fa5af6631d946","fromSide":"top","toNode":"3ab7201477d6cf23","toSide":"bottom"},
+		{"id":"8ea261f30e2c2bce","fromNode":"3fa24f9791516864","fromSide":"bottom","toNode":"30be02792b24fcda","toSide":"top"},
+		{"id":"4f7011d37b0a8786","fromNode":"3fa24f9791516864","fromSide":"bottom","toNode":"e39fa5af6631d946","toSide":"top"},
+		{"id":"b095f725c31618a8","fromNode":"3ab7201477d6cf23","fromSide":"bottom","toNode":"30be02792b24fcda","toSide":"top"},
+		{"id":"ee0018cecd72e2ce","fromNode":"e39fa5af6631d946","fromSide":"right","toNode":"30be02792b24fcda","toSide":"left"},
+		{"id":"db02de9dbd88abc9","fromNode":"e39fa5af6631d946","fromSide":"top","toNode":"3fa24f9791516864","toSide":"bottom"}
+	]
+}
