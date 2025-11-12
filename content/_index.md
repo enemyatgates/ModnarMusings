@@ -1,15 +1,17 @@
-+++
-title = "Modnar Musings"
-subtitle = "Thought & Transformation — I build frameworks, not followers"
-type = "home"
-draft = false
-date = 2025-11-05 06:00:00+05:30
-description = "The complete philosophical and professional profile of Vikas Chandra Thorian. The personal and philosophical profile of Vikas Chandra Thorian — a polymath navigating the intersections of mind, machine, and meaning. I am a strategist, technologist, writer and contrarian. I design ideas that survive; businesses and people that endure."
-author = "Thorian, Vikas Chandra"
-keywords = ["Vikas Chandra Thorian", "Kabootar Modnar Thorian", "Xander Amgine Thorian", "Nyxara Amgine Thorian", "Project Black Rose", "Reverie", "The Grand Indian Republic"]
-tags = ["Thought & Transformation", "Project Black Rose", "Reverie", "The Grand Indian Republic", "Essentialism"]
-weight = 1
-+++
+---
+title: Modnar Musings
+subtitle: Thought & Transformation — I build frameworks, not followers.
+type: home
+draft: false
+date: 2025-11-05 06:00:00+05:30
+description: The complete philosophical and professional profile of Vikas Chandra Thorian. The personal and philosophical profile of Vikas Chandra Thorian — a polymath navigating the intersections of mind, machine, and meaning. I am a strategist, technologist, writer and contrarian. I design ideas that survive; businesses and people that endure.
+author: Thorian, Vikas Chandra
+keywords: ["Vikas Chandra Thorian", "Kabootar Modnar Thorian", "Xander Amgine Thorian", "Nyxara Amgine Thorian", "Project Black Rose", "Reverie", "The Grand Indian Republic"]
+tags: ["Thought & Transformation", "Project Black Rose", "Reverie", "The Grand Indian Republic", "Essentialism"]
+weight: 1
+---
+
+Is the fucker still working?
 
 ![The Fucking Purple Pulpo](images/logo.svg?inlinecontent&purple&width=16vh)
 
