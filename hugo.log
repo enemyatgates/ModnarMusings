@@ -1,0 +1,41 @@
+port 1313 already in use, attempting to use an available port
+Watching for changes in /home/thorianvc/.sites/ModnarMusings/{archetypes,assets,content,data,layouts,static,themes}
+Watching for config changes in /home/thorianvc/.sites/ModnarMusings/hugo.toml, /home/thorianvc/.sites/ModnarMusings/themes/HugoRelearn/hugo.toml
+Start building sites … 
+hugo v0.146.0-5d1b9d39858bb0b2e505af9f649bfb55295ecca1+extended linux/amd64 BuildDate=2025-04-10T14:57:56Z VendorInfo=gohugoio
+
+INFO  static: syncing static files to / duration 81.734151ms
+INFO  build:  step process substep collect files 412 files_total 412 pages_total 297 resources_total 115 duration 99.616108ms
+INFO  build:  step process duration 99.711299ms
+INFO  build:  step assemble duration 76.393556ms
+INFO  build:  step render substep pages site en outputFormat html duration 11.809030692s
+INFO  build:  step render substep pages site en outputFormat amp duration 982.617855ms
+INFO  build:  step render substep pages site en outputFormat calendar duration 1.456812ms
+INFO  build:  step render substep pages site en outputFormat json duration 56.759202ms
+INFO  build:  step render substep pages site en outputFormat manifest duration 919.593µs
+INFO  build:  step render substep pages site en outputFormat pdf duration 52.37045ms
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 1.121826ms
+INFO  build:  step render substep pages site en outputFormat rss duration 51.130502ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 178.360041ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 7.590659ms
+INFO  build:  step render pages 1331 content 309 duration 13.145024547s
+INFO  build:  step render deferred count 0 duration 5.33µs
+INFO  build:  step postProcess duration 20.349µs
+INFO  build:  duration 13.321501157s
+
+                   |  EN   
+-------------------+-------
+  Pages            | 1331  
+  Paginator pages  |    0  
+  Non-page files   |  115  
+  Static files     |    5  
+  Processed images |   87  
+  Aliases          |    0  
+  Cleaned          |    0  
+
+Built in 13324 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:45101/ModnarMusings/ (bind address 127.0.0.1) 
+Press Ctrl+C to stop
