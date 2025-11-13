@@ -11,8 +11,6 @@ tags: ["Thought & Transformation", "Project Black Rose", "Reverie", "The Grand I
 weight: 1
 ---
 
-Is the fucker still working?
-
 ![The Fucking Purple Pulpo](images/logo.svg?inlinecontent&purple&width=16vh)
 
 > **"When {{% badge style="primary" icon="anchor" %}} The Purple Pulpo {{% /badge %}} sets sail, even the fish hold their breath."**  
