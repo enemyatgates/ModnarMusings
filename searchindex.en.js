@@ -78,28 +78,20 @@ var relearn_searchindex = [
     "uri": "/base/01-getting-started/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings",
-    "content": "The Index Page.",
-    "description": "The Index Page.",
-    "tags": [],
-    "title": "Lehsun",
-    "uri": "/tutorial/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e Lehsun",
-    "content": "Welcome to the first part of the tutorial. Here, we’ll explore advanced features and configurations.",
-    "description": "Welcome to the first part of the tutorial. Here, we’ll explore advanced features and configurations.",
-    "tags": [],
-    "title": "Part 1: The Beginning",
-    "uri": "/tutorial/part1/index.html"
-  },
-  {
     "breadcrumb": "Modnar Musings \u003e The Baseline",
     "content": "Learn how to use the features of this project.\nhugo new posts/my-first-post.md hugo server -D",
     "description": "Learn how to use the features of this project.\nhugo new posts/my-first-post.md hugo server -D",
     "tags": [],
     "title": "Usage",
     "uri": "/base/02-usage/index.html"
+  },
+  {
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual \u003e Institutional Behaviour",
+    "content": "Broker Conflict Models refer to the different types of potential conflicts of interest that can arise when a broker executes trades on behalf of clients. These conflicts typically emerge from the broker’s dual role as both an intermediary facilitating trades and potentially as a market participant. Understanding these conflicts is crucial for traders to ensure that their broker’s actions align with their interests, not the broker’s own financial motives.\n1. Types of Broker Conflicts 1.1 Market Maker vs. Agency Broker Brokers generally operate under one of two primary models: Market Maker or Agency Broker. These models create different conflicts of interest.\nMarket Maker brokers create their own bid and ask prices for securities. They act as the counterparty to trades made by clients, which means they profit from the spread between the buy and sell prices. Agency Brokers, on the other hand, execute trades on behalf of clients without taking a position in the market. They typically charge a commission or a fee per trade, but they do not have the same direct conflict of interest as market makers. A Market Maker broker may have an incentive to see their clients lose, as it allows them to profit from the spread. They may execute trades against the client’s position, even if it goes against the client’s interest.\n1.2 Conflict of Interest in Market Making Market-making brokers quote both buy and sell prices for a given asset, profiting from the spread. Here, the broker might experience a conflict because:\nClient Losses = Broker Gains: The more the client loses on trades, the more the market maker profits from the spread. No Incentive to Hedge: Since the broker doesn’t hold an inventory of the asset and only profits from the bid/ask spread, they may not always provide favorable prices for clients. The broker may also hold the opposite position to clients, increasing their exposure to risk. 1.3 Order Execution and Trade Rejection In some cases, brokers might reject trades or delay execution based on client activity. These issues might arise from conflicts of interest, including:\nInternal Order Matching: Brokers may prefer internalizing the order flow to profit from it, rather than executing the order on a public exchange. This may create a delay in execution and result in poorer fills for clients. Order Routing: Brokers may route orders to venues where they receive higher rebates or fees, which could be in conflict with the client’s interests. These rebates come from exchanges or liquidity providers, so brokers may prioritize them over optimal trade execution for their clients. 1.4 Payment for Order Flow Some brokers engage in Payment for Order Flow (PFOF), which involves routing customer orders to specific market makers or exchanges in exchange for compensation. While this may seem like a minor issue, it creates potential conflicts:\nBias Toward Certain Market Makers: Brokers may be incentivized to route orders to market makers who pay for order flow, even if those market makers are not the best option for the client in terms of execution quality. Potential for Worse Execution: The practice of PFOF can create situations where clients do not get the best available price on their trades, as the broker may route orders to market makers with whom they have a payment arrangement, even if better prices are available elsewhere. 1.5 Front-Running Front-running occurs when a broker executes orders for themselves or other clients before executing a large order from a customer. This practice is a clear conflict of interest and is illegal in most jurisdictions. Brokers with direct access to market data may use this information to trade in advance of customer orders, profiting from the move.\nExample: If a broker sees that a client intends to buy a large number of shares of a stock, they may buy those shares themselves first, anticipating that the client’s order will push the price higher. 2. Managing Broker Conflicts of Interest 2.1 Transparency and Disclosure Brokers should provide clear disclosures regarding any conflicts of interest. These disclosures should explain how the broker earns commissions, payment for order flow arrangements, and how orders are routed.\nTraders should always read the broker’s disclosures on order routing and compensation models. Brokers should also provide access to information about the execution quality of trades, showing how their orders perform in terms of speed, price improvement, and slippage. 2.2 Choosing the Right Broker Choosing the right broker can significantly mitigate the risk of conflicts of interest. Brokers who adhere to a “best execution” policy or use an agency model are generally less likely to engage in conflicts, as they do not profit from market-making activities.\nLook for brokers with transparent fee structures and execution policies. Ensure that brokers are regulated by reputable bodies, as regulatory authorities often enforce rules that limit certain types of conflicts of interest. 2.3 External Monitoring and Auditing Some traders use third-party services or platforms that monitor the broker’s practices, ensuring that orders are routed correctly and executed fairly. These platforms can help detect instances of slippage, price manipulation, or delayed execution that might be caused by conflicts of interest.\n3. How Conflicts Can Affect Trading Outcomes 3.1 Worse Execution Quality Brokers with conflicts of interest may route orders to venues that offer rebates or commissions, even if these venues do not provide the best price for clients. This could result in higher slippage or less favorable fills, impacting trading profitability.\n3.2 Increased Trading Costs If a broker internalizes order flow or routes orders to market makers that pay for order flow, the client may incur additional costs. These costs may come in the form of wider bid/ask spreads, reduced liquidity, and worse trade execution.\n3.3 Lack of Accountability Brokers engaged in market-making or proprietary trading may not feel accountable to clients since they are benefiting from both the execution of client trades and their own market positions. This can lead to a lack of trust and transparency, harming client relationships.\n4. Conclusion Understanding broker conflicts of interest is crucial for traders to make informed decisions about where they execute their trades. Brokers that engage in market-making, payment for order flow, or internalizing orders may have incentives that don’t align with the best interests of the client. Traders should choose brokers that prioritize best execution policies and provide full transparency to avoid these conflicts and ensure they get the best price for their trades.\nBacklinks: [[Execution Entities]], [[Market Structure Basics]], [[Order Types]]",
+    "description": "Broker Conflict Models refer to the different types of potential conflicts of interest that can arise when a broker executes trades on behalf of clients. These conflicts typically emerge from the broker’s dual role as both an intermediary facilitating trades and potentially as a market participant. Understanding these conflicts is crucial for traders to ensure that their broker’s actions align with their interests, not the broker’s own financial motives.\n1. Types of Broker Conflicts 1.1 Market Maker vs. Agency Broker Brokers generally operate under one of two primary models: Market Maker or Agency Broker. These models create different conflicts of interest.",
+    "tags": [],
+    "title": "Broker Conflict Models",
+    "uri": "/trading~00/institutional-behaviour/broker-conflict-models/index.html"
   },
   {
     "breadcrumb": "Modnar Musings \u003e Conversations with Madhav",
@@ -110,20 +102,12 @@ var relearn_searchindex = [
     "uri": "/conversations/02_smoked/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings",
-    "content": "The thorianvc.\nWhat the hell is happening? This is crazy.\nSibling page",
-    "description": "The thorianvc.\nWhat the hell is happening? This is crazy.\nSibling page",
-    "tags": [],
-    "title": "Fucking Crazy",
-    "uri": "/thorianvc~00/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e Fucking Crazy",
+    "breadcrumb": "Modnar Musings \u003e The Prompts",
     "content": "STYLE: “In style of Moebius + Hayao Miyazaki + Hajime Sorayama, where Moebius’ ethereal world building infuses surreal elevation and vastness, Miyazaki’s mechanical whimsy and steampunk architecture enhance the fantasy of the floating city, and Sorayama’s glossy, sensual precision sharpens the figure’s futuristic design. The fusion should manifest as a cinematic, dreamlike steampunk fantasy with hyper-detailed costume and architecture.”\nSUBJECT: “A confident woman in an intricate steampunk bodysuit adorned with gears, straps, and brass elements, standing on a sky-high balcony, gazing out over a floating city. Her long hair flows gently in the breeze as she grips the railing, exuding both strength and elegance.”\nSETTING: “Scene set above a sea of clouds at golden hour, with a massive, ornate steampunk city suspended in the sky in the distance, spires and clockwork structures rising into the atmosphere under a glowing blue sky with scattered clouds and a visible moon.”",
     "description": "STYLE: “In style of Moebius + Hayao Miyazaki + Hajime Sorayama, where Moebius’ ethereal world building infuses surreal elevation and vastness, Miyazaki’s mechanical whimsy and steampunk architecture enhance the fantasy of the floating city, and Sorayama’s glossy, sensual precision sharpens the figure’s futuristic design. The fusion should manifest as a cinematic, dreamlike steampunk fantasy with hyper-detailed costume and architecture.”\nSUBJECT: “A confident woman in an intricate steampunk bodysuit adorned with gears, straps, and brass elements, standing on a sky-high balcony, gazing out over a floating city. Her long hair flows gently in the breeze as she grips the railing, exuding both strength and elegance.”",
     "tags": [],
     "title": "The Prompt",
-    "uri": "/thorianvc~00/prompt/index.html"
+    "uri": "/theprompts~00/prompt-+-prompt/index.html"
   },
   {
     "breadcrumb": "Modnar Musings",
@@ -198,15 +182,21 @@ var relearn_searchindex = [
     "uri": "/base/me/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Strategies",
-    "content": "This is a title page for Strategies.",
-    "description": "This is a title page for Strategies.",
-    "tags": [],
-    "title": "Strategies",
-    "uri": "/trading~00/strategies/_index-conflict_on_2025-11-08/index.html"
+    "breadcrumb": "Modnar Musings",
+    "content": "🜂 Thorian, Vikas Chandra also known as\nVeyran, Kabootar Modnar, Veyran, Nyxara Amgine, Veyran, Xander Amgine, and Veyran, Xandra Amgine ⚙️ The Operating System Thought and Transformation I run on an operating system of my own making — Thought and Transformation — where reflection is architecture and rebellion is syntax.\nEvery idea I touch is dissected, rebuilt, and reborn — not to fit convention, but to evolve beyond it.\nI’ve never been satisfied merely existing within the system; I prefer reverse-engineering it. Whether it’s marketing, philosophy, data science, or human emotion — I study the anatomy of the idea, not its appearance.\n🧭 IDENTITY AND INTENT I am a paradox with purpose — a consultant, philosopher, technologist, and writer in equal measure.\nA creature of thought, rebellion, and absurdity, walking the razor’s edge between idealism and nihilism.\nProfessionally, I engineer clarity out of chaos.\nPersonally, I live in the theatre of introspection.\nMy work oscillates between the scientific and the spiritual, between systems that govern societies and the shadows that dwell within the self.\nMy purpose? To understand, to transform, and to transmit that understanding into something tangible — ideas, frameworks, and movements that endure.\n🔱 DOMAINS OF PRACTICE Marketing \u0026 Data Science Specialist in behavioural narratives, psychographic targeting, and data-driven persuasion. Bridges numbers and narratives — designing communication systems that move both markets and minds. Develops strategic frameworks rooted in systems thinking, cognitive bias theory, and semiotic architecture. Consulting \u0026 Strategy Operates at the intersection of vision and execution. Crafts narrative strategy blueprints for individuals, brands, and nations. Known for integrating philosophy with design thinking, mythology with modern economics, and human emotion with algorithmic logic. Technology \u0026 Innovation Early adopter, conceptual technologist, and ecosystem architect. Builds hybrid frameworks merging AI ethics, behavioural computation, and neurosemiotics. Advocates for meaningful innovation — technology that uplifts, not replaces, humanity. Writing \u0026 Philosophy My writing is a confrontation — not with the world, but with myself. Author of projects like: Project Black Rose — a non-fiction exploration of the shadow, survival, and transcendence. The Sacred Ground of Zero — a psychological excavation of meaning and despair. Conversations in Solitude — an introspective dialogue between consciousness and its mirror. The Man Who Burnt Himself, Then Watched — a confessional narrative on rebellion, guilt, and rebirth. 🪶 NOM-DE-PLUME \u0026 CODE NAMES Persona Domain Essence Kabootar Modnar Thorian The Poet The surreal dreamer who writes between meaning and madness. Xander Amgine Thorian The Technologist The masculine architect of systems, logic, and rebellion. Nyxara Amgine Thorian The Feminine Counterforce The intuitive, empathic, and emotionally intelligent mirror. Vikas Chandra Thorian The Realist The unmasked self — the strategist, philosopher, and reformer. Each name is not an alias but a facet — a mask for a moment. Together, they form the architecture of my being — a myth in motion.\n🕯️ INTELLECTUAL COMPASS Philosophical Alignment: Gnostic Atheism Political Stance: Anarchist Libertarian — equally despised by left, right, and centre. Psychological Orientation: Jungian Shadow Integration — I believe in confronting the abyss, not avoiding it. Civilisational Vision: The Grand Indian Republic — a manifesto for the cultural and political unification of South Asia. Life Doctrine: Essentialism — what does not matter, must die.\n🧠 FRAMEWORKS IN DEVELOPMENT 🖤 Project Black Rose A philosophical and psychological framework exploring pain as pedagogy. It is not a book, but a crucible — for those who must break to understand themselves.\n🕊️ Reverie A venture dedicated to addressing loneliness, emotional intimacy, and healing in the digital age. Reverie aims to build rituals of connection, not algorithms of attention. Female-led at its core, Reverie isn’t a dating app — it’s a human renaissance.\n🛣️ The Bengaluru Mobility Project A citizen-centric, AI-augmented mobility ecosystem designed to restore dignity to commute time. Built on the Pain-Pleasure Matrix, it seeks to turn traffic chaos into intelligent civic rhythm.\n🕉️ The Grand Indian Republic A geopolitical and civilisational unification manifesto — merging India, Pakistan, Afghanistan, Bangladesh, Myanmar, Nepal, and Bhutan into one Grand Republic. A vision of post-colonial integration through culture, economics, and shared destiny.\n🕒 THE PI-HOUR DISCIPLINE I live by what I call The Pi-Hour — a temporal philosophy of awakening before dawn, where discipline becomes devotion. It is the hour when clarity reigns, and silence becomes the most articulate teacher.\nI move in silence, so that the noise of the world never drowns the voice within.\n⚖️ PERSONAL ETHOS Conviction is the currency of existence. Pain is the tuition fee for wisdom. Time and Money are the only two truly exchangeable currencies — choose wisely. To stand is to suffer; to surrender is to rot. Love, madness, and meaning are not opposites — they are coordinates of the same map. 📚 INFLUENCES AND ARCHETYPES I am a composite of the ones who defied simplicity:\nRaymond Reddington’s eloquence Alan Shore’s cunning Jason Bourne’s resilience James Bond’s discipline Lisbeth Salander’s vengeance Vesper Lynd’s grace Joker’s chaos They aren’t idols — they are reflections of the human paradox: the rebel, the romantic, the rational, and the ruined — all at once.\n💬 PERSONAL WRITINGS AND SERIES The Oracle’s Dilemma — A discourse on human foresight and fatalism. Conversations in Solitude — A dialogue between the self and its shadow. Lessons from the Bhagavad Gita: Life and Corporate — A reinterpretation of dharma for modern leadership. The Doomed Carnival — A completed apocalyptic poem on despair and transcendence. 🩸 CORE BELIEFS “Eventually, inevitably, invariably — it all boils down to one thing: whether you took a stand, or not.”\n“I will tell my story, maybe in another time and another place — and only I know what is real and what is not. One thing I am certain about is that I have sinned, and I have fallen short.”\n“In the end, all that remains is conviction — everything else burns.”\n🪞 CURRENT PROJECTS 📘 The Sacred Ground of Zero — Essay collection and philosophical reflections. 💡 Reverie — Emotional intelligence venture under development. 🗺️ The Grand Indian Republic — Political-philosophical manifesto in progress. 📖 Project Black Rose — Book and framework for transformation through suffering. 🔥 The Pi-Hour Manifesto — Discipline framework for creators, thinkers, and the damned. 📫 CONTACT \u0026 PRESENCE Platform Link LinkedIn linkedin.com/in/vikasthorian Instagram instagram.com/kabootarmodnar X (Twitter) x.com/kabootarmodnar Reddit reddit.com/u/KabootarModnar GitHub github.com/vikasthorian Eventually, everything in life boils down to a single reckoning: did I take a stand, or did I allow someone else to decide the course of my existence? At first glance, it seems a simple question, almost rhetorical, but the weight of it accumulates over years — decades — until it is impossible to ignore. Every deferred choice, every moment of silence, every compromise in the name of comfort or approval becomes a stone in the edifice of a life half-lived. And yet, we deceive ourselves with illusions of safety. We whisper to ourselves that letting someone else take the reins is pragmatic, even wise. But in truth, it is the beginning of surrender.\n🕯️ EPILOGUE I am not trying to change the world. I am simply trying to understand it deeply enough that it no longer deceives me.\nAnd if, in that process, others find meaning — that is merely consequence, not intention.\n“I’ve been lonely, depressed, and anxious since my early teens — but that loneliness became my forge, that anxiety my teacher, that depression my truth. From it, I learnt the art of turning pain into presence.” ~ Vikas Chandra Thorian\nVikas Chandra Thorian Kabootar Modnar Thorian • Xander Amgine Thorian • Nyxara Amgine Thorian\nI live inside a project called Thought and Transformation — a deliberate OS for a life that insists on meaning. I’m a strategist, a troublemaker for stale ideas, and a slow-moving technician of culture. I make frameworks that people can actually use to think better, act clearer, and leave something that lasts.\nQuick primer (because life is short) What I do: I design narratives, systems and ventures that stitch psychology to product and ritual to revenue. How I do it: Data, philosophy, myth and stubborn conviction. Not in that order. Why it matters: Most modern work is spectacle. I prefer architecture — durable, honest, and a tiny bit ruthless. If you want a nice brochure, buy a brochure. If you want something that reshapes how people behave — come sit on the edge with me.\nDomains I work in Marketing \u0026 Data Science I fuse human stories with behavioural data. Think psychographic strategy, not hollow metrics. I build campaigns that don’t just convert — they persuade ethically and scale honestly.\nStrategy \u0026 Consulting Vision without execution is an expensive imagination. I write blueprints that are philosophical enough to matter and tactical enough to ship.\nTechnology \u0026 Product I prototype hybrid systems: human-first AI, civic dashboards, and product rituals that restore dignity to mundane behaviours (yes, even commuting). I care about interoperability, not hype.\nWriting \u0026 Philosophy I write long-form work that’s meant to unsettle and instruct. Essays, manifestos, frameworks — each piece is an experiment in how ideas become culture.\nSignature projects (current) Project Black Rose — a crucible framework: pain as pedagogy, rigor as ritual. Reverie — an emotionally intelligent platform tackling loneliness and intimacy with ritual, not swipe culture. Female-led at core. Not another dating app. The Grand Indian Republic — a civilisational manifesto imagining a cooperative future for South Asia. Radical? Yes. Necessary? Also yes. Bengaluru Mobility Project — citizen-first, AI-augmented mobility to make commute time tolerable and useful. My operating principles (short, sharp, true) Conviction \u003e Consensus. If everyone likes it, it’s probably a boring compromise. Essentialism or bust. Remove the noise — the remainder must be sacred. Pain pays tuition. The things that hurt teach better than the things that flatter. Time beats money. Time is the currency you never get more of — treat it like capital. Discipline is devotion. I keep the Pi-Hour — dawn is where the trophies are won in silence. Persona \u0026 voice I wear many names because I’m many things: a realist (Vikas), a myth-maker (Kabootar Modnar), an engineer (Xander), a contrarian mirror (Nyxara). These are not masks — they’re tools. I switch them when the work asks for it.\nInfluences: part Raymond Reddington’s eloquence, part Lisbeth Salander’s refusal to play nice, part Jung’s insistence on shadow work, and a dash of old-school dignity.\nWritings (highlights) The Man Who Burnt Himself, Then Watched — confessional long form on rebellion and repair. The Sacred Ground of Zero — essays on coming to terms with the void. Conversations in Solitude — dialogues that start where small talk ends. The Pi-Hour Manifesto — a discipline for creators who want time, not applause. Lessons from the Bhagavad Gita: Life and Corporate — ancient doctrine retooled for modern leaders. (Everything above is a living thing — some finished, some forever-in-progress. I like it that way.)\nContact \u0026 collaborations If your brief is obvious, outsource it. If your brief scares me a little, we should talk.\nLinkedIn — linkedin.com/in/vikasthorian Instagram — instagram.com/kabootarmodnar X — x.com/kabootarmodnar GitHub — github.com/vikasthorian Prefer privacy? Email me: hello@vikasthorian.com (replace with your real address).\nClosing note (because I actually mean this) I’m not interested in vanity metrics or gentle applause. I build things that make thinking harder and living clearer. If you want a quick win, move along. If you want a real revision of how you work, how your people move, or how your product breathes — let’s make the future less stupid.\n“I’ve been lonely, depressed and anxious since my teens — that loneliness became my forge. I learned to turn pain into presence. If that sounds extreme, good. Normal never moved anyone.”",
+    "description": "The personal and philosophical profile of Vikas Chandra Thorian — a polymath navigating the intersections of mind, machine, and meaning. I am a strategist, technologist, writer and contrarian. I design ideas that survive; businesses and people that endure.",
+    "tags": [
+      "Thought \u0026 Transformation",
+      "Project Black Rose",
+      "Reverie",
+      "The Grand Indian Republic",
+      "Essentialism"
+    ],
+    "title": "Vikas Chandra Thorian",
+    "uri": "/documents/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual",
     "content": "This is a title page for Strategies.",
     "description": "This is a title page for Strategies.",
     "tags": [],
@@ -311,22 +301,14 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Modnar Musings",
-    "content": "Prompt + Index Femme Fatale [[Prompt + Two Females#Prompt + Two Females in an Intimate Scene]] [[Prompt + Urban Female#Prompt + Urban Female in a Rural Setting]] [[Prompt + Pigment and Purpose#Prompt + Pigment and Purpose]] [[Prompt + Bikini Season#Prompt + Bikini Season]] [[Prompt + Light Female#Prompt + Light Female]] [[Prompt + Lara Croft#Prompt + Lara Croft]] [[Prompt + Activist#Prompt + Activist]] [[Prompt + Herbal Woman#Prompt + Herbal Woman]] [[Prompt + The Black Cats#Prompt + The Black Cats]] [[Prompt + Sunlight#Prompt + Sunlight]]",
-    "description": "Prompt + Index Femme Fatale [[Prompt + Two Females#Prompt + Two Females in an Intimate Scene]] [[Prompt + Urban Female#Prompt + Urban Female in a Rural Setting]] [[Prompt + Pigment and Purpose#Prompt + Pigment and Purpose]] [[Prompt + Bikini Season#Prompt + Bikini Season]] [[Prompt + Light Female#Prompt + Light Female]] [[Prompt + Lara Croft#Prompt + Lara Croft]] [[Prompt + Activist#Prompt + Activist]] [[Prompt + Herbal Woman#Prompt + Herbal Woman]] [[Prompt + The Black Cats#Prompt + The Black Cats]] [[Prompt + Sunlight#Prompt + Sunlight]]",
+    "content": "Prompt + Index Femme Fatale [[Prompt + Two Females#Prompt + Two Females in an Intimate Scene]] [[Prompt + Urban Female#Prompt + Urban Female in a Rural Setting]] [[Prompt + Pigment and Purpose#Prompt + Pigment and Purpose]] [[Prompt + Bikini Season#Prompt + Bikini Season]] [[Prompt + Light Female#Prompt + Light Female]] [[Prompt + Lara Croft#Prompt + Lara Croft]] [[Prompt + Activist#Prompt + Activist]] [[Prompt + Herbal Woman#Prompt + Herbal Woman]] [[Prompt + The Black Cats#Prompt + The Black Cats]] [[Prompt + Sunlight#Prompt + Sunlight]] The Images from the Prompts My Image",
+    "description": "Prompt + Index Femme Fatale [[Prompt + Two Females#Prompt + Two Females in an Intimate Scene]] [[Prompt + Urban Female#Prompt + Urban Female in a Rural Setting]] [[Prompt + Pigment and Purpose#Prompt + Pigment and Purpose]] [[Prompt + Bikini Season#Prompt + Bikini Season]] [[Prompt + Light Female#Prompt + Light Female]] [[Prompt + Lara Croft#Prompt + Lara Croft]] [[Prompt + Activist#Prompt + Activist]] [[Prompt + Herbal Woman#Prompt + Herbal Woman]] [[Prompt + The Black Cats#Prompt + The Black Cats]] [[Prompt + Sunlight#Prompt + Sunlight]] The Images from the Prompts My Image",
     "tags": [],
     "title": "The Prompts",
     "uri": "/theprompts~00/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Asset Classes",
-    "content": "This is a title page for Asset Classes.",
-    "description": "This is a title page for Asset Classes.",
-    "tags": [],
-    "title": "Asset Classes",
-    "uri": "/trading~00/asset-classes/_index-conflict_on_2025-11-08/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e trading~00",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual",
     "content": "This is a title page for Asset Classes.",
     "description": "This is a title page for Asset Classes.",
     "tags": [],
@@ -350,14 +332,6 @@ var relearn_searchindex = [
     "uri": "/theblackrose~00/22~compendium/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e theblackrose~00 \u003e 26~Journals",
-    "content": "This is a title page for 26~Journals.",
-    "description": "This is a title page for 26~Journals.",
-    "tags": [],
-    "title": "26~Journals",
-    "uri": "/theblackrose~00/26~journals/_index-conflict_on_2025-11-08/index.html"
-  },
-  {
     "breadcrumb": "Modnar Musings \u003e theblackrose~00",
     "content": "This is a title page for 26~Journals.",
     "description": "This is a title page for 26~Journals.",
@@ -366,7 +340,7 @@ var relearn_searchindex = [
     "uri": "/theblackrose~00/26~journals/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Analysis",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual \u003e Analysis",
     "content": "This is a title page for Macro.",
     "description": "This is a title page for Macro.",
     "tags": [],
@@ -382,15 +356,7 @@ var relearn_searchindex = [
     "uri": "/notion~00/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Execution",
-    "content": "This is a title page for Execution.",
-    "description": "This is a title page for Execution.",
-    "tags": [],
-    "title": "Execution",
-    "uri": "/trading~00/execution/_index-conflict_on_2025-11-08/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e trading~00",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual",
     "content": "This is a title page for Execution.",
     "description": "This is a title page for Execution.",
     "tags": [],
@@ -398,7 +364,7 @@ var relearn_searchindex = [
     "uri": "/trading~00/execution/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Analysis",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual \u003e Analysis",
     "content": "This is a title page for Fundamental.",
     "description": "This is a title page for Fundamental.",
     "tags": [],
@@ -406,7 +372,7 @@ var relearn_searchindex = [
     "uri": "/trading~00/analysis/fundamental/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual",
     "content": "This is a title page for Analysis.",
     "description": "This is a title page for Analysis.",
     "tags": [],
@@ -438,14 +404,6 @@ var relearn_searchindex = [
     "uri": "/theblackrose~00/03~espionage/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e theblackrose~00 \u003e 23~Encyclopaedia",
-    "content": "This is a title page for 23~Encyclopaedia.",
-    "description": "This is a title page for 23~Encyclopaedia.",
-    "tags": [],
-    "title": "23~Encyclopaedia",
-    "uri": "/theblackrose~00/23~encyclopaedia/_index-conflict_on_2025-11-08/index.html"
-  },
-  {
     "breadcrumb": "Modnar Musings \u003e theblackrose~00",
     "content": "This is a title page for 23~Encyclopaedia.",
     "description": "This is a title page for 23~Encyclopaedia.",
@@ -455,10 +413,10 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Modnar Musings",
-    "content": "This is a title page for trading~00.",
-    "description": "This is a title page for trading~00.",
+    "content": "This is a title page for The Trading Manual.",
+    "description": "This is a title page for The Trading Manual.",
     "tags": [],
-    "title": "trading~00",
+    "title": "The Trading Manual",
     "uri": "/trading~00/index.html"
   },
   {
@@ -470,15 +428,7 @@ var relearn_searchindex = [
     "uri": "/theblackrose~00/20~inbox/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Market Structure",
-    "content": "This is a title page for Market Structure.",
-    "description": "This is a title page for Market Structure.",
-    "tags": [],
-    "title": "Market Structure",
-    "uri": "/trading~00/market-structure/_index-conflict_on_2025-11-08/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e trading~00",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual",
     "content": "This is a title page for Market Structure.",
     "description": "This is a title page for Market Structure.",
     "tags": [],
@@ -494,20 +444,12 @@ var relearn_searchindex = [
     "uri": "/theblackrose~00/09~appendices/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e philosophy~00",
+    "breadcrumb": "Modnar Musings \u003e Philosophy",
     "content": "This is a title page for Philosophy_and_Legacy.",
     "description": "This is a title page for Philosophy_and_Legacy.",
     "tags": [],
     "title": "Philosophy_and_Legacy",
-    "uri": "/philosophy~00/philosophy_and_legacy/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e theblackrose~00 \u003e 24~Frameworks",
-    "content": "This is a title page for 24~Frameworks.",
-    "description": "This is a title page for 24~Frameworks.",
-    "tags": [],
-    "title": "24~Frameworks",
-    "uri": "/theblackrose~00/24~frameworks/_index-conflict_on_2025-11-08/index.html"
+    "uri": "/philosophy~00/philosophy-and-legacy/index.html"
   },
   {
     "breadcrumb": "Modnar Musings \u003e theblackrose~00",
@@ -534,15 +476,7 @@ var relearn_searchindex = [
     "uri": "/perpetual~00/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Regulation and Infrastructure",
-    "content": "This is a title page for Regulation and Infrastructure.",
-    "description": "This is a title page for Regulation and Infrastructure.",
-    "tags": [],
-    "title": "Regulation and Infrastructure",
-    "uri": "/trading~00/regulation-and-infrastructure/_index-conflict_on_2025-11-08/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e trading~00",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual",
     "content": "This is a title page for Regulation and Infrastructure.",
     "description": "This is a title page for Regulation and Infrastructure.",
     "tags": [],
@@ -550,28 +484,12 @@ var relearn_searchindex = [
     "uri": "/trading~00/regulation-and-infrastructure/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Asset Classes \u003e Derivatives",
-    "content": "This is a title page for Derivatives.",
-    "description": "This is a title page for Derivatives.",
-    "tags": [],
-    "title": "Derivatives",
-    "uri": "/trading~00/asset-classes/derivatives/_index-conflict_on_2025-11-08/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Asset Classes",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual \u003e Asset Classes",
     "content": "This is a title page for Derivatives.",
     "description": "This is a title page for Derivatives.",
     "tags": [],
     "title": "Derivatives",
     "uri": "/trading~00/asset-classes/derivatives/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e theblackrose~00",
-    "content": "This is a title page for theblackrose~00.",
-    "description": "This is a title page for theblackrose~00.",
-    "tags": [],
-    "title": "theblackrose~00",
-    "uri": "/theblackrose~00/_index-conflict_on_2025-11-08/index.html"
   },
   {
     "breadcrumb": "Modnar Musings",
@@ -598,28 +516,12 @@ var relearn_searchindex = [
     "uri": "/theblackrose~00/02~psychology/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Institutional Behaviour",
-    "content": "This is a title page for Institutional Behaviour.",
-    "description": "This is a title page for Institutional Behaviour.",
-    "tags": [],
-    "title": "Institutional Behaviour",
-    "uri": "/trading~00/institutional-behaviour/_index-conflict_on_2025-11-08/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e trading~00",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual",
     "content": "This is a title page for Institutional Behaviour.",
     "description": "This is a title page for Institutional Behaviour.",
     "tags": [],
     "title": "Institutional Behaviour",
     "uri": "/trading~00/institutional-behaviour/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e theblackrose~00 \u003e 25~Research",
-    "content": "This is a title page for 25~Research.",
-    "description": "This is a title page for 25~Research.",
-    "tags": [],
-    "title": "25~Research",
-    "uri": "/theblackrose~00/25~research/_index-conflict_on_2025-11-08/index.html"
   },
   {
     "breadcrumb": "Modnar Musings \u003e theblackrose~00",
@@ -630,12 +532,12 @@ var relearn_searchindex = [
     "uri": "/theblackrose~00/25~research/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e philosophy~00",
+    "breadcrumb": "Modnar Musings \u003e Philosophy",
     "content": "This is a title page for Morning_Throne_Version.",
     "description": "This is a title page for Morning_Throne_Version.",
     "tags": [],
     "title": "Morning_Throne_Version",
-    "uri": "/philosophy~00/morning_throne_version/index.html"
+    "uri": "/philosophy~00/morning-throne-version/index.html"
   },
   {
     "breadcrumb": "Modnar Musings \u003e theblackrose~00 \u003e 09~Appendices",
@@ -646,12 +548,12 @@ var relearn_searchindex = [
     "uri": "/theblackrose~00/09~appendices/99~templates/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e philosophy~00",
+    "breadcrumb": "Modnar Musings \u003e Philosophy",
     "content": "This is a title page for Sovereign_Self_Version.",
     "description": "This is a title page for Sovereign_Self_Version.",
     "tags": [],
     "title": "Sovereign_Self_Version",
-    "uri": "/philosophy~00/sovereign_self_version/index.html"
+    "uri": "/philosophy~00/sovereign-self-version/index.html"
   },
   {
     "breadcrumb": "Modnar Musings",
@@ -670,28 +572,12 @@ var relearn_searchindex = [
     "uri": "/theblackrose~00/04~law-morality/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Analysis \u003e Technical",
-    "content": "This is a title page for Technical.",
-    "description": "This is a title page for Technical.",
-    "tags": [],
-    "title": "Technical",
-    "uri": "/trading~00/analysis/technical/_index-conflict_on_2025-11-08/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Analysis",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual \u003e Analysis",
     "content": "This is a title page for Technical.",
     "description": "This is a title page for Technical.",
     "tags": [],
     "title": "Technical",
     "uri": "/trading~00/analysis/technical/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e theblackrose~00 \u003e 90~Templates",
-    "content": "This is a title page for 90~Templates.",
-    "description": "This is a title page for 90~Templates.",
-    "tags": [],
-    "title": "90~Templates",
-    "uri": "/theblackrose~00/90~templates/_index-conflict_on_2025-11-08/index.html"
   },
   {
     "breadcrumb": "Modnar Musings \u003e theblackrose~00",
@@ -718,15 +604,7 @@ var relearn_searchindex = [
     "uri": "/theblackrose~00/07~culture-intellect/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Risk and Psychology",
-    "content": "This is a title page for Risk and Psychology.",
-    "description": "This is a title page for Risk and Psychology.",
-    "tags": [],
-    "title": "Risk and Psychology",
-    "uri": "/trading~00/risk-and-psychology/_index-conflict_on_2025-11-08/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e trading~00",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual",
     "content": "This is a title page for Risk and Psychology.",
     "description": "This is a title page for Risk and Psychology.",
     "tags": [],
@@ -738,19 +616,11 @@ var relearn_searchindex = [
     "content": "This is a title page for philosophy~00.",
     "description": "This is a title page for philosophy~00.",
     "tags": [],
-    "title": "philosophy~00",
+    "title": "Philosophy",
     "uri": "/philosophy~00/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00 \u003e Edge and Misc",
-    "content": "This is a title page for Edge and Misc.",
-    "description": "This is a title page for Edge and Misc.",
-    "tags": [],
-    "title": "Edge and Misc",
-    "uri": "/trading~00/edge-and-misc/_index-conflict_on_2025-11-08/index.html"
-  },
-  {
-    "breadcrumb": "Modnar Musings \u003e trading~00",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual",
     "content": "This is a title page for Edge and Misc.",
     "description": "This is a title page for Edge and Misc.",
     "tags": [],
@@ -843,25 +713,25 @@ var relearn_searchindex = [
     "description": "Template + Prompt Prompt~01 Subject: A woman in her early twenties with short, fluffy, and ruffled hairs. She is an endowed and athletic woman. She is wearing a bright red bikini with red stilettos and a yellow scarf. A simple necklace with a diamond pendant resting just above her breasts. She is wearing hanging earrings. She has tattoos on her arms and thighs. She is smiling confidently with amusement. She is captured from head to toe.",
     "tags": [],
     "title": "Template + Prompt",
-    "uri": "/theprompts~00/template/index.html"
+    "uri": "/theprompts~00/prompt-+-template/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e The Prompts \u003e The Prompt Images",
+    "breadcrumb": "Modnar Musings \u003e The Prompts",
     "content": "#NightCafe\nPrompt + Activist Activist movement banner that says my body his choice.",
     "description": "#NightCafe\nPrompt + Activist Activist movement banner that says my body his choice.",
     "tags": [
       "NightCafe"
     ],
     "title": "The Activist Woman",
-    "uri": "/theprompts~00/others/activist/index.html"
+    "uri": "/theprompts~00/activist/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e The Prompts \u003e The Prompt Images",
+    "breadcrumb": "Modnar Musings \u003e The Prompts",
     "content": "Prompt + Bikini Season 35 year old woman, fitness model getting fit to return to the spotlight, 12 pounds overweight, slightly toned physique, taut supple tanned skin, inverted triangle body shape, long glamorous legs, e cup chest, sandy brown hair, plump lips intense brown eyes Masterpiece, Best Quality, flat, Manga Scan, Anime, cinematic lighting, drawn Art, by Studio Trigger, clip studio paint, Anime Wallpaper, Deep Color, Cel-Shaded.\n#NightCafe",
     "description": "Prompt + Bikini Season 35 year old woman, fitness model getting fit to return to the spotlight, 12 pounds overweight, slightly toned physique, taut supple tanned skin, inverted triangle body shape, long glamorous legs, e cup chest, sandy brown hair, plump lips intense brown eyes Masterpiece, Best Quality, flat, Manga Scan, Anime, cinematic lighting, drawn Art, by Studio Trigger, clip studio paint, Anime Wallpaper, Deep Color, Cel-Shaded.",
     "tags": [],
     "title": "The Bikini Woman",
-    "uri": "/theprompts~00/others/bikini/index.html"
+    "uri": "/theprompts~00/bikini/index.html"
   },
   {
     "breadcrumb": "Modnar Musings \u003e The Baseline",
@@ -872,7 +742,7 @@ var relearn_searchindex = [
     "uri": "/base/test/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual",
     "content": "How to Win The Game of Trading This is a comprehensive read for anyone who is new to trading or is not profitable yet.\nRead this before you touch any other note in the vault.\n1. The Illusion of Profits Most people start trading because they see others getting rich from it. They want to get rich fast. But trading is a zero-sum game — for every winner, there’s a loser.\n📉 90-90-90 Rule: 90% of traders lose 90% of their money in the first 90 days.\n2. What Do You Trade? You can trade:\n[[Equities]] [[Forex (Foreign Exchange)]] [[Commodities]] [[Indices]] If you trade:\nStocks → Understand [[Earnings \u0026 Reports]], use screeners. Forex → Learn [[Interest Rates]], [[Inflation]], [[Geopolitical Risk]], [[Central Banks]]. Crypto → (Subjective) Driven mostly by sentiment. Proceed with caution. Derivatives → Learn [[Options Greeks]] [[IV Crush]] [[Straddle]] [[Theta Decay]]. 3. Leverage \u0026 Lot Sizes Understand:\n[[Leverage vs Effective Leverage]] [[Lot Sizes]] [[Margin]] [[Risk Management]] Example: XAU/USD dipped 13% in a day once. Know that before using leverage. Don’t let leverage become a death sentence. so a 1:8 Effective leverage will be good considering you have extra liquidity on the side incase of a margin call.\n4. Strategy You need one. No strategy = you are the liquidity.\nPopular ideas:\n[[Support \u0026 Resistance]] [[Order Blocks]] [[Inner Circle Trader (ICT)]] [[FVG \u0026 IFVG]] [[SMT]] [[FIB Retracement]] [[Price Action]] Alpha decays. You need to adapt.\n5. Win Rate \u0026 RR At RR 1:2, even 35% win rate = profitable.\nRR 1:10 = break even at 9.2%.\n→ Use [[Risk Management]], track your Win Rate, keep logs.\n6. Discipline 50% strategy, 50% discipline.\nLimit:\n2 trades per asset/day 5 trades total/day Avoid:\nRevenge trading Overconfidence Overtrading\nSet SL/TP and walk away. [[Trader Psychology]] is not optional. 7. Paper Trading Practice for 4 months minimum.\nLearn Stop Loss, Take Profit, [[Points and Pips]], [[Slippage]], Ticks Observe FOMC or [[Earnings \u0026 Reports]] Avoid trading the news unless you really know what you’re doing 8. Stop Loss Your first and most important layer of [[Risk Management]].\nSet one every time. No exceptions. TP is optional. SL is not.\n9. Futures \u0026 Options Primarily tools for [[Hedging]].\nIf you don’t know:\n[[Rolling]] [[IV Crush]] [[Theta Decay]] [[Options Greeks]] → Then you’re not ready. Prefer Options \u003e Futures due to flexibility and reduced obligation.\nAlso, expect:\n0.5% – 4% returns per week Avoid FOMO, learn to wait for clean entries 10. Risk Management Risk 0.5–1.0% per trade.\nOnce in profit:\nUse trailing SL Move SL to breakeven @ 50% to TP Lock partial profit @ 80% Track:\n[[Drawdown]] Max Risk Equity Curve Edge Attribution Tools \u0026 Habits of a Pro Prep 30 mins before open Read 2 newsletters daily Use ForexFactory or equivalent for calendar events Set Alerts at price levels Maintain a Trade Journal Track your Stats and Edge Advanced / Spicy If you’re going to break rules:\nLearn [[Straddle]] Learn [[Hedging]] Learn how [[IV Crush]], Delta, and Gamma work Trade both sides of volatility, but know what you’re doing.\nWhat You Still Don’t Know “This is still not the full picture.”\nHere’s what’s still coming:\n[[Dark Pools]] [[Broker Conflict Models]] Taxes \u0026 Regulations Fear \u0026 Greed Index Overfitting Lookahead Bias Correlations Price Manipulation HFT Front Running Kelly Criterion Watch Youtube videos on each topic, learn for free, knowledge and information is out there. test it yourself and see if it works on a paper account. AND DO NOT BUY A TRADING COURSE, if a trader is successful enough they do not need to sell a trading course.\nNext Step: → Jump to [[Master Index]] to begin the full Zettelkasten journey.",
     "description": "How to Win The Game of Trading This is a comprehensive read for anyone who is new to trading or is not profitable yet.\nRead this before you touch any other note in the vault.\n1. The Illusion of Profits Most people start trading because they see others getting rich from it. They want to get rich fast. But trading is a zero-sum game — for every winner, there’s a loser.\n📉 90-90-90 Rule: 90% of traders lose 90% of their money in the first 90 days.",
     "tags": [],
@@ -880,12 +750,12 @@ var relearn_searchindex = [
     "uri": "/trading~00/the-game/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e The Prompts \u003e The Prompt Images",
-    "content": "Prompt + Herbal Woman STYLE: “In style of modern cottage core aesthetics blended with soft natural lighting and vintage charm, where warm, earthy tones, handcrafted details, and nostalgic textures create an idealized, serene domestic moment. The fusion should manifest as a gentle, lived-in atmosphere with subtle sensual realism, evoking quiet presence, warmth, and authenticity.” SUBJECT: “An endowed young woman in 3/4 profile making a salad at a rustic wooden kitchen counter, wearing a fitted, vintage teal dress with large buttons and short sleeves. The fabric rests softly against her figure, showing she is unsupported under her dress, adding a subtle natural realism to the scene. She turns her head toward the viewer, making direct eye contact with a warm and open expression. Her long, curly hair frames her face and catches the soft ambient light.” SETTING: “A cosy cottage kitchen, warmly lit with soft golden tones. Background elements include open shelves with ceramics, stacked bowls, drying herbs, and lived-in clutter. The overall setting feels peaceful and personal, reflecting a quiet, slow-living moment in a storybook countryside home.”\n#NightCafe\nhttp://localhost:1313/ModnarMusings/theprompts00/others/herbalwoman/theprompts00/others/attachments/herbalwoman.png http://localhost:1313/ModnarMusings/theprompts~00/others/herbalwoman/herbalwoman.png http://localhost:1313/ModnarMusings/herbalwoman.png",
+    "breadcrumb": "Modnar Musings \u003e The Prompts",
+    "content": "Prompt + Herbal Woman STYLE: “In style of modern cottage core aesthetics blended with soft natural lighting and vintage charm, where warm, earthy tones, handcrafted details, and nostalgic textures create an idealized, serene domestic moment. The fusion should manifest as a gentle, lived-in atmosphere with subtle sensual realism, evoking quiet presence, warmth, and authenticity.” SUBJECT: “An endowed young woman in 3/4 profile making a salad at a rustic wooden kitchen counter, wearing a fitted, vintage teal dress with large buttons and short sleeves. The fabric rests softly against her figure, showing she is unsupported under her dress, adding a subtle natural realism to the scene. She turns her head toward the viewer, making direct eye contact with a warm and open expression. Her long, curly hair frames her face and catches the soft ambient light.” SETTING: “A cosy cottage kitchen, warmly lit with soft golden tones. Background elements include open shelves with ceramics, stacked bowls, drying herbs, and lived-in clutter. The overall setting feels peaceful and personal, reflecting a quiet, slow-living moment in a storybook countryside home.”\n#NightCafe",
     "description": "Prompt + Herbal Woman STYLE: “In style of modern cottage core aesthetics blended with soft natural lighting and vintage charm, where warm, earthy tones, handcrafted details, and nostalgic textures create an idealized, serene domestic moment. The fusion should manifest as a gentle, lived-in atmosphere with subtle sensual realism, evoking quiet presence, warmth, and authenticity.” SUBJECT: “An endowed young woman in 3/4 profile making a salad at a rustic wooden kitchen counter, wearing a fitted, vintage teal dress with large buttons and short sleeves. The fabric rests softly against her figure, showing she is unsupported under her dress, adding a subtle natural realism to the scene. She turns her head toward the viewer, making direct eye contact with a warm and open expression. Her long, curly hair frames her face and catches the soft ambient light.” SETTING: “A cosy cottage kitchen, warmly lit with soft golden tones. Background elements include open shelves with ceramics, stacked bowls, drying herbs, and lived-in clutter. The overall setting feels peaceful and personal, reflecting a quiet, slow-living moment in a storybook countryside home.”",
     "tags": [],
     "title": "The Herbal Woman",
-    "uri": "/theprompts~00/others/herbal/index.html"
+    "uri": "/theprompts~00/herbal/index.html"
   },
   {
     "breadcrumb": "Modnar Musings \u003e perpetual~00",
@@ -896,14 +766,6 @@ var relearn_searchindex = [
     "uri": "/perpetual~00/home/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e The Prompts",
-    "content": "The Images from the Prompts My Image",
-    "description": "The Images from the Prompts My Image",
-    "tags": [],
-    "title": "The Prompt Images",
-    "uri": "/theprompts~00/others/index.html"
-  },
-  {
     "breadcrumb": "Modnar Musings \u003e notion~00",
     "content": "Start of the Code\nimport os import glob from notion_client import Client from dotenv import load_dotenv # Load environment variables from .env file load_dotenv() notion = Client(auth=os.getenv(\"NOTION_API_KEY\")) # Page ID mappings PAGE_IDS = { \"🏛️ Dashboard\": os.getenv(\"DASHBOARD_PAGE_ID\"), \"🛠️ Toolbox \u0026 Tactics\": os.getenv(\"TOOLBOX_PAGE_ID\"), \"🌀 Philosophical Constructs\": os.getenv(\"PHILOSOPHY_PAGE_ID\"), \"👨‍👧 Grooming Legacy\": os.getenv(\"GROOMING_PAGE_ID\"), } def update_page_from_md(page_title, md_path): with open(md_path, 'r', encoding='utf-8') as file: content = file.read() # Truncate if over Notion block character limit content = content[:2000] # Convert markdown to Notion paragraph block blocks = [{ \"object\": \"block\", \"type\": \"paragraph\", \"paragraph\": { \"rich_text\": [{ \"type\": \"text\", \"text\": {\"content\": content} }] } }] print(f\"Updating Notion page: {page_title}\") notion.blocks.children.append(PAGE_IDS[page_title], children=blocks) def sync_all_notes(): for md_file in glob.glob(\"./notes/*.md\"): title = os.path.basename(md_file).replace(\".md\", \"\") if title in PAGE_IDS: update_page_from_md(title, md_file) if __name__ == \"__main__\": sync_all_notes() End of the Code.",
     "description": "Start of the Code\nimport os import glob from notion_client import Client from dotenv import load_dotenv # Load environment variables from .env file load_dotenv() notion = Client(auth=os.getenv(\"NOTION_API_KEY\")) # Page ID mappings PAGE_IDS = { \"🏛️ Dashboard\": os.getenv(\"DASHBOARD_PAGE_ID\"), \"🛠️ Toolbox \u0026 Tactics\": os.getenv(\"TOOLBOX_PAGE_ID\"), \"🌀 Philosophical Constructs\": os.getenv(\"PHILOSOPHY_PAGE_ID\"), \"👨‍👧 Grooming Legacy\": os.getenv(\"GROOMING_PAGE_ID\"), } def update_page_from_md(page_title, md_path): with open(md_path, 'r', encoding='utf-8') as file: content = file.read() # Truncate if over Notion block character limit content = content[:2000] # Convert markdown to Notion paragraph block blocks = [{ \"object\": \"block\", \"type\": \"paragraph\", \"paragraph\": { \"rich_text\": [{ \"type\": \"text\", \"text\": {\"content\": content} }] } }] print(f\"Updating Notion page: {page_title}\") notion.blocks.children.append(PAGE_IDS[page_title], children=blocks) def sync_all_notes(): for md_file in glob.glob(\"./notes/*.md\"): title = os.path.basename(md_file).replace(\".md\", \"\") if title in PAGE_IDS: update_page_from_md(title, md_file) if __name__ == \"__main__\": sync_all_notes() End of the Code.",
@@ -912,7 +774,7 @@ var relearn_searchindex = [
     "uri": "/notion~00/sync_to_notion/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual",
     "content": "Trading Brain — Master Index This is the linear path through the entire Zettelkasten for beginners. If you’re already well acquainted with the game then roam the graph view.\n0. Orientation (Asset Classes) [[Equities]] [[Forex (Foreign Exchange)]] [[Commodities]] [[Indices]] [[Futures \u0026 Option]] [[ETP \u0026 ETF]] 1. Market Foundations [[Exchanges]] [[CME Group]] [[ICE Group]] [[Option and Futures Brokers]] [[Brokers]] [[Liquidity Providers]] [[Market Makers]] [[Funds]] [[Execution Entities]] 2. Microstructure \u0026 Mechanics [[Order Flow]] [[Routing and Execution]] [[Smart Order Routing]] [[Latency and Infrastructure]] [[Latency Arbitrage]] [[Slippage]] [[Points and Pips]] [[Order Types]] [[Execution Algos]] 3. Strategy Foundations [[Position]] [[Mean Reversion]] [[Momentum]] [[Quantitative Trading]] [[High-Frequency Trading]] [[Arbitrage]] [[M\u0026A]] [[LBO \u0026 PE]] 4. Analysis \u0026 Thesis Building Technicals [[Market Structure Basics]] [[Support \u0026 Resistance]] [[Order Blocks]] [[Volume Profile]] [[VWAP]] [[Indicators]] [[Price Action]] Fundamentals [[Earnings \u0026 Reports]] [[Valuation Models]] [[Sector Rotation]] [[Insider Activity]] Macro [[Central Banks]] [[Interest Rates]] [[Inflation]] [[Unemployment]] [[Geopolitical Risk]] 5. Institutional Behavior \u0026 Hidden Flows [[Pod Structure]] [[Dark Pools]] [[Dark Pools]] [[Order Manipulation]] [[Tape Painting]] [[Stop Hunting]] [[Liquidity Games]] [[Broker Conflict Models]] [[Prop Firms]] 6. Advanced Execution \u0026 Edge [[Sentiment Analysis]] [[News Algos]] [[Synthetic Liquidity]] [[Retail vs Institutional]] [[Tick Data]] 7. Risk, Psychology, and Mental Game [[Risk Management]] [[Drawdown]] [[Position Sizing]] [[Trader Psychology]] [[Biases]] [[Mental Models]] 8. Regulation, Scams \u0026 Industry Structure [[Regulatory Bodies]] [[Market Rules]] [[Exchange Mechanism]] [[Surveillance Systems]] [[Trading Scams]] [[Trading Services]]",
     "description": "Trading Brain — Master Index This is the linear path through the entire Zettelkasten for beginners. If you’re already well acquainted with the game then roam the graph view.\n0. Orientation (Asset Classes) [[Equities]] [[Forex (Foreign Exchange)]] [[Commodities]] [[Indices]] [[Futures \u0026 Option]] [[ETP \u0026 ETF]] 1. Market Foundations [[Exchanges]] [[CME Group]] [[ICE Group]] [[Option and Futures Brokers]] [[Brokers]] [[Liquidity Providers]] [[Market Makers]] [[Funds]] [[Execution Entities]] 2. Microstructure \u0026 Mechanics [[Order Flow]] [[Routing and Execution]] [[Smart Order Routing]] [[Latency and Infrastructure]] [[Latency Arbitrage]] [[Slippage]] [[Points and Pips]] [[Order Types]] [[Execution Algos]] 3. Strategy Foundations [[Position]] [[Mean Reversion]] [[Momentum]] [[Quantitative Trading]] [[High-Frequency Trading]] [[Arbitrage]] [[M\u0026A]] [[LBO \u0026 PE]] 4. Analysis \u0026 Thesis Building Technicals [[Market Structure Basics]] [[Support \u0026 Resistance]] [[Order Blocks]] [[Volume Profile]] [[VWAP]] [[Indicators]] [[Price Action]] Fundamentals [[Earnings \u0026 Reports]] [[Valuation Models]] [[Sector Rotation]] [[Insider Activity]] Macro [[Central Banks]] [[Interest Rates]] [[Inflation]] [[Unemployment]] [[Geopolitical Risk]] 5. Institutional Behavior \u0026 Hidden Flows [[Pod Structure]] [[Dark Pools]] [[Dark Pools]] [[Order Manipulation]] [[Tape Painting]] [[Stop Hunting]] [[Liquidity Games]] [[Broker Conflict Models]] [[Prop Firms]] 6. Advanced Execution \u0026 Edge [[Sentiment Analysis]] [[News Algos]] [[Synthetic Liquidity]] [[Retail vs Institutional]] [[Tick Data]] 7. Risk, Psychology, and Mental Game [[Risk Management]] [[Drawdown]] [[Position Sizing]] [[Trader Psychology]] [[Biases]] [[Mental Models]] 8. Regulation, Scams \u0026 Industry Structure [[Regulatory Bodies]] [[Market Rules]] [[Exchange Mechanism]] [[Surveillance Systems]] [[Trading Scams]] [[Trading Services]]",
     "tags": [],
@@ -984,7 +846,7 @@ var relearn_searchindex = [
     "uri": "/ventures/venture-+-projects/index.html"
   },
   {
-    "breadcrumb": "Modnar Musings \u003e trading~00",
+    "breadcrumb": "Modnar Musings \u003e The Trading Manual",
     "content": "Zettelkasten Vault Welcome to the Zettelkasten Vault—a structured collection of interconnected notes designed to enhance knowledge management and creative thinking.\nOverview This repository contains a Zettelkasten-style note-taking system, optimized for use with Obsidian, a powerful knowledge base that works on top of a local folder of plain text Markdown files.\nGetting Started You can integrate this vault into your Obsidian setup using one of the following methods:\nMethod 1: Manual Download and Import Download the Vault:\nNavigate to the main page of this repository. Click the green Code button. Select Download ZIP. Extract the downloaded ZIP file to your desired location on your computer. Open in Obsidian:\nLaunch Obsidian. In the vault selection screen, click on Open folder as vault. Browse to the location where you extracted the ZIP file and select the folder. Obsidian will open the folder as a new vault. Method 2: Clone Repository Using Obsidian Git Plugin For users familiar with Git and seeking to keep their vault synchronized with this repository:\nInstall Git:\nEnsure that Git is installed on your system. You can download it from https://git-scm.com/downloads. Install Obsidian Git Plugin:\nOpen Obsidian. Navigate to Settings \u003e Community Plugins. Disable Safe Mode if it’s enabled. Click on Browse and search for Obsidian Git. Click Install, then Enable the plugin. Clone the Repository:\nPress Ctrl+P (or Cmd+P on macOS) to open the command palette. Type and select Obsidian Git: Clone remote repository. Enter the repository URL: https://github.com/your-username/your-repo-name.git. Choose a local folder where you want to clone the vault. Obsidian will clone the repository and open it as a vault. Configure Obsidian Git (Optional):\nGo to Settings \u003e Obsidian Git to configure options like auto-pull, auto-push, and commit messages according to your preferences. Start with “The Game” Note. Notes Ensure that you trust the source of the vault before opening it in Obsidian, especially when enabling community plugins. Regularly pull the latest changes if you’re using the Git method to keep your vault up to date. License This project is licensed under the MIT License.",
     "description": "Zettelkasten Vault Welcome to the Zettelkasten Vault—a structured collection of interconnected notes designed to enhance knowledge management and creative thinking.\nOverview This repository contains a Zettelkasten-style note-taking system, optimized for use with Obsidian, a powerful knowledge base that works on top of a local folder of plain text Markdown files.\nGetting Started You can integrate this vault into your Obsidian setup using one of the following methods:\nMethod 1: Manual Download and Import Download the Vault:",
     "tags": [],
