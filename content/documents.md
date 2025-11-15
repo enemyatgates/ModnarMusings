@@ -1,6 +1,6 @@
 ---
-# title: "Vikas Chandra Thorian"
-# subtitle: "Thought & Transformation — I build frameworks, not followers"
+title: "Vikas Chandra Thorian"
+subtitle: "Thought & Transformation — I build frameworks, not followers"
 date: 2025-11-05
 draft: false
 type: section

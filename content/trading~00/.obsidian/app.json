@@ -1,3 +1,6 @@
 {
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "livePreview": false,
+  "useMarkdownLinks": true,
+  "showInlineTitle": false
 }

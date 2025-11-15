@@ -9,6 +9,6 @@ tags: [NightCafe]
 
 Activist movement banner that says my body his choice.
 
-![Activist](20250504103925.png)
+![Activist](/theprompts~00/images/20250504103925.png)
 
 ---

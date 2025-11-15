@@ -11,26 +11,10 @@
             "id": "a37c21595d23567e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "master.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "master"
-            }
-          },
-          {
-            "id": "c331965dd85cc9e1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "New tab"
             }
           }
         ]
@@ -181,30 +165,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8176268a915ef086",
+  "active": "a37c21595d23567e",
   "lastOpenFiles": [
-    "the game.md",
+    "institutional behaviour/broker conflict models.md",
+    "institutional behaviour/Broker Conflict Models.md",
+    "institutional behaviour/dark pools.md",
+    "institutional behaviour/broker conflict modelsa.md",
+    "strategies/_index (conflict_on_2025-11-08).md",
+    "risk and psychology/_index (conflict_on_2025-11-08).md",
+    "regulation and infrastructure/_index (conflict_on_2025-11-08).md",
+    "market structure/_index (conflict_on_2025-11-08).md",
+    "institutional behaviour/_index.md",
+    "institutional behaviour/_index (conflict_on_2025-11-08).md",
+    "execution/_index.md",
+    "asset classes/_index.md",
+    "execution/_index (conflict_on_2025-11-08).md",
+    "edge and misc/_index (conflict_on_2025-11-08).md",
+    "asset classes/derivatives/_index (conflict_on_2025-11-08).md",
+    "asset classes/_index (conflict_on_2025-11-08).md",
+    "analysis/technical/_index.md",
+    "analysis/technical/_index (conflict_on_2025-11-08).md",
     "master.md",
+    "the game.md",
     "readme.md",
     "analysis/fundamental/_index.md",
     "analysis/fundamental/earnings & reports.md",
     "Risk and Psychology/Risk Management.md",
     "Asset Classes/ETP & ETF.md",
-    "Master.md",
-    "README.md",
-    "Strategies/SMT.md",
-    "Strategies/Quantitative Trading.md",
-    "Strategies/Position.md",
-    "Strategies/Momentum.md",
-    "Strategies/Mean Reversion.md",
-    "Strategies/M&A.md",
-    "Strategies/LBO & PE.md",
-    "Strategies/Inner Circle Trader (ICT).md",
-    "Strategies/High-Frequency Trading.md",
-    "Strategies/FVG & IFVG.md",
-    "Strategies/FIB Retracement.md",
-    "Strategies/Arbitrage.md",
-    "Master Index.md",
-    "The Game.md"
+    "Master.md"
   ]
 }

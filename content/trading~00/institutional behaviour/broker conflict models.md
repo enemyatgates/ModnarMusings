@@ -1,3 +1,8 @@
+---
+title: Broker Conflict Models
+date: 2025-11-11
+---
+
 **Broker Conflict Models** refer to the different types of potential conflicts of interest that can arise when a broker executes trades on behalf of clients. These conflicts typically emerge from the broker’s dual role as both an intermediary facilitating trades and potentially as a market participant. Understanding these conflicts is crucial for traders to ensure that their broker's actions align with their interests, not the broker's own financial motives.
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: philosophy~00
+title: Philosophy
 date: 2000-04-11
 type: section
 ---

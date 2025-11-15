@@ -1,41 +1,54 @@
-port 1313 already in use, attempting to use an available port
 Watching for changes in /home/thorianvc/.sites/ModnarMusings/{archetypes,assets,content,data,layouts,static,themes}
 Watching for config changes in /home/thorianvc/.sites/ModnarMusings/hugo.toml, /home/thorianvc/.sites/ModnarMusings/themes/HugoRelearn/hugo.toml
 Start building sites … 
 hugo v0.146.0-5d1b9d39858bb0b2e505af9f649bfb55295ecca1+extended linux/amd64 BuildDate=2025-04-10T14:57:56Z VendorInfo=gohugoio
 
-INFO  static: syncing static files to / duration 34.46842ms
-INFO  build:  step process substep collect files 412 files_total 412 pages_total 297 resources_total 115 duration 128.879847ms
-INFO  build:  step process duration 129.653889ms
-INFO  build:  step assemble duration 232.441109ms
-INFO  build:  step render substep pages site en outputFormat html duration 18.592753301s
-INFO  build:  step render substep pages site en outputFormat amp duration 1.292922606s
-INFO  build:  step render substep pages site en outputFormat calendar duration 30.248503ms
-INFO  build:  step render substep pages site en outputFormat json duration 775.202637ms
-INFO  build:  step render substep pages site en outputFormat manifest duration 1.312267ms
-INFO  build:  step render substep pages site en outputFormat pdf duration 83.232309ms
-INFO  build:  step render substep pages site en outputFormat robotstxt duration 1.183114ms
-INFO  build:  step render substep pages site en outputFormat rss duration 84.582197ms
-INFO  build:  step render substep pages site en outputFormat searchindex duration 196.071998ms
-INFO  build:  step render substep pages site en outputFormat sitemap duration 9.099967ms
-INFO  build:  step render pages 1331 content 309 duration 21.075918723s
-INFO  build:  step render deferred count 0 duration 615.157µs
-INFO  build:  step postProcess duration 68.526µs
-INFO  build:  duration 21.441298053s
+INFO  static: syncing static files to / duration 19.38219ms
+INFO  build:  step process substep collect files 292 files_total 292 pages_total 277 resources_total 15 duration 54.055807ms
+INFO  build:  step process duration 54.2343ms
+INFO  build:  step assemble duration 33.76237ms
+INFO  build:  step render substep pages site en outputFormat html duration 15.074222596s
+INFO  build:  step render substep pages site en outputFormat amp duration 1.770540368s
+INFO  build:  step render substep pages site en outputFormat calendar duration 2.643053ms
+INFO  build:  step render substep pages site en outputFormat json duration 35.556369ms
+INFO  build:  step render substep pages site en outputFormat manifest duration 2.099613ms
+INFO  build:  step render substep pages site en outputFormat pdf duration 30.642681ms
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 3.11065ms
+INFO  build:  step render substep pages site en outputFormat rss duration 75.720984ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 128.97097ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 11.278089ms
+INFO  build:  step render pages 1243 content 289 duration 17.139557841s
+INFO  build:  step render deferred count 0 duration 54.712µs
+INFO  build:  step postProcess duration 16.602µs
+INFO  build:  duration 17.228669226s
 
                    |  EN   
 -------------------+-------
-  Pages            | 1331  
+  Pages            | 1243  
   Paginator pages  |    0  
-  Non-page files   |  115  
+  Non-page files   |   15  
   Static files     |    5  
   Processed images |   87  
   Aliases          |    0  
   Cleaned          |    0  
 
-Built in 21456 ms
+Built in 17230 ms
 Environment: "development"
 Serving pages from disk
 Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
-Web Server is available at http://localhost:33473/ModnarMusings/ (bind address 127.0.0.1) 
+Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1) 
 Press Ctrl+C to stop
+INFO  build:  step render substep pages site en outputFormat html duration 365.815µs
+INFO  build:  step render substep pages site en outputFormat amp duration 243.09µs
+INFO  build:  step render substep pages site en outputFormat calendar duration 342.515µs
+INFO  build:  step render substep pages site en outputFormat json duration 335.818µs
+INFO  build:  step render substep pages site en outputFormat manifest duration 419.489µs
+INFO  build:  step render substep pages site en outputFormat pdf duration 284.785µs
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 378.643µs
+INFO  build:  step render substep pages site en outputFormat rss duration 624.847µs
+INFO  build:  step render substep pages site en outputFormat searchindex duration 737.289µs
+INFO  build:  step render substep pages site en outputFormat sitemap duration 681.068µs
+INFO  build:  step render pages 0 content 0 duration 6.948496ms
+INFO  build:  step render deferred count 0 duration 5.094µs
+INFO  build:  step postProcess duration 19.998µs
+INFO  build:  duration 7.302426ms
