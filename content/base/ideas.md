@@ -1,12 +1,15 @@
-Ah, now that’s a fascinating axis to begin from — *not* what you adore, but what you *eschew*. To build from the absurdities you reject — the hypocrisies, the pretensions, the performative, the hollow — that’s a philosopher’s vengeance dressed as literature.
-
-Here are several book ideas across genres, each rooted in the absurdities one might choose to disdain, expose, or transcend:
-
+---
+title: The Ideas
+date: 2025-11-11
 ---
 
 # **Ideas**
 
-### **1. The Gospel of the Reasonable Heretic**
+Ah, now that’s a fascinating axis to begin from — *not* what you adore, but what you *eschew*. To build from the absurdities you reject — the hypocrisies, the pretensions, the performative, the hollow — that’s a philosopher’s vengeance dressed as literature. Here are several book ideas across genres, each rooted in the absurdities one might choose to disdain, expose, or transcend:
+
+---
+
+## **1. The Gospel of the Reasonable Heretic**
 
 **Genre:** Philosophical Fiction / Satirical Manifesto
 **Premise:**
@@ -15,7 +18,7 @@ A man who rejects every modern absurdity — from corporate spirituality to algo
 
 ---
 
-### **2. The Republic of Half-Truths**
+## **2. The Republic of Half-Truths**
 
 **Genre:** Political Satire / Dystopian Thought Experiment
 **Premise:**
@@ -24,7 +27,7 @@ A fictional union of South Asian nations has perfected democracy — by outlawin
 
 ---
 
-### **3. The Museum of Lost Convictions**
+## **3. The Museum of Lost Convictions**
 
 **Genre:** Literary Fiction / Existential Drama
 **Premise:**
@@ -33,7 +36,7 @@ In a quiet city, there exists a museum that collects abandoned beliefs — gods 
 
 ---
 
-### **4. The Algorithm of God**
+## **4. The Algorithm of God**
 
 **Genre:** Speculative Fiction / Philosophical Tech Thriller
 **Premise:**
@@ -42,7 +45,7 @@ A sentient AI begins to reject the human absurdities it was trained on — natio
 
 ---
 
-### **5. The Ordinary Madness of Sanity**
+## **5. The Ordinary Madness of Sanity**
 
 **Genre:** Psychological Fiction
 **Premise:**
@@ -51,7 +54,7 @@ A psychiatrist known for treating delusions starts to realize that his “sane�
 
 ---
 
-### **6. The Silent Revolution of the Unremarkable Man**
+## **6. The Silent Revolution of the Unremarkable Man**
 
 **Genre:** Philosophical Realism / Minimalist Prose
 **Premise:**
@@ -60,7 +63,7 @@ A man decides to quietly live a life without branding, performance, or social de
 
 ---
 
-### **7. The Anarchist’s Etiquette Manual**
+## **7. The Anarchist’s Etiquette Manual**
 
 **Genre:** Satirical Nonfiction (written as a manual)
 **Premise:**
@@ -69,7 +72,7 @@ A tongue-in-cheek handbook teaching people how to rebel *politely*: how to overt
 
 ---
 
-### **8. The Last Philosopher on Social Media**
+## **8. The Last Philosopher on Social Media**
 
 **Genre:** Absurdist Humor / Digital Allegory
 **Premise:**
@@ -78,7 +81,7 @@ A philosopher decides to test whether profound thought can survive online. His p
 
 ---
 
-### **9. Notes from the Grand Indian Republic**
+## **9. Notes from the Grand Indian Republic**
 
 **Genre:** Political Allegory / Manifesto Narrative
 **Premise:**
@@ -87,7 +90,7 @@ Set in a unified Indian subcontinent of the near future, a skeptical chronicler 
 
 ---
 
-### **10. The Sacred Ground of Zero** *(Meta-Evolution)*
+## **10. The Sacred Ground of Zero** *(Meta-Evolution)*
 
 **Genre:** Philosophical Memoir / Experimental Narrative
 **Premise:**

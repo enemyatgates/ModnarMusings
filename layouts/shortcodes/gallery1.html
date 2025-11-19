@@ -1,0 +1,65 @@
+{{/* --------------------------------------------------------------------------
+     Hugo Responsive Gallery Shortcode (Final Version)
+     - Uses Resize to preserve aspect ratio
+     - Emits proper a[data-lightbox] anchors
+     - Injects external static/js/lightbox.js script (once per page)
+     -------------------------------------------------------------------------- */}}
+
+{{ $dir := .Get "dir" }}
+{{ $caption := .Get "caption" | default "" }}
+
+{{/* If a directory is given, pull images from assets/images/<dir>, else page bundle */}}
+{{ $imgs := cond (ne $dir "") (resources.Match (printf "images/%s/*" (trim $dir "/"))) (.Page.Resources.Match "*") }}
+
+{{ if not $imgs }}
+  <p class="gallery-empty">
+    No images found{{ if $dir }} in <code>{{ $dir }}</code>{{ end }}.
+  </p>
+{{ else }}
+  {{ $galleryID := (printf "gallery-%d" (now.Unix)) }}
+  <div class="image-gallery" role="list" data-gallery-id="{{ $galleryID }}">
+
+    {{ range $i, $img := $imgs }}
+      {{ if in (lower $img.MediaType.Type) "image" }}
+        {{/* Responsive resizing (preserves aspect ratio) */}}
+        {{ $src400 := $img.Resize "400x" }}
+        {{ $src800 := $img.Resize "800x" }}
+        {{ $src1200 := $img.Resize "1200x" }}
+
+        <figure class="gallery-item" role="listitem">
+          <a href="{{ $img.Permalink }}"
+             data-lightbox="{{ $galleryID }}"
+             data-caption="{{ with $img.Params.caption }}{{ . }}{{ else }}{{ $img.Name }}{{ end }}"
+             aria-label="Open image: {{ with $img.Params.caption }}{{ . }}{{ else }}{{ $img.Name }}{{ end }}">
+            <img
+              src="{{ $src800.RelPermalink }}"
+              srcset="{{ $src400.RelPermalink }} 400w, {{ $src800.RelPermalink }} 800w, {{ $src1200.RelPermalink }} 1200w"
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+              alt="{{ with $img.Params.alt }}{{ . }}{{ else }}{{ $img.Name }}{{ end }}"
+              loading="lazy" />
+            <figcaption class="gallery-caption">
+              {{ with $img.Params.caption }}{{ . }}{{ else }}{{ $img.Name }}{{ end }}
+            </figcaption>
+          </a>
+        </figure>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  {{ if $caption }}
+    <p class="gallery-title">{{ $caption }}</p>
+  {{ end }}
+
+  {{/* --- Inject external lightbox script once per page --- */}}
+  {{ if not (.Page.Scratch.Get "lightbox-script-included") }}
+    {{/* build a safe absolute URL for the script without relying on trimSuffix/relURL */}}
+    {{ $base := .Site.BaseURL }}
+    {{ $baseNoSlash := cond (ne $base "") (replaceRE "/$" "" $base) "" }}
+    {{ if eq $baseNoSlash "" }}
+      <script src="/js/lightbox.js?v=2" defer crossorigin="anonymous"></script>
+    {{ else }}
+      <script src="{{ printf "%s/js/lightbox.js?v=2" $baseNoSlash }}" defer crossorigin="anonymous"></script>
+    {{ end }}
+    {{ .Page.Scratch.Set "lightbox-script-included" true }}
+  {{ end }}
+{{ end }}

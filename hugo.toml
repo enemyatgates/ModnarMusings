@@ -8,6 +8,7 @@ canonifyURLs = true
 relativeURLs = false
 
 [params]
+    custom_CSS = ["css/custom.css"]
     HideCopyright = true
     ShowBreadCrumbs = true
     ShowBreadCrumbsInPost = true
@@ -55,9 +56,6 @@ relativeURLs = false
         name = "Posts"
         url = "/posts/"
         weight = 4
-
-[params.assets]
-    customCSS = ["css/custom.css"]
 
 [markup]
     [markup.goldmark]
