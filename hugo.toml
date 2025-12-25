@@ -9,7 +9,7 @@ relativeURLs = false
 
 [params]
     custom_CSS = ["css/custom.css"]
-    HideCopyright = true
+    HideCopyright = false
     ShowBreadCrumbs = true
     ShowBreadCrumbsInPost = true
     ShowCodeCopyButtons = true

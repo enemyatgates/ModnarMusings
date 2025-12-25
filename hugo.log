@@ -1,292 +1,442 @@
-Watching for changes in /home/thorianvc/.sites/ModnarMusings/{archetypes,assets,content,data,layouts,static,themes}
+Watching for changes in /home/thorianvc/.sites/ModnarMusings/archetypes, /home/thorianvc/.sites/ModnarMusings/assets/{css,images}, /home/thorianvc/.sites/ModnarMusings/content/{base,conversations,notion~00,perpetual~00,philosophy~00,...}, /home/thorianvc/.sites/ModnarMusings/data, /home/thorianvc/.sites/ModnarMusings/layouts/{_default,partials,shortcodes}, /home/thorianvc/.sites/ModnarMusings/static/{files,images,js}, /home/thorianvc/.sites/ModnarMusings/themes/HugoRelearn/archetypes, /home/thorianvc/.sites/ModnarMusings/themes/HugoRelearn/assets/{css,fonts,js}, /home/thorianvc/.sites/ModnarMusings/themes/HugoRelearn/content/_relearn, /home/thorianvc/.sites/ModnarMusings/themes/HugoRelearn/i18n, /home/thorianvc/.sites/ModnarMusings/themes/HugoRelearn/layouts/{_default,_relearn_searchpage,chapter,home,partials,...}
 Watching for config changes in /home/thorianvc/.sites/ModnarMusings/hugo.toml, /home/thorianvc/.sites/ModnarMusings/themes/HugoRelearn/hugo.toml
 Start building sites … 
-hugo v0.146.0-5d1b9d39858bb0b2e505af9f649bfb55295ecca1+extended linux/amd64 BuildDate=2025-04-10T14:57:56Z VendorInfo=gohugoio
+hugo v0.153.2-798533a2013eab97198b0a155a8f4afab7e79865+extended+withdeploy linux/amd64 BuildDate=2025-12-22T16:53:01Z VendorInfo=gohugoio
 
-INFO  build:  step process substep collect files 294 files_total 294 pages_total 278 resources_total 16 duration 37.15179ms
-INFO  build:  step process duration 37.830627ms
-INFO  build:  step assemble duration 35.598659ms
-INFO  static: syncing static files to / duration 9.961656253s
-INFO  build:  step render substep pages site en outputFormat html duration 13.475757396s
-INFO  build:  step render substep pages site en outputFormat amp duration 1.137437274s
-INFO  build:  step render substep pages site en outputFormat calendar duration 2.141706ms
-INFO  build:  step render substep pages site en outputFormat json duration 79.295168ms
-INFO  build:  step render substep pages site en outputFormat manifest duration 786.52µs
-INFO  build:  step render substep pages site en outputFormat pdf duration 71.474518ms
-INFO  build:  step render substep pages site en outputFormat robotstxt duration 1.987325ms
-INFO  build:  step render substep pages site en outputFormat rss duration 243.529105ms
-INFO  build:  step render substep pages site en outputFormat searchindex duration 273.665661ms
-INFO  build:  step render substep pages site en outputFormat sitemap duration 4.490854ms
-INFO  build:  step render pages 1249 content 290 duration 15.294976939s
-INFO  build:  step render deferred count 0 duration 54.964µs
-INFO  build:  step postProcess duration 18.021µs
-INFO  build:  duration 15.372983231s
+INFO  build:  step process substep collect files 294 files_total 294 pagesources_total 278 resourcesources_total 16 duration 5.201073ms
+INFO  build:  step process duration 5.248803ms
+INFO  build:  step assemble duration 31.315211ms
+INFO  build:  step render substep pages site en outputFormat html duration 343.528481ms
+INFO  build:  step render substep pages site en outputFormat amp duration 169.290108ms
+WARN  found no layout file for "calendar" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat calendar duration 521.224µs
+INFO  build:  step render substep pages site en outputFormat json duration 3.13846ms
+WARN  found no layout file for "manifest" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat manifest duration 526.407µs
+WARN  found no layout file for "pdf" for layout "home" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat pdf duration 1.054387ms
+WARN  found no layout file for "robotstxt" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 402.694µs
+INFO  build:  step render substep pages site en outputFormat rss duration 17.345202ms
+INFO  static: syncing static files to / duration 632.053773ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 80.122963ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 2.601366ms
+INFO  build:  step render pages 968 content 318 duration 620.794541ms
+INFO  build:  step render deferred count 0 duration 3.943µs
+INFO  build:  step postProcess duration 14.122µs
+INFO  build:  duration 657.531206ms
 
-                   |  EN   
--------------------+-------
-  Pages            | 1249  
-  Paginator pages  |    0  
-  Non-page files   |   16  
-  Static files     |  104  
-  Processed images |    0  
-  Aliases          |    0  
-  Cleaned          |    0  
+                  │ EN  
+──────────────────┼─────
+ Pages            │ 968 
+ Paginator pages  │   0 
+ Non-page files   │  16 
+ Static files     │ 104 
+ Processed images │   0 
+ Aliases          │   0 
+ Cleaned          │   0 
 
-Built in 15375 ms
+Built in 658 ms
 Environment: "development"
 Serving pages from disk
 Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1) 
 Press Ctrl+C to stop
-DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/shortcodes/gallery.html" WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/shortcodes/gallery.html"]
 
-Change detected, rebuilding site (#1).
-2025-11-19 11:56:23.583 +0530
-DEBUG cachebuster: Matching "layouts/shortcodes/gallery.html" with source "(postcss|tailwind)\\.config\\.js": no match
-Template changed /shortcodes/gallery.html
-DEBUG Direct dependencies of "/_shortcodes/gallery.html" (*tplimpl.TemplInfo) =>
-INFO  build:  step process substep gc dynacache duration 9.845827ms
-INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 173.712µs
-INFO  build:  step process substep resolve page output change set changes 1 checked 3163 matches 350 duration 22.885602ms
-INFO  build:  step process substep rebuild templates duration 115.079061ms
-INFO  build:  step process duration 167.397837ms
-INFO  build:  step assemble duration 1.285µs
-INFO  build:  step render substep pages site en outputFormat html duration 11.981152655s
-INFO  build:  step render substep pages site en outputFormat amp duration 1.052209898s
-INFO  build:  step render substep pages site en outputFormat calendar duration 1.355972ms
-INFO  build:  step render substep pages site en outputFormat json duration 2.149943ms
-INFO  build:  step render substep pages site en outputFormat manifest duration 2.435374ms
-INFO  build:  step render substep pages site en outputFormat pdf duration 10.45562ms
-INFO  build:  step render substep pages site en outputFormat robotstxt duration 4.232485ms
-INFO  build:  step render substep pages site en outputFormat rss duration 22.772366ms
-INFO  build:  step render substep pages site en outputFormat searchindex duration 124.33577ms
-INFO  build:  step render substep pages site en outputFormat sitemap duration 7.367249ms
-INFO  build:  step render pages 340 content 2 duration 13.212597061s
-INFO  build:  step render deferred count 0 duration 35.343µs
-INFO  build:  step postProcess duration 50.276µs
-INFO  build:  duration 13.380622635s
+Change of config file detected, rebuilding site (#1).
+2025-12-25 16:53:57.998 +0530
+INFO  static: syncing static files to / duration 304.113168ms
+INFO  build:  step process substep collect files 294 files_total 294 pagesources_total 278 resourcesources_total 16 duration 13.777354ms
+INFO  build:  step process duration 13.804503ms
+INFO  build:  step assemble duration 27.120385ms
+INFO  build:  step render substep pages site en outputFormat html duration 240.095124ms
+INFO  build:  step render substep pages site en outputFormat amp duration 113.932814ms
+WARN  found no layout file for "calendar" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat calendar duration 341.015µs
+INFO  build:  step render substep pages site en outputFormat json duration 3.8463ms
+WARN  found no layout file for "manifest" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat manifest duration 304.629µs
+WARN  found no layout file for "pdf" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for layout "home" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat pdf duration 631.522µs
+WARN  found no layout file for "robotstxt" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 226.455µs
+INFO  build:  step render substep pages site en outputFormat rss duration 7.965452ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 79.139373ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 3.491441ms
+INFO  build:  step render pages 968 content 318 duration 451.778599ms
+INFO  build:  step render deferred count 0 duration 3.068µs
+INFO  build:  step postProcess duration 11.429µs
+INFO  build:  duration 492.827625ms
 Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
-Total in 13440 ms
-DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/shortcodes/gallery.html" WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/shortcodes/gallery.html"]
+Rebuilt in 904 ms
 
-Change detected, rebuilding site (#2).
-2025-11-19 11:59:06.088 +0530
-DEBUG cachebuster: Matching "layouts/shortcodes/gallery.html" with source "(postcss|tailwind)\\.config\\.js": no match
-Template changed /shortcodes/gallery.html
-DEBUG Direct dependencies of "/_shortcodes/gallery.html" (*tplimpl.TemplInfo) =>
-INFO  build:  step process substep gc dynacache duration 15.033118ms
-INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 288.458µs
-INFO  build:  step process substep resolve page output change set changes 1 checked 3163 matches 350 duration 33.593093ms
-INFO  build:  step process substep rebuild templates duration 53.085011ms
-INFO  build:  step process duration 129.590218ms
-INFO  build:  duration 132.594623ms
-ERROR Rebuild failed: process function "trimPrefix" not defined
+Change of config file detected, rebuilding site (#2).
+2025-12-25 16:54:29.006 +0530
+INFO  static: syncing static files to / duration 102.336501ms
+INFO  build:  step process substep collect files 294 files_total 294 pagesources_total 278 resourcesources_total 16 duration 3.111608ms
+INFO  build:  step process duration 3.142668ms
+INFO  build:  step assemble duration 7.251655ms
+INFO  build:  step render substep pages site en outputFormat html duration 197.14454ms
+INFO  build:  step render substep pages site en outputFormat amp duration 117.846671ms
+WARN  found no layout file for "calendar" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat calendar duration 383.468µs
+INFO  build:  step render substep pages site en outputFormat json duration 4.226296ms
+WARN  found no layout file for "manifest" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat manifest duration 263.794µs
+WARN  found no layout file for "pdf" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for layout "home" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat pdf duration 628.55µs
+WARN  found no layout file for "robotstxt" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 245.593µs
+INFO  build:  step render substep pages site en outputFormat rss duration 9.379353ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 106.722743ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 4.359455ms
+INFO  build:  step render pages 968 content 318 duration 442.548089ms
+INFO  build:  step render deferred count 0 duration 3.364µs
+INFO  build:  step postProcess duration 11.209µs
+INFO  build:  duration 453.062438ms
 Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
-Total in 136 ms
-DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/shortcodes/gallery.html" WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/shortcodes/gallery.html"]
+Rebuilt in 634 ms
 
-Change detected, rebuilding site (#3).
-2025-11-19 12:00:33.579 +0530
-DEBUG cachebuster: Matching "layouts/shortcodes/gallery.html" with source "(postcss|tailwind)\\.config\\.js": no match
-Template changed /shortcodes/gallery.html
-DEBUG Direct dependencies of "/_shortcodes/gallery.html" (*tplimpl.TemplInfo) =>
-INFO  build:  step process substep gc dynacache duration 13.417975ms
-INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 501.818µs
-INFO  build:  step process substep resolve page output change set changes 1 checked 3159 matches 329 duration 54.447257ms
-INFO  build:  step process substep rebuild templates duration 336.666208ms
-INFO  build:  step process duration 411.659816ms
-INFO  build:  step assemble duration 682.754µs
-INFO  build:  step render substep pages site en outputFormat html duration 11.952655458s
-INFO  build:  step render substep pages site en outputFormat amp duration 631.801272ms
-INFO  build:  step render substep pages site en outputFormat calendar duration 1.431516ms
-INFO  build:  step render substep pages site en outputFormat json duration 2.497598ms
-INFO  build:  step render substep pages site en outputFormat manifest duration 1.207035ms
-INFO  build:  step render substep pages site en outputFormat pdf duration 2.708928ms
-INFO  build:  step render substep pages site en outputFormat robotstxt duration 1.33323ms
-INFO  build:  step render substep pages site en outputFormat rss duration 21.802434ms
-INFO  build:  step render substep pages site en outputFormat searchindex duration 126.3524ms
-INFO  build:  step render substep pages site en outputFormat sitemap duration 8.068152ms
-INFO  build:  step render pages 340 content 2 duration 12.755335122s
-INFO  build:  step render deferred count 0 duration 11.144µs
-INFO  build:  step postProcess duration 719.522µs
-INFO  build:  duration 13.169396654s
+Change of config file detected, rebuilding site (#3).
+2025-12-25 16:54:41.997 +0530
+INFO  static: syncing static files to / duration 97.463508ms
+INFO  build:  step process substep collect files 294 files_total 294 pagesources_total 278 resourcesources_total 16 duration 3.130391ms
+INFO  build:  step process duration 3.149647ms
+INFO  build:  step assemble duration 9.187638ms
+INFO  build:  step render substep pages site en outputFormat html duration 232.373758ms
+INFO  build:  step render substep pages site en outputFormat amp duration 144.290763ms
+WARN  found no layout file for "calendar" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat calendar duration 494.599µs
+INFO  build:  step render substep pages site en outputFormat json duration 5.253012ms
+WARN  found no layout file for "manifest" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat manifest duration 527.012µs
+WARN  found no layout file for "pdf" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for layout "home" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat pdf duration 1.217746ms
+WARN  found no layout file for "robotstxt" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 366.44µs
+INFO  build:  step render substep pages site en outputFormat rss duration 14.640479ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 131.657269ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 5.195407ms
+INFO  build:  step render pages 968 content 318 duration 538.443776ms
+INFO  build:  step render deferred count 0 duration 3.162µs
+INFO  build:  step postProcess duration 11.018µs
+INFO  build:  duration 550.900362ms
 Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
-Total in 13170 ms
-DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/shortcodes/gallery.html" WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/shortcodes/gallery.html"]
+Rebuilt in 726 ms
+DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/content/conversations/00_madhav.md" WRITE         "/home/thorianvc/.sites/ModnarMusings/content/conversations/00_madhav.md"]
 
 Change detected, rebuilding site (#4).
-2025-11-19 12:04:52.154 +0530
-DEBUG cachebuster: Matching "layouts/shortcodes/gallery.html" with source "(postcss|tailwind)\\.config\\.js": no match
-Template changed /shortcodes/gallery.html
-DEBUG Direct dependencies of "/_shortcodes/gallery.html" (*tplimpl.TemplInfo) =>
-INFO  build:  step process substep gc dynacache duration 35.280335ms
-INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 2.220061ms
-INFO  build:  step process substep resolve page output change set changes 1 checked 3163 matches 350 duration 57.078266ms
-INFO  build:  step process substep rebuild templates duration 256.164063ms
-INFO  build:  step process duration 419.863592ms
-INFO  build:  step assemble duration 90.483µs
-INFO  build:  step render substep pages site en outputFormat html duration 12.454698702s
-INFO  build:  step render substep pages site en outputFormat amp duration 970.135122ms
-INFO  build:  step render substep pages site en outputFormat calendar duration 1.571352ms
-INFO  build:  step render substep pages site en outputFormat json duration 2.48583ms
-INFO  build:  step render substep pages site en outputFormat manifest duration 1.831759ms
-INFO  build:  step render substep pages site en outputFormat pdf duration 4.896071ms
-INFO  build:  step render substep pages site en outputFormat robotstxt duration 1.998856ms
-INFO  build:  step render substep pages site en outputFormat rss duration 17.883079ms
-INFO  build:  step render substep pages site en outputFormat searchindex duration 276.987489ms
-INFO  build:  step render substep pages site en outputFormat sitemap duration 11.254966ms
-INFO  build:  step render pages 340 content 2 duration 13.763762571s
-INFO  build:  step render deferred count 0 duration 102.12µs
-INFO  build:  step postProcess duration 124.447µs
-INFO  build:  duration 14.188939018s
+2025-12-25 16:56:01.529 +0530
+DEBUG cachebuster: Matching "content/conversations/00_madhav.md" with source "(postcss|tailwind)\\.config\\.js": no match
+Source changed /conversations/00_madhav.md
+DEBUG Direct dependencies of "/conversations/00_madhav" (*hugolib.pageState page-897) =>
+          /_markup/render-blockquote.html
+INFO  build:  step process substep gc dynacache duration 1.48676ms
+INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 67.669µs
+INFO  build:  step process substep resolve page output change set changes 1 checked 3102 matches 120 duration 15.251646ms
+INFO  build:  step process substep collect files 1 files_total 1 pagesources_total 1 resourcesources_total 0 duration 235.197µs
+INFO  build:  step process duration 18.486927ms
+DEBUG Direct dependencies of "/base" (*hugolib.pageState page-884) =>
+Direct dependencies of "/projects" (*hugolib.pageState page-907) =>
+Direct dependencies of "/writings" (*hugolib.pageState page-934) =>
+INFO  build:  step assemble substep gc dynacache duration 1.280211ms
+INFO  build:  step assemble substep resolve content adapter change set changes 3 checked 3 matches 0 duration 12.387µs
+INFO  build:  step assemble substep resolve page output change set changes 3 checked 9025 matches 123 duration 27.220702ms
+INFO  build:  step assemble duration 31.243556ms
+INFO  build:  step render substep pages site en outputFormat html duration 177.532305ms
+INFO  build:  step render substep pages site en outputFormat amp duration 87.589904ms
+WARN  found no layout file for "calendar" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat calendar duration 448.337µs
+INFO  build:  step render substep pages site en outputFormat json duration 612.423µs
+WARN  found no layout file for "manifest" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat manifest duration 373.512µs
+WARN  found no layout file for "pdf" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for layout "home" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat pdf duration 848.308µs
+WARN  found no layout file for "robotstxt" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 247.064µs
+INFO  build:  step render substep pages site en outputFormat rss duration 3.526438ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 109.778032ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 5.61707ms
+INFO  build:  step render pages 132 content 4 duration 387.939188ms
+INFO  build:  step render deferred count 0 duration 2.97µs
+INFO  build:  step postProcess duration 13.632µs
+INFO  build:  duration 437.828031ms
 Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
-Total in 14191 ms
-DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/shortcodes/gallery.html" WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/shortcodes/gallery.html"]
+Total in 438 ms
+INFO  livereload: no page to navigate to, force refresh
+DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/content/conversations/00_madhav.md" WRITE         "/home/thorianvc/.sites/ModnarMusings/content/conversations/00_madhav.md"]
 
 Change detected, rebuilding site (#5).
-2025-11-19 12:05:06.348 +0530
-DEBUG cachebuster: Matching "layouts/shortcodes/gallery.html" with source "(postcss|tailwind)\\.config\\.js": no match
-Template changed /shortcodes/gallery.html
-DEBUG Direct dependencies of "/_shortcodes/gallery.html" (*tplimpl.TemplInfo) =>
-INFO  build:  step process substep gc dynacache duration 3.920821ms
-INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 33.139µs
-INFO  build:  step process substep resolve page output change set changes 1 checked 3163 matches 350 duration 38.755682ms
-INFO  build:  step process substep rebuild templates duration 86.875013ms
-INFO  build:  step process duration 132.11249ms
-INFO  build:  step assemble duration 1.214µs
-INFO  build:  step render substep pages site en outputFormat html duration 12.160124342s
-INFO  build:  step render substep pages site en outputFormat amp duration 1.041926308s
-INFO  build:  step render substep pages site en outputFormat calendar duration 1.751038ms
-INFO  build:  step render substep pages site en outputFormat json duration 14.339765ms
-INFO  build:  step render substep pages site en outputFormat manifest duration 22.753992ms
-INFO  build:  step render substep pages site en outputFormat pdf duration 5.870411ms
-INFO  build:  step render substep pages site en outputFormat robotstxt duration 1.411276ms
-INFO  build:  step render substep pages site en outputFormat rss duration 35.059483ms
-INFO  build:  step render substep pages site en outputFormat searchindex duration 182.332984ms
-INFO  build:  step render substep pages site en outputFormat sitemap duration 17.747496ms
-INFO  build:  step render pages 340 content 2 duration 13.487860495s
-INFO  build:  step render deferred count 0 duration 7.204µs
-INFO  build:  step postProcess duration 29.915µs
-INFO  build:  duration 13.62035474s
+2025-12-25 16:56:13.529 +0530
+DEBUG cachebuster: Matching "content/conversations/00_madhav.md" with source "(postcss|tailwind)\\.config\\.js": no match
+Source changed /conversations/00_madhav.md
+DEBUG Direct dependencies of "/conversations/00_madhav" (*hugolib.pageState page-1173) =>
+          /_markup/render-blockquote.html
+INFO  build:  step process substep gc dynacache duration 901.624µs
+INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 12.405µs
+INFO  build:  step process substep resolve page output change set changes 1 checked 3102 matches 120 duration 7.983642ms
+INFO  build:  step process substep collect files 1 files_total 1 pagesources_total 1 resourcesources_total 0 duration 186.096µs
+INFO  build:  step process duration 9.686202ms
+DEBUG Direct dependencies of "/base" (*hugolib.pageState page-884) =>
+Direct dependencies of "/projects" (*hugolib.pageState page-907) =>
+Direct dependencies of "/writings" (*hugolib.pageState page-934) =>
+INFO  build:  step assemble substep gc dynacache duration 510.437µs
+INFO  build:  step assemble substep resolve content adapter change set changes 3 checked 3 matches 0 duration 10.564µs
+INFO  build:  step assemble substep resolve page output change set changes 3 checked 9025 matches 123 duration 10.506498ms
+INFO  build:  step assemble duration 12.780428ms
+INFO  build:  step render substep pages site en outputFormat html duration 150.618077ms
+INFO  build:  step render substep pages site en outputFormat amp duration 112.746324ms
+WARN  found no layout file for "calendar" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat calendar duration 431.511µs
+INFO  build:  step render substep pages site en outputFormat json duration 661.011µs
+WARN  found no layout file for "manifest" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat manifest duration 261.315µs
+WARN  found no layout file for "pdf" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for layout "home" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat pdf duration 641.567µs
+WARN  found no layout file for "robotstxt" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 226.71µs
+INFO  build:  step render substep pages site en outputFormat rss duration 3.573119ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 108.347825ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 5.439729ms
+INFO  build:  step render pages 132 content 4 duration 384.364232ms
+INFO  build:  step render deferred count 0 duration 4.402µs
+INFO  build:  step postProcess duration 14.296µs
+INFO  build:  duration 406.96847ms
 Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
-Total in 13634 ms
-DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/assets/css/custom.css" WRITE         "/home/thorianvc/.sites/ModnarMusings/assets/css/custom.css"]
+Total in 407 ms
+INFO  livereload: no page to navigate to, force refresh
+DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/content/conversations/00_madhav.md" WRITE         "/home/thorianvc/.sites/ModnarMusings/content/conversations/00_madhav.md"]
 
 Change detected, rebuilding site (#6).
-2025-11-19 12:05:22.571 +0530
-DEBUG cachebuster: Matching "assets/css/custom.css" with source "(postcss|tailwind)\\.config\\.js": no match
-Asset changed /css/custom.css
-DEBUG Direct dependencies of "/css/custom.css" (*paths.Path) =>
-INFO  build:  step process substep gc dynacache duration 2.650531ms
-INFO  build:  step process substep resolve content adapter change set changes 3 checked 3 matches 0 duration 162.763µs
-INFO  build:  step process substep resolve page output change set changes 3 checked 9547 matches 1 duration 625.073795ms
-INFO  build:  step process duration 634.452036ms
-INFO  build:  step assemble duration 1.701µs
-INFO  build:  step render substep pages site en outputFormat html duration 56.894816ms
-INFO  build:  step render substep pages site en outputFormat amp duration 472.103µs
-INFO  build:  step render substep pages site en outputFormat calendar duration 600.431µs
-INFO  build:  step render substep pages site en outputFormat json duration 455.299µs
-INFO  build:  step render substep pages site en outputFormat manifest duration 638.939µs
-INFO  build:  step render substep pages site en outputFormat pdf duration 573.326µs
-INFO  build:  step render substep pages site en outputFormat robotstxt duration 673.947µs
-INFO  build:  step render substep pages site en outputFormat rss duration 1.038027ms
-INFO  build:  step render substep pages site en outputFormat searchindex duration 528.415µs
-INFO  build:  step render substep pages site en outputFormat sitemap duration 885.294µs
-INFO  build:  step render pages 1 content 0 duration 66.576929ms
-INFO  build:  step render deferred count 0 duration 4.301µs
-INFO  build:  step postProcess duration 25.406µs
-INFO  build:  duration 701.38875ms
+2025-12-25 16:56:25.226 +0530
+DEBUG cachebuster: Matching "content/conversations/00_madhav.md" with source "(postcss|tailwind)\\.config\\.js": no match
+Source changed /conversations/00_madhav.md
+DEBUG Direct dependencies of "/conversations/00_madhav" (*hugolib.pageState page-1174) =>
+          /_markup/render-blockquote.html
+INFO  build:  step process substep gc dynacache duration 762.369µs
+INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 14.009µs
+INFO  build:  step process substep resolve page output change set changes 1 checked 3102 matches 120 duration 9.026431ms
+INFO  build:  step process substep collect files 1 files_total 1 pagesources_total 1 resourcesources_total 0 duration 226.301µs
+INFO  build:  step process duration 10.629198ms
+DEBUG Direct dependencies of "/writings" (*hugolib.pageState page-934) =>
+Direct dependencies of "/base" (*hugolib.pageState page-884) =>
+Direct dependencies of "/projects" (*hugolib.pageState page-907) =>
+INFO  build:  step assemble substep gc dynacache duration 736.011µs
+INFO  build:  step assemble substep resolve content adapter change set changes 3 checked 3 matches 0 duration 10.789µs
+INFO  build:  step assemble substep resolve page output change set changes 3 checked 9026 matches 123 duration 12.382307ms
+INFO  build:  step assemble duration 15.214064ms
+INFO  build:  step render substep pages site en outputFormat html duration 217.547983ms
+INFO  build:  step render substep pages site en outputFormat amp duration 89.576033ms
+WARN  found no layout file for "calendar" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat calendar duration 429.134µs
+INFO  build:  step render substep pages site en outputFormat json duration 599.996µs
+WARN  found no layout file for "manifest" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat manifest duration 309.957µs
+WARN  found no layout file for "pdf" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for layout "home" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat pdf duration 596.48µs
+WARN  found no layout file for "robotstxt" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 298.673µs
+INFO  build:  step render substep pages site en outputFormat rss duration 3.381398ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 105.274591ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 5.082224ms
+INFO  build:  step render pages 132 content 4 duration 424.691929ms
+INFO  build:  step render deferred count 0 duration 3.257µs
+INFO  build:  step postProcess duration 12.315µs
+INFO  build:  duration 450.65838ms
 Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
-Total in 703 ms
-DEBUG Received System Events: [CREATE        "/home/thorianvc/.sites/ModnarMusings/layouts/partials/New Text Document.txt" WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/partials/New Text Document.txt"]
+Total in 450 ms
+INFO  livereload: no page to navigate to, force refresh
+DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/content/conversations/00_madhav.md" WRITE         "/home/thorianvc/.sites/ModnarMusings/content/conversations/00_madhav.md"]
 
 Change detected, rebuilding site (#7).
-2025-11-19 12:06:05.570 +0530
-DEBUG cachebuster: Matching "layouts/partials/new text document.txt" with source "(postcss|tailwind)\\.config\\.js": no match
-Template added /partials/new-text-document.txt
-DEBUG Direct dependencies of "__structural_change_add" (identity.StringIdentity) =>
-Direct dependencies of "/partials/new-text-document.txt" (*paths.Path) =>
-INFO  build:  step process substep gc dynacache duration 21.281103ms
-INFO  build:  step process substep resolve content adapter change set changes 2 checked 2 matches 0 duration 38.626µs
-INFO  build:  step process substep resolve page output change set changes 2 checked 6366 matches 0 duration 432.239416ms
-INFO  build:  step process substep rebuild templates duration 87.582313ms
-INFO  build:  step process duration 549.213866ms
-INFO  build:  step assemble duration 1.616µs
-INFO  build:  step render substep pages site en outputFormat html duration 739.03µs
-INFO  build:  step render substep pages site en outputFormat amp duration 479.425µs
-INFO  build:  step render substep pages site en outputFormat calendar duration 737.616µs
-INFO  build:  step render substep pages site en outputFormat json duration 405.209µs
-INFO  build:  step render substep pages site en outputFormat manifest duration 540.817µs
-INFO  build:  step render substep pages site en outputFormat pdf duration 490.836µs
-INFO  build:  step render substep pages site en outputFormat robotstxt duration 581.611µs
-INFO  build:  step render substep pages site en outputFormat rss duration 521.632µs
-INFO  build:  step render substep pages site en outputFormat searchindex duration 426.716µs
-INFO  build:  step render substep pages site en outputFormat sitemap duration 439.035µs
-INFO  build:  step render pages 0 content 0 duration 8.63682ms
-INFO  build:  step render deferred count 0 duration 5.453µs
-INFO  build:  step postProcess duration 29.282µs
-INFO  build:  duration 558.293339ms
+2025-12-25 16:56:43.226 +0530
+DEBUG cachebuster: Matching "content/conversations/00_madhav.md" with source "(postcss|tailwind)\\.config\\.js": no match
+Source changed /conversations/00_madhav.md
+DEBUG Direct dependencies of "/conversations/00_madhav" (*hugolib.pageState page-1175) =>
+          /_markup/render-blockquote.html
+INFO  build:  step process substep gc dynacache duration 1.392405ms
+INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 15.193µs
+INFO  build:  step process substep resolve page output change set changes 1 checked 3102 matches 120 duration 8.310351ms
+INFO  build:  step process substep collect files 1 files_total 1 pagesources_total 1 resourcesources_total 0 duration 198.185µs
+INFO  build:  step process duration 10.640646ms
+DEBUG Direct dependencies of "/projects" (*hugolib.pageState page-907) =>
+Direct dependencies of "/writings" (*hugolib.pageState page-934) =>
+Direct dependencies of "/base" (*hugolib.pageState page-884) =>
+INFO  build:  step assemble substep gc dynacache duration 634.965µs
+INFO  build:  step assemble substep resolve content adapter change set changes 3 checked 3 matches 0 duration 8.777µs
+INFO  build:  step assemble substep resolve page output change set changes 3 checked 9024 matches 123 duration 11.639662ms
+INFO  build:  step assemble duration 14.042199ms
+INFO  build:  step render substep pages site en outputFormat html duration 145.704146ms
+INFO  build:  step render substep pages site en outputFormat amp duration 109.621004ms
+WARN  found no layout file for "calendar" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat calendar duration 342.965µs
+INFO  build:  step render substep pages site en outputFormat json duration 598.932µs
+WARN  found no layout file for "manifest" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat manifest duration 258.519µs
+WARN  found no layout file for "pdf" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for layout "home" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat pdf duration 663.894µs
+WARN  found no layout file for "robotstxt" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 351.355µs
+INFO  build:  step render substep pages site en outputFormat rss duration 3.208977ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 106.27178ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 5.112695ms
+INFO  build:  step render pages 132 content 4 duration 373.412306ms
+INFO  build:  step render deferred count 0 duration 4.083µs
+INFO  build:  step postProcess duration 13.523µs
+INFO  build:  duration 398.220985ms
 Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
-Total in 558 ms
-DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/partials/New Text Document.txt" WRITE         "/home/thorianvc/.sites/ModnarMusings/layouts/partials/New Text Document.txt"]
+Total in 398 ms
+INFO  livereload: no page to navigate to, force refresh
+DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/content/conversations/00_madhav.md" WRITE         "/home/thorianvc/.sites/ModnarMusings/content/conversations/00_madhav.md"]
 
 Change detected, rebuilding site (#8).
-2025-11-19 12:06:10.070 +0530
-DEBUG cachebuster: Matching "layouts/partials/new text document.txt" with source "(postcss|tailwind)\\.config\\.js": no match
-Template added /partials/new-text-document.txt
-DEBUG Direct dependencies of "/partials/new-text-document.txt" (*paths.Path) =>
-INFO  build:  step process substep gc dynacache duration 1.50446ms
-INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 35.299µs
-INFO  build:  step process substep resolve page output change set changes 1 checked 3183 matches 0 duration 131.376033ms
-INFO  build:  step process substep rebuild templates duration 46.82178ms
-INFO  build:  step process duration 180.352227ms
-INFO  build:  step assemble duration 704ns
-INFO  build:  step render substep pages site en outputFormat html duration 284.6µs
-INFO  build:  step render substep pages site en outputFormat amp duration 151.452µs
-INFO  build:  step render substep pages site en outputFormat calendar duration 250.207µs
-INFO  build:  step render substep pages site en outputFormat json duration 116.455µs
-INFO  build:  step render substep pages site en outputFormat manifest duration 270.622µs
-INFO  build:  step render substep pages site en outputFormat pdf duration 136.266µs
-INFO  build:  step render substep pages site en outputFormat robotstxt duration 725.479µs
-INFO  build:  step render substep pages site en outputFormat rss duration 437.762µs
-INFO  build:  step render substep pages site en outputFormat searchindex duration 618.779µs
-INFO  build:  step render substep pages site en outputFormat sitemap duration 416.442µs
-INFO  build:  step render pages 0 content 0 duration 5.087205ms
-INFO  build:  step render deferred count 0 duration 3.017µs
-INFO  build:  step postProcess duration 17.8µs
-INFO  build:  duration 185.677069ms
+2025-12-25 16:58:24.139 +0530
+DEBUG cachebuster: Matching "content/conversations/00_madhav.md" with source "(postcss|tailwind)\\.config\\.js": no match
+Source changed /conversations/00_madhav.md
+DEBUG Direct dependencies of "/conversations/00_madhav" (*hugolib.pageState page-1176) =>
+          /_markup/render-blockquote.html
+INFO  build:  step process substep gc dynacache duration 1.188544ms
+INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 33.885µs
+INFO  build:  step process substep resolve page output change set changes 1 checked 3102 matches 120 duration 15.100793ms
+INFO  build:  step process substep collect files 1 files_total 1 pagesources_total 1 resourcesources_total 0 duration 836.471µs
+INFO  build:  step process duration 18.314992ms
+DEBUG Direct dependencies of "/base" (*hugolib.pageState page-884) =>
+Direct dependencies of "/projects" (*hugolib.pageState page-907) =>
+Direct dependencies of "/writings" (*hugolib.pageState page-934) =>
+INFO  build:  step assemble substep gc dynacache duration 904.955µs
+INFO  build:  step assemble substep resolve content adapter change set changes 3 checked 3 matches 0 duration 13.017µs
+INFO  build:  step assemble substep resolve page output change set changes 3 checked 9025 matches 123 duration 12.756484ms
+INFO  build:  step assemble duration 16.193584ms
+INFO  build:  step render substep pages site en outputFormat html duration 167.436842ms
+INFO  build:  step render substep pages site en outputFormat amp duration 82.145732ms
+WARN  found no layout file for "calendar" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat calendar duration 387.492µs
+INFO  build:  step render substep pages site en outputFormat json duration 908.911µs
+WARN  found no layout file for "manifest" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat manifest duration 261.887µs
+WARN  found no layout file for "pdf" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for layout "home" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat pdf duration 582.569µs
+WARN  found no layout file for "robotstxt" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 219.186µs
+INFO  build:  step render substep pages site en outputFormat rss duration 3.135062ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 103.497719ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 5.0718ms
+INFO  build:  step render pages 132 content 4 duration 364.897265ms
+INFO  build:  step render deferred count 0 duration 3.923µs
+INFO  build:  step postProcess duration 14.824µs
+INFO  build:  duration 399.566605ms
 Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
-Total in 186 ms
-DEBUG Received System Events: [RENAME        "/home/thorianvc/.sites/ModnarMusings/layouts/partials/New Text Document.txt" CREATE        "/home/thorianvc/.sites/ModnarMusings/layouts/partials/head.html" ← "/home/thorianvc/.sites/ModnarMusings/layouts/partials/New Text Document.txt"]
+Total in 399 ms
+INFO  livereload: no page to navigate to, force refresh
+DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/content/trading~00/analysis/fundamental/earnings & reports.md" WRITE         "/home/thorianvc/.sites/ModnarMusings/content/trading~00/analysis/fundamental/earnings & reports.md"]
 
 Change detected, rebuilding site (#9).
-2025-11-19 12:06:19.569 +0530
-DEBUG cachebuster: Matching "layouts/partials/head.html" with source "(postcss|tailwind)\\.config\\.js": no match
-DEBUG cachebuster: Matching "layouts/partials/new text document.txt" with source "(postcss|tailwind)\\.config\\.js": no match
-Template added /partials/new-text-document.txt
-Template added /partials/head.html
-DEBUG Direct dependencies of "__structural_change_remove" (identity.StringIdentity) =>
-Direct dependencies of "/partials/new-text-document.txt" (*paths.Path) =>
-Direct dependencies of "/partials/head.html" (*paths.Path) =>
-Direct dependencies of "__structural_change_add" (identity.StringIdentity) =>
-INFO  build:  step process substep gc dynacache duration 3.23911ms
-INFO  build:  step process substep resolve content adapter change set changes 4 checked 4 matches 0 duration 43.448µs
-INFO  build:  step process substep resolve page output change set changes 4 checked 12732 matches 0 duration 561.076662ms
-INFO  build:  step process substep rebuild templates duration 51.655047ms
-INFO  build:  step process duration 616.668698ms
-INFO  build:  step assemble duration 788ns
-INFO  build:  step render substep pages site en outputFormat html duration 371.445µs
-INFO  build:  step render substep pages site en outputFormat amp duration 226.944µs
-INFO  build:  step render substep pages site en outputFormat calendar duration 320.126µs
-INFO  build:  step render substep pages site en outputFormat json duration 282.992µs
-INFO  build:  step render substep pages site en outputFormat manifest duration 421.68µs
-INFO  build:  step render substep pages site en outputFormat pdf duration 405.526µs
-INFO  build:  step render substep pages site en outputFormat robotstxt duration 387.205µs
-INFO  build:  step render substep pages site en outputFormat rss duration 394.592µs
-INFO  build:  step render substep pages site en outputFormat searchindex duration 539.881µs
-INFO  build:  step render substep pages site en outputFormat sitemap duration 442.266µs
-INFO  build:  step render pages 0 content 0 duration 6.097564ms
-INFO  build:  step render deferred count 0 duration 3.054µs
-INFO  build:  step postProcess duration 15.366µs
-INFO  build:  duration 622.980512ms
+2025-12-25 17:00:06.644 +0530
+DEBUG cachebuster: Matching "content/trading~00/analysis/fundamental/earnings & reports.md" with source "(postcss|tailwind)\\.config\\.js": no match
+Source changed /trading~00/analysis/fundamental/earnings-&-reports.md
+DEBUG Direct dependencies of "/trading~00/analysis/fundamental/earnings-&-reports" (*hugolib.pageState page-1129) =>
+INFO  build:  step process substep gc dynacache duration 745.964µs
+INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 8.451µs
+INFO  build:  step process substep resolve page output change set changes 1 checked 3102 matches 18 duration 20.529662ms
+INFO  build:  step process substep collect files 1 files_total 1 pagesources_total 1 resourcesources_total 0 duration 582.556µs
+INFO  build:  step process duration 22.52547ms
+DEBUG Direct dependencies of "/base" (*hugolib.pageState page-884) =>
+Direct dependencies of "/projects" (*hugolib.pageState page-907) =>
+Direct dependencies of "/writings" (*hugolib.pageState page-934) =>
+INFO  build:  step assemble substep gc dynacache duration 473.459µs
+INFO  build:  step assemble substep resolve content adapter change set changes 3 checked 3 matches 0 duration 8.482µs
+INFO  build:  step assemble substep resolve page output change set changes 3 checked 9025 matches 123 duration 10.449273ms
+INFO  build:  step assemble duration 12.654161ms
+INFO  build:  step render substep pages site en outputFormat html duration 177.22503ms
+INFO  build:  step render substep pages site en outputFormat amp duration 107.61872ms
+WARN  found no layout file for "calendar" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat calendar duration 433.03µs
+INFO  build:  step render substep pages site en outputFormat json duration 979.556µs
+WARN  found no layout file for "manifest" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat manifest duration 249.555µs
+WARN  found no layout file for "pdf" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for layout "home" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat pdf duration 518.888µs
+WARN  found no layout file for "robotstxt" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 253.686µs
+INFO  build:  step render substep pages site en outputFormat rss duration 3.228438ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 105.440036ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 5.038557ms
+INFO  build:  step render pages 132 content 4 duration 402.240768ms
+INFO  build:  step render deferred count 0 duration 3.997µs
+INFO  build:  step postProcess duration 12.766µs
+INFO  build:  duration 437.544387ms
 Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
-Total in 623 ms
+Total in 437 ms
+INFO  livereload: no page to navigate to, force refresh
+DEBUG Received System Events: [WRITE         "/home/thorianvc/.sites/ModnarMusings/content/trading~00/analysis/fundamental/earnings & reports.md" WRITE         "/home/thorianvc/.sites/ModnarMusings/content/trading~00/analysis/fundamental/earnings & reports.md"]
+
+Change detected, rebuilding site (#10).
+2025-12-25 17:01:04.908 +0530
+DEBUG cachebuster: Matching "content/trading~00/analysis/fundamental/earnings & reports.md" with source "(postcss|tailwind)\\.config\\.js": no match
+Source changed /trading~00/analysis/fundamental/earnings-&-reports.md
+DEBUG Direct dependencies of "/trading~00/analysis/fundamental/earnings-&-reports" (*hugolib.pageState page-1178) =>
+INFO  build:  step process substep gc dynacache duration 1.369271ms
+INFO  build:  step process substep resolve content adapter change set changes 1 checked 1 matches 0 duration 28.27µs
+INFO  build:  step process substep resolve page output change set changes 1 checked 3102 matches 18 duration 31.788056ms
+INFO  build:  step process substep collect files 1 files_total 1 pagesources_total 1 resourcesources_total 0 duration 645.748µs
+INFO  build:  step process duration 34.597337ms
+DEBUG Direct dependencies of "/base" (*hugolib.pageState page-884) =>
+Direct dependencies of "/projects" (*hugolib.pageState page-907) =>
+Direct dependencies of "/writings" (*hugolib.pageState page-934) =>
+INFO  build:  step assemble substep gc dynacache duration 546.994µs
+INFO  build:  step assemble substep resolve content adapter change set changes 3 checked 3 matches 0 duration 11.198µs
+INFO  build:  step assemble substep resolve page output change set changes 3 checked 9025 matches 123 duration 10.563074ms
+INFO  build:  step assemble duration 13.065564ms
+INFO  build:  step render substep pages site en outputFormat html duration 190.018774ms
+INFO  build:  step render substep pages site en outputFormat amp duration 84.411793ms
+WARN  found no layout file for "calendar" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat calendar duration 424.806µs
+INFO  build:  step render substep pages site en outputFormat json duration 657.401µs
+WARN  found no layout file for "manifest" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat manifest duration 269.036µs
+WARN  found no layout file for "pdf" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "pdf" for layout "home" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat pdf duration 669.182µs
+WARN  found no layout file for "robotstxt" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+INFO  build:  step render substep pages site en outputFormat robotstxt duration 259.775µs
+INFO  build:  step render substep pages site en outputFormat rss duration 3.428998ms
+INFO  build:  step render substep pages site en outputFormat searchindex duration 104.815893ms
+INFO  build:  step render substep pages site en outputFormat sitemap duration 5.338651ms
+INFO  build:  step render pages 132 content 4 duration 391.690952ms
+INFO  build:  step render deferred count 0 duration 3.896µs
+INFO  build:  step postProcess duration 13.497µs
+INFO  build:  duration 439.481726ms
+Web Server is available at http://localhost:1313/ModnarMusings/ (bind address 127.0.0.1)
+Total in 439 ms
+INFO  livereload: no page to navigate to, force refresh
