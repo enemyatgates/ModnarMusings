@@ -3,7 +3,6 @@ title: "The Narrator: Anatomy of the Confessor"
 subtitle: "The Man Who Spoke So That Silence Wouldn’t Win"
 date: 2025-11-10
 draft: false
-type: "page"
 summary: "The Narrator is not a hero, not a prophet, not even a believer. He is the unholy confessor of the age of disbelief — the one who dares to talk back to God, even if God no longer answers."
 description: "An unflinching profile of the narrator in 'Conversations with Madhav' — the human voice that argues with silence, smokes with God, and keeps speaking after meaning has died."
 weight: 3

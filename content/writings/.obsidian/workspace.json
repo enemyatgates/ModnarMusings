@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "64f75df8ae224c35",
+    "id": "4111f72dbaaaef98",
     "type": "split",
     "children": [
       {
-        "id": "4c6f4dd013e43f99",
+        "id": "f872905756ff41d7",
         "type": "tabs",
         "children": [
           {
-            "id": "a37c21595d23567e",
+            "id": "7e3afba23434314b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-10-01-essay-on-loneliness.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-10-01-essay-on-loneliness"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bc780dbfae85ab28",
+    "id": "c0277723adbad0a3",
     "type": "split",
     "children": [
       {
-        "id": "0fb7a2ffa0a0881a",
+        "id": "3e165ae29c151237",
         "type": "tabs",
         "children": [
           {
-            "id": "8176268a915ef086",
+            "id": "199f326a267136c0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "0f1bb9ca4d46c27d",
+            "id": "aea87c8e1cecc195",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "83aa2003e2c56d87",
+            "id": "6db1f8160b2929e4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "5d56b3dc661fc7b7",
+    "id": "34d59c82bfdc6bfb",
     "type": "split",
     "children": [
       {
-        "id": "2fcd60c05afe4a6d",
+        "id": "36ee9ef4f1e620b7",
         "type": "tabs",
         "children": [
           {
-            "id": "2b95d2447803868d",
+            "id": "72ae38e2bd06abe5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Master Index"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "7d72ea9707b58c99",
+            "id": "e37cddb2a55cf51e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Master Index"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "9dd4806ab185d9a5",
+            "id": "49a4698c1d42dc37",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,18 +135,31 @@
             }
           },
           {
-            "id": "cf9f059888874b95",
+            "id": "e2e1737bae8e710f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a92d5f36c817c50b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Master Index"
+              "title": "Outline"
             }
           }
         ]
@@ -156,42 +171,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "a37c21595d23567e",
+  "active": "7e3afba23434314b",
   "lastOpenFiles": [
-    "institutional behaviour/broker conflict models.md",
-    "institutional behaviour/Broker Conflict Models.md",
-    "institutional behaviour/dark pools.md",
-    "institutional behaviour/broker conflict modelsa.md",
-    "strategies/_index (conflict_on_2025-11-08).md",
-    "risk and psychology/_index (conflict_on_2025-11-08).md",
-    "regulation and infrastructure/_index (conflict_on_2025-11-08).md",
-    "market structure/_index (conflict_on_2025-11-08).md",
-    "institutional behaviour/_index.md",
-    "institutional behaviour/_index (conflict_on_2025-11-08).md",
-    "execution/_index.md",
-    "asset classes/_index.md",
-    "execution/_index (conflict_on_2025-11-08).md",
-    "edge and misc/_index (conflict_on_2025-11-08).md",
-    "asset classes/derivatives/_index (conflict_on_2025-11-08).md",
-    "asset classes/_index (conflict_on_2025-11-08).md",
-    "analysis/technical/_index.md",
-    "analysis/technical/_index (conflict_on_2025-11-08).md",
-    "master.md",
-    "the game.md",
-    "readme.md",
-    "analysis/fundamental/_index.md",
-    "analysis/fundamental/earnings & reports.md",
-    "Risk and Psychology/Risk Management.md",
-    "Asset Classes/ETP & ETF.md",
-    "Master.md"
+    "_index.md",
+    "2025-10-01-essay-on-loneliness.md"
   ]
 }

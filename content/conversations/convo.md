@@ -1,12 +1,14 @@
 ---
-title: "Conversations with Madhav"
+title: "Conversations with Madhav Repeat"
+---
+
 subtitle: "The Silent Dialogues Between Man and God, Between Madness and Meaning"
-date: 2025-11-10
-draft: false
-type: "section"
+date: "2025-11-10"
 summary: "An ongoing poetic-philosophical dialogue between the narrator and Madhav — the silent observer, the divine trickster, the reflection of self."
 description: "‘Conversations with Madhav’ is a series of poetic monologues, dialogues, and reflections where the narrator confronts God, absence, memory, morality, and madness. It is both prayer and profanity — a sacred theatre of questions that refuse to die."
 weight: 1
+tags: ["fucker","fucking"]
+
 ---
 
 ## **Introduction**

@@ -3,7 +3,6 @@ title: "Madhav: A Pragmatic and Profane Profile"
 subtitle: "The God Who Refused to Behave"
 date: 2025-11-10
 draft: false
-type: "section"
 summary: "An unholy anatomy of Madhav — not as deity, but as idea; not as saviour, but as witness. The divine stripped of its costume, standing naked in the ruins of belief."
 description: "Madhav is the contradiction that sustains consciousness — the divine intelligence that mocks devotion, the silence that dismantles prayer. He is not to be worshipped, only to be recognised."
 weight: 2
@@ -11,8 +10,7 @@ weight: 2
 
 ## **Who Is Madhav?**
 
-Madhav is not a god.  He is my man.
-
+Madhav is not a god.  
 He is what remains when gods have been buried under centuries of superstition and sentimental rot.  
 He is not the deity who demands your devotion; he is the witness who refuses your delusion.  
 

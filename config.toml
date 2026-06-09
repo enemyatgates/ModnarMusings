@@ -1,121 +1,33 @@
 baseURL = "/"
-
 title = "Modnar Musings"
 theme = "HugoRelearn"
-
+themesDir = "themes"
 languageCode = "en-us"
 canonifyURLs = true
 relativeURLs = false
-
-[params]
-    custom_CSS = ["css/custom.css"]
-    HideCopyright = false
-    ShowBreadCrumbs = true
-    ShowBreadCrumbsInPost = true
-    ShowCodeCopyButtons = true
-    ShowPostNavLinks = true
-    ShowReadingTime = true
-    ShowShareButtons = true
-    ShowSidebar = true
-    ShowToc = true
-    TocOpen = true
-    dateFormat = "Monday, January 02, 2006 @ 15:04:05 MST"
-    defaultTheme = "auto"
-    disableThemeToggle = false
-    alwaysopen = true
-    showSectionPages = true
-    disableLandingPage = false
-    
-    BookLogo = "images/logo.png"
-    ignoreFiles = [
-        "\\.psd$",           # ignore Photoshop files
-        "\\.bak$",           # ignore backup files
-        "^drafts/",          # ignore a folder named 'drafts' at the root
-        "^_archive/",        # ignore '_archive' folder
-        "node_modules/",     # ignore node_modules
-        "\\.DS_Store"        # ignore macOS metadata
-        ]
-
-[menu]
-    [[menu.main]]
-        name = "Home"
-        url = "/"
-        weight = 1
-
-    [[menu.main]]
-        name = "Blog"
-        url = "/blog/"
-        weight = 2
-
-    [[menu.main]]
-        name = "About"
-        url = "/about/"
-        weight = 3
-
-    [[menu.main]]
-        name = "Posts"
-        url = "/posts/"
-        weight = 4
 
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
             unsafe = true
 
-#[params.homeInfoParams]
-#  Title = "Welcome to Modnar Musings"
-#  Content = "We build elegant, open-source digital experiences. Explore our writing, projects, and ideas."
+[menu]
+  [[menu.addendum]]
+    identifier = 'addendum-top'
+    name = 'A Menu Title for the Whole Menu'
 
-# -------------------------------------------------------------------
-# Global Outputs Configuration
-# Applies across all content kinds in the Hugo build
-# -------------------------------------------------------------------
+  [[menu.addendum]]
+    name = 'A Menu Entry Title for Child 1'
+    parent = 'addendum-top'
+    url = 'https://example.com/1'
+    weight = 1
 
-[outputs]
-    home    = ["HTML", "RSS", "JSON", "AMP", "Calendar", "RobotsTXT", "Sitemap", "PDF", "SearchIndex", "Manifest"]
-    section = ["HTML", "RSS", "JSON", "AMP", "PDF", "SearchIndex"]
-    taxonomy = ["HTML", "RSS", "JSON", "SearchIndex"]
-    term     = ["HTML", "RSS", "JSON"]
-    page     = ["HTML", "JSON", "AMP", "PDF"]
+  [[menu.addendum]]
+    name = 'A Menu Entry Title for Child 2'
+    parent = 'addendum-top'
+    url = 'https://example.com/2'
+    weight = 2
 
-    # -------------------------------------------------------------------
-    # Custom Output Formats (define any that aren’t built-in)
-    # -------------------------------------------------------------------
-
-    [outputFormats.PDF]
-        mediaType     = "application/pdf"
-        baseName      = "document"
-        isPlainText   = false
-        notAlternative = true
-        rel            = "alternate"
-
-    [outputFormats.SearchIndex]
-        mediaType     = "application/json"
-        baseName      = "search"
-        isPlainText   = true
-        notAlternative = true
-
-    [outputFormats.Manifest]
-        mediaType     = "application/manifest+json"
-        baseName      = "manifest"
-        isPlainText   = true
-        notAlternative = true
-
-    # Optional (ensure these are defined if missing in your theme)
-    [outputFormats.AMP]
-        mediaType     = "text/html"
-        baseName      = "amp"
-        isPlainText   = false
-        rel           = "amphtml"
-
-    [outputFormats.Calendar]
-        mediaType     = "text/calendar"
-        baseName      = "calendar"
-        isPlainText   = true
-        notAlternative = true
-
-    [outputFormats.RobotsTXT]
-        mediaType = "text/plain"
-        baseName  = "robots"
-        isPlainText = true
-        notAlternative = true
+[params]
+  disableLandingPageButton = false
+  landingPageName = '<i class="fa-fw fas fa-anchor"></i> Fucker'

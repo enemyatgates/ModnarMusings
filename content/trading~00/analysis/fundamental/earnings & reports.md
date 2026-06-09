@@ -1,9 +1,3 @@
----
-title: Earnings & Reports
-date: 2021-01-09
-type: section
----
-
 Earnings season is where all the real movement happens in stocks. Every publicly traded company is required to report its financial performance quarterly — that means 4 times a year.
 
 You want volatility? This is where it is.
