@@ -1,2 +1,0 @@
-# 02 Small Arms
-

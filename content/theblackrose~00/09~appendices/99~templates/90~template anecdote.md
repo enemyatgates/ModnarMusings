@@ -1,2 +1,0 @@
-# Anecdote Template
-
