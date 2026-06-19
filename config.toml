@@ -30,4 +30,4 @@ relativeURLs = false
 
 [params]
   disableLandingPageButton = false
-  landingPageName = '<i class="fa-fw fas fa-anchor"></i> Fucker'
+  landingPageName = '<i class="fa-fw fas fa-anchor"></i>'
